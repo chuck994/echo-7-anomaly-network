@@ -67,23 +67,35 @@
       "location": "Pacific Ocean, off Southern California",
       "category": "military",
       "summary": "Navy aviators described an unusual white object during carrier-group training in November 2004. Cmdr. David Fravor has publicly described his encounter.",
-      "notes": "Fravor described an object with unusual appearance and movement. Other accounts refer to radar observations and a later encounter; details differ by witness and sensor.\nThe Pentagon acknowledged the released Navy video was authentic Navy material in 2020. That does not confirm every interpretation; full sensor records are not all public.\nMap each witness to the flight and observation they describe.\nSeparate direct visual observation from radar reports and later retellings.\nWhat can the released video establish, and what requires unavailable telemetry?",
+      "notes": "Evidence assessment (updated 2026-10-22)\nWhat is firmly documented: U.S. Navy personnel reported an encounter during the November 2004 carrier-group workups; David Fravor has publicly described a direct visual encounter. The Department of Defense later confirmed that the publicly released Navy videos were authentic Navy footage. Video authenticity establishes provenance, not the object's identity or extraordinary performance.\nWitness and sensor separation: Fravor's account is firsthand for what he says he saw. Accounts of radar tracks, other aircrew observations, and the later aircraft encounter involve different people, instruments, and moments; they should not be merged into one omniscient narrative. Record the source and chain of retelling for each claim.\nStrongest unresolved questions: the full radar data, raw sensor telemetry, complete flight records, and contemporaneous logs have not all been made publicly available in a form that lets independent researchers reproduce a complete reconstruction. Without those data, exact speed, acceleration, altitude, and movement claims cannot be independently verified from the short public clip alone.\nCompeting explanations: sensor artifacts or misinterpretation; an ordinary or classified object observed under unusual conditions; multiple events conflated in later retellings; or an event that remains unidentified because evidence is incomplete. These are hypotheses, not settled answers. A genuinely anomalous explanation would require robust, calibrated multi-sensor data and independent analysis that rules out mundane possibilities.\nResearch protocol: build a witness-by-witness timeline; separate direct observation from reported radar data; preserve exact wording and date of each interview; compare the original DoD release with the 2023 House hearing record; seek original flight/radar records and documented chain of custody. Do not treat a missing public record as proof of concealment.",
       "sources": [
         {
-          "title": "DoD video statement",
-          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+          "title": "DoD statement and released Navy videos",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/",
+          "publisher": "U.S. Department of Defense",
+          "sourceType": "official release"
         },
         {
-          "title": "House Oversight UAP hearing",
-          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena/"
+          "title": "House Oversight hearing: July 26, 2023 (witness statements and hearing)",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+          "publisher": "U.S. House Committee on Oversight and Accountability",
+          "sourceType": "official hearing"
         },
         {
-          "title": "Reddit: Nimitz firsthand accounts",
-          "url": "https://www.reddit.com/r/UFOs/search/?q=Nimitz%20Fravor&restrict_sr=1"
+          "title": "House committee event archive and witness statements",
+          "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282",
+          "publisher": "U.S. House of Representatives",
+          "sourceType": "official document index"
+        },
+        {
+          "title": "ODNI 2021 preliminary assessment on UAP",
+          "url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021",
+          "publisher": "Office of the Director of National Intelligence",
+          "sourceType": "official report index"
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment",
+      "evidenceStatus": "documented report; object identity unresolved",
       "relatedIds": [
         "source-house-uap-hearing-2023",
         "source-aaro-imagery-library",
@@ -237,23 +249,35 @@
       "location": "U.S. House Oversight hearing",
       "category": "whistleblower",
       "summary": "Former intelligence official David Grusch testified in July 2023 about his efforts to investigate UAP and allegations of hidden crash-retrieval and reverse-engineering programs.",
-      "notes": "Grusch alleged a legacy program and non-human material. He distinguished some information he personally reviewed from information provided by others.\nThe hearing and written statement are public. Testimony documents what a witness asserted under oath; individual underlying claims need their own corroborating records.\nRead the written statement and hearing transcript together.\nMark which claims are based on his own actions and which were relayed.\nFollow named program and document leads without assuming they prove the full allegation.",
+      "notes": "Evidence assessment (updated 2026-10-22)\nWhat is directly documented: Grusch gave public testimony to a U.S. House subcommittee on July 26, 2023, and submitted a written statement. The official hearing page and House event archive preserve the hearing and witness materials. His testimony is evidence that he made these statements under oath; it is not, by itself, independent proof that every underlying allegation is true.\nFirsthand versus secondhand: separate his own professional actions, the records he says he reviewed, and information he says other people provided. A claim can be sincerely reported and still remain unverified if the underlying documents, materials, named witnesses, or chain of custody are not independently available. Keep each claim attached to its exact source and level of direct knowledge.\nCorroboration required: locate the actual records, program authorization and budget trails, named custodians, independent firsthand witnesses, and any physical material with documented provenance and repeatable analysis. Congressional testimony, inspector-general processes, and the existence of classified channels are not substitutes for public corroboration of the central extraordinary claims.\nCounterevidence and uncertainty: AARO's 2024 historical-record review reported that it found no verifiable evidence that U.S. government investigations confirmed extraterrestrial technology; this is an official institutional conclusion, not a logically final proof that no such evidence could exist. Evaluate the report's scope and methods alongside primary records and testimony. Distinguish criticism of an investigation from positive evidence for the alternative claim.\nCompeting hypotheses: accurate account of a concealed program; mistaken or overinterpreted information passed through multiple people; misidentification of conventional classified programs or materials; or a mixture of claims with different reliability. Do not collapse all possibilities into a binary choice.\nNext steps: read the full hearing video/transcript and Grusch's written statement; extract each testable assertion into a separate claim record; mark direct knowledge, hearsay, documents cited, independent corroboration, and what would falsify it. Do not label a named program or alleged recovered material as established without independently verifiable evidence.",
       "sources": [
         {
-          "title": "House Oversight hearing",
-          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena/"
+          "title": "Official House Oversight hearing page (July 26, 2023)",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+          "publisher": "U.S. House Committee on Oversight and Accountability",
+          "sourceType": "official hearing"
         },
         {
-          "title": "Congress.gov hearing search",
-          "url": "https://www.congress.gov/search?q=%7B%22search%22%3A%22David%20Grusch%22%7D"
+          "title": "Official House event archive and witness statements",
+          "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282",
+          "publisher": "U.S. House of Representatives",
+          "sourceType": "official document index"
         },
         {
-          "title": "Reddit: Grusch testimony",
-          "url": "https://www.reddit.com/r/UFOs/search/?q=David%20Grusch%20testimony&restrict_sr=1"
+          "title": "Grusch written statement (original PDF linked by source archive)",
+          "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
+          "publisher": "U.S. House Committee on Oversight and Accountability",
+          "sourceType": "witness statement"
+        },
+        {
+          "title": "AARO Historical Record Report, Volume I (official PDF)",
+          "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/HRR-VOL-I-REPORT-08-MARCH-2024.PDF",
+          "publisher": "All-domain Anomaly Resolution Office / Department of Defense",
+          "sourceType": "official historical review"
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment",
+      "evidenceStatus": "sworn testimony documents allegations; underlying claims not independently established",
       "relatedIds": [
         "source-house-uap-hearing-2023"
       ]
