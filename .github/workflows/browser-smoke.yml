@@ -6,6 +6,7 @@ on:
       - 'index.html'
       - 'data/records.json'
       - 'tests/**'
+      - 'playwright.config.js'
       - '.github/workflows/browser-smoke.yml'
   pull_request:
     paths:
