@@ -2,7 +2,7 @@
   "schema": "echo7-records-v1",
   "generatedAt": "2026-10-22",
   "description": "Curated ECHO-7 starter index. Not a complete mirror of external websites. Source links and evidence status are retained per record.",
-  "recordCount": 98,
+  "recordCount": 101,
   "records": [
     {
       "id": "case-arnold",
@@ -99,7 +99,8 @@
       "relatedIds": [
         "source-house-uap-hearing-2023",
         "source-aaro-imagery-library",
-        "source-odni-2021-uap-assessment"
+        "source-odni-2021-uap-assessment",
+        "claim-nimitz-video-authenticity"
       ]
     },
     {
@@ -168,7 +169,8 @@
       "provenance": "ECHO-7 curated case index",
       "evidenceStatus": "reported / requires case-specific assessment",
       "relatedIds": [
-        "source-aaro-imagery-library"
+        "source-aaro-imagery-library",
+        "claim-unidentified-does-not-mean-extraterrestrial"
       ]
     },
     {
@@ -279,7 +281,8 @@
       "provenance": "ECHO-7 curated case index",
       "evidenceStatus": "sworn testimony documents allegations; underlying claims not independently established",
       "relatedIds": [
-        "source-house-uap-hearing-2023"
+        "source-house-uap-hearing-2023",
+        "claim-grusch-hearsay-distinction"
       ]
     },
     {
@@ -2015,6 +2018,85 @@
         "person-1",
         "timeline-19",
         "source-house-uap-hearing-2023"
+      ]
+    },
+    {
+      "id": "claim-nimitz-video-authenticity",
+      "kind": "claim",
+      "year": 2020,
+      "title": "Nimitz case: authenticity of the released Navy video",
+      "location": "United States Navy; public release",
+      "category": "provenance",
+      "summary": "The Department of Defense confirmed that the released Navy videos were authentic Navy footage. This establishes provenance of the recordings, not the identity, origin, or performance of the objects depicted.",
+      "notes": "Testable proposition: the released clips are authentic Navy recordings. Do not extend that conclusion to claims about extraterrestrial origin, extraordinary acceleration, or every event described in later retellings. Review the DoD release and distinguish the FLIR clip from other incidents and sensor records.",
+      "sources": [
+        {
+          "title": "DoD statement on Navy UAP videos",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/",
+          "publisher": "U.S. Department of Defense",
+          "sourceType": "official release"
+        }
+      ],
+      "provenance": "Official public statement about the released recordings.",
+      "evidenceStatus": "officially confirmed video provenance; object identity unresolved",
+      "relatedIds": [
+        "case-nimitz",
+        "source-odni-2021-uap-assessment"
+      ]
+    },
+    {
+      "id": "claim-grusch-hearsay-distinction",
+      "kind": "claim",
+      "year": 2023,
+      "title": "Grusch testimony: firsthand actions versus relayed allegations",
+      "location": "United States Congress",
+      "category": "testimony",
+      "summary": "David Grusch testified under oath in 2023 about alleged crash-retrieval and reverse-engineering programs. The evidentiary status of each allegation depends on whether it reflects his direct actions, documents he personally reviewed, or information supplied by other people.",
+      "notes": "Do not label all testimony simply as either firsthand or hearsay. Break it into individual propositions and record the basis Grusch gave for each. The hearing is a primary source for what he testified; it is not automatically independent verification of the underlying allegations. Seek the records, custodians, and witnesses needed to corroborate each claim.",
+      "sources": [
+        {
+          "title": "Official House Oversight hearing and witness materials",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+          "publisher": "U.S. House Committee on Oversight and Accountability",
+          "sourceType": "official hearing"
+        }
+      ],
+      "provenance": "Based on public congressional testimony; individual underlying claims require separate corroboration.",
+      "evidenceStatus": "testimony documented; underlying allegations not independently established",
+      "relatedIds": [
+        "case-grusch",
+        "source-house-uap-hearing-2023-transcript"
+      ]
+    },
+    {
+      "id": "claim-unidentified-does-not-mean-extraterrestrial",
+      "kind": "claim",
+      "year": 2024,
+      "title": "An unidentified report does not establish extraterrestrial origin",
+      "location": "General evidentiary principle",
+      "category": "methodology",
+      "summary": "A case can remain unidentified because available data are insufficient, ambiguous, or unavailable. That status alone does not establish that an object is non-human or extraterrestrial.",
+      "notes": "Apply this distinction consistently across videos, pilot reports, radar cases, and historical allegations. An unresolved label describes the limits of the current identification; it is not a positive identification. Stronger conclusions require discriminating evidence that rules out plausible conventional explanations.",
+      "sources": [
+        {
+          "title": "AARO Historical Record Report, Volume I",
+          "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/HRR-VOL-I-REPORT-08-MARCH-2024.PDF",
+          "publisher": "All-domain Anomaly Resolution Office / Department of Defense",
+          "sourceType": "official historical review"
+        },
+        {
+          "title": "ODNI 2021 preliminary assessment on UAP",
+          "url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021",
+          "publisher": "Office of the Director of National Intelligence",
+          "sourceType": "official report index"
+        }
+      ],
+      "provenance": "Methodological summary consistent with the distinction between unknown identification and established origin.",
+      "evidenceStatus": "methodological standard",
+      "relatedIds": [
+        "case-nimitz",
+        "case-grusch",
+        "case-gimbal"
       ]
     }
   ]
