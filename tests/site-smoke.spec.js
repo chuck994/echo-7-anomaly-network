@@ -4,7 +4,9 @@ test.beforeEach(async ({ page }) => {
   await page.goto('/');
   await expect(page.locator('#case-count')).not.toHaveText('—');
   await expect(page.locator('#case-count')).not.toHaveText('0');
-  await expect(page.locator('#results .record').first()).toBeVisible();
+  // The archive results live inside #pageview, which is intentionally hidden on the desk.
+  // Assert the records were rendered without requiring a hidden element to be visible.
+  await expect(page.locator('#results .record').first()).toHaveCount(1);
 });
 
 test('all twelve desk notes open their matching archive view', async ({ page }) => {
