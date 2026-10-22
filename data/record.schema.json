@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chuck994.github.io/echo-7-anomaly-network/data/record.schema.json",
+  "title": "ECHO-7 Research Record",
+  "description": "One attributed, uncertainty-aware record in the ECHO-7 research catalogue.",
+  "type": "object",
+  "required": [
+    "id",
+    "kind",
+    "year",
+    "title",
+    "location",
+    "category",
+    "summary",
+    "notes",
+    "sources",
+    "provenance",
+    "evidenceStatus"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Stable unique identifier."
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "case",
+        "timeline",
+        "person",
+        "program",
+        "claim",
+        "source",
+        "community",
+        "document",
+        "report",
+        "media",
+        "custom"
+      ]
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 2100,
+      "description": "Use 0 when no reliable year is assigned; do not guess."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 240
+    },
+    "location": {
+      "type": "string",
+      "maxLength": 240
+    },
+    "category": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "summary": {
+      "type": "string",
+      "maxLength": 12000
+    },
+    "notes": {
+      "type": "string",
+      "maxLength": 12000,
+      "description": "Context, uncertainties, counter-evidence, and next research steps."
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "title",
+          "url"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "publishedAt": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "accessedAt": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "sourceType": {
+            "type": "string",
+            "enum": [
+              "primary_document",
+              "official_statement",
+              "firsthand_testimony",
+              "journalism",
+              "academic",
+              "research_archive",
+              "community_post",
+              "video_or_audio",
+              "other"
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "provenance": {
+      "type": "string"
+    },
+    "evidenceStatus": {
+      "type": "string",
+      "description": "Short label describing what kind of record this is; not a truth verdict."
+    },
+    "latitude": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "relatedIds": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "contributorNotes": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}
