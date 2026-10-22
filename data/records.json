@@ -2150,9 +2150,7 @@
       "notes": "True speed estimates require range, aircraft motion, sensor line-of-sight, and relevant environmental data. Parallax and viewing geometry can substantially affect apparent motion. Compare any published calculation by checking its assumptions, uncertainty, and reproducibility against the original footage and metadata. Do not label extraordinary speed as established from the clip alone.",
       "provenance": "ECHO-7 research synthesis; measurement question remains open without full data",
       "evidenceStatus": "speed claim not independently established from public clip alone",
-      "relatedIds": [
-        "case-gofast"
-      ],
+      "relatedIds": [],
       "sources": [
         {
           "title": "DoD statement on released Navy UAP videos",
