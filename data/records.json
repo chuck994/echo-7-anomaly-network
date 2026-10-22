@@ -2,7 +2,7 @@
   "schema": "echo7-records-v1",
   "generatedAt": "2026-10-22",
   "description": "Curated ECHO-7 starter index. Not a complete mirror of external websites. Source links and evidence status are retained per record.",
-  "recordCount": 90,
+  "recordCount": 95,
   "records": [
     {
       "id": "case-arnold",
@@ -54,7 +54,10 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported / requires case-specific assessment",
+      "relatedIds": [
+        "source-aaro-historical-report-2024"
+      ]
     },
     {
       "id": "case-nimitz",
@@ -80,7 +83,12 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported / requires case-specific assessment",
+      "relatedIds": [
+        "source-house-uap-hearing-2023",
+        "source-aaro-imagery-library",
+        "source-odni-2021-uap-assessment"
+      ]
     },
     {
       "id": "case-phoenix",
@@ -146,7 +154,10 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported / requires case-specific assessment",
+      "relatedIds": [
+        "source-aaro-imagery-library"
+      ]
     },
     {
       "id": "case-rendlesham",
@@ -242,7 +253,10 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported / requires case-specific assessment",
+      "relatedIds": [
+        "source-house-uap-hearing-2023"
+      ]
     },
     {
       "id": "case-kona",
@@ -1759,6 +1773,145 @@
       ],
       "provenance": "ECHO-7 South Carolina source index",
       "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "source-odni-2021-uap-assessment",
+      "kind": "source",
+      "year": 2021,
+      "title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+      "location": "United States",
+      "category": "primary_document",
+      "summary": "The Office of the Director of National Intelligence's June 25, 2021 assessment summarizes the UAP Task Force's review of 144 reports, describes limits in available data, and says most reports lacked sufficient information for attribution. The report does not conclude that the reports establish extraterrestrial origin.",
+      "notes": "Use this as a primary source for what the intelligence community publicly assessed in 2021. It is not a complete public release of all underlying sensor data. Read the report's scope, assumptions, and case-by-case caveats before quoting its numbers.",
+      "sources": [
+        {
+          "title": "ODNI official report page",
+          "url": "https://www.odni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena",
+          "publisher": "Office of the Director of National Intelligence",
+          "publishedAt": "2021-06-25",
+          "sourceType": "primary_document"
+        },
+        {
+          "title": "Full unclassified PDF",
+          "url": "https://www.odni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+          "publisher": "ODNI",
+          "publishedAt": "2021-06-25",
+          "sourceType": "primary_document"
+        }
+      ],
+      "provenance": "Added from official ODNI publication pages reviewed for ECHO-7; summary is an original paraphrase.",
+      "evidenceStatus": "official report; documents an assessment, not extraterrestrial attribution",
+      "relatedIds": [
+        "source-odni-2022-uap-report"
+      ]
+    },
+    {
+      "id": "source-odni-2022-uap-report",
+      "kind": "source",
+      "year": 2022,
+      "title": "ODNI 2022 Annual Report on UAP",
+      "location": "United States",
+      "category": "primary_document",
+      "summary": "The annual report describes additional UAP reports and the government's evolving assessment process. It records the existence of reports and analytical limitations; report counts alone do not establish the origin of the observed phenomena.",
+      "notes": "Compare definitions, time windows, and reporting changes with the 2021 preliminary assessment before interpreting trends. Distinguish a reported event from an independently confirmed physical object or a determination of origin.",
+      "sources": [
+        {
+          "title": "Unclassified ODNI annual report PDF",
+          "url": "https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+          "publisher": "Office of the Director of National Intelligence",
+          "sourceType": "primary_document"
+        }
+      ],
+      "provenance": "Added from official ODNI publication; summary is an original paraphrase.",
+      "evidenceStatus": "official report; report counts and classifications are not proof of non-human origin",
+      "relatedIds": [
+        "source-odni-2021-uap-assessment"
+      ]
+    },
+    {
+      "id": "source-house-uap-hearing-2023",
+      "kind": "source",
+      "year": 2023,
+      "title": "House Oversight UAP hearing — July 26, 2023",
+      "location": "Washington, D.C., United States",
+      "category": "official_hearing",
+      "summary": "The House Oversight Committee's official hearing page identifies witnesses Ryan Graves, David Fravor, and David Grusch and provides the official record of the public hearing on UAP, public safety, national security, and government transparency.",
+      "notes": "A hearing record verifies what was submitted or said in a congressional setting. It does not by itself independently verify every witness assertion. Separate direct experience, secondhand claims, exhibits, and corroborating records when using testimony.",
+      "sources": [
+        {
+          "title": "Official House Oversight hearing page",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+          "publisher": "U.S. House Committee on Oversight and Government Reform",
+          "publishedAt": "2023-07-26",
+          "sourceType": "primary_document"
+        }
+      ],
+      "provenance": "Added from the official House committee hearing page.",
+      "evidenceStatus": "official hearing record; statements require claim-by-claim corroboration",
+      "relatedIds": [
+        "case-nimitz",
+        "person-david-grusch"
+      ]
+    },
+    {
+      "id": "source-aaro-historical-report-2024",
+      "kind": "source",
+      "year": 2024,
+      "title": "AARO Historical Record Report, Volume I",
+      "location": "United States",
+      "category": "official_historical_report",
+      "summary": "AARO's historical report describes its review of U.S. government UAP investigations, records, and interviews. It is an important official source for the government's documented historical record and the office's conclusions.",
+      "notes": "Treat this as one institutional assessment, not as a substitute for inspecting the underlying documents it cites. When other witnesses or researchers disagree, document the disagreement and seek the underlying records where accessible.",
+      "sources": [
+        {
+          "title": "AARO Historical Record Report PDF",
+          "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+          "publisher": "All-domain Anomaly Resolution Office",
+          "sourceType": "primary_document"
+        },
+        {
+          "title": "AARO congressional and press products",
+          "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-Congressional-Press-Products/",
+          "publisher": "AARO",
+          "sourceType": "official_statement"
+        }
+      ],
+      "provenance": "Added from AARO's published report and official product index.",
+      "evidenceStatus": "official historical review; evaluate conclusions alongside underlying records",
+      "relatedIds": [
+        "case-roswell",
+        "case-kona-blue"
+      ]
+    },
+    {
+      "id": "source-aaro-imagery-library",
+      "kind": "source",
+      "year": 2026,
+      "title": "AARO Official UAP Imagery Library",
+      "location": "Multiple reported locations",
+      "category": "official_media_archive",
+      "summary": "AARO's public imagery collection includes official descriptions of selected UAP videos and their current assessment status. Some cases are unresolved because available material is insufficient for attribution; unresolved does not mean extraterrestrial.",
+      "notes": "Useful for examining the difference between a recorded object, an unidentified report, and an identified origin. Read each video's description and any released supporting report individually; do not generalize one case's status to another.",
+      "sources": [
+        {
+          "title": "AARO official UAP imagery",
+          "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+          "publisher": "All-domain Anomaly Resolution Office",
+          "sourceType": "primary_document"
+        },
+        {
+          "title": "AARO UAP records and information papers",
+          "url": "https://www.aaro.mil/UAP-Records/-1/",
+          "publisher": "AARO",
+          "sourceType": "research_archive"
+        }
+      ],
+      "provenance": "Added from the official AARO imagery and records pages.",
+      "evidenceStatus": "official media archive; case status varies and must be assessed individually",
+      "relatedIds": [
+        "case-gimbal",
+        "case-nimitz"
+      ]
     }
   ]
 }
