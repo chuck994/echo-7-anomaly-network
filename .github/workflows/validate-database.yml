@@ -1,0 +1,53 @@
+name: Validate ECHO-7 database
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'data/records.json'
+      - '.github/workflows/validate-database.yml'
+  pull_request:
+    paths:
+      - 'index.html'
+      - 'data/records.json'
+      - '.github/workflows/validate-database.yml'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate database JSON and record fields
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const db = JSON.parse(fs.readFileSync('data/records.json', 'utf8'));
+          if (db.schema !== 'echo7-records-v1' || !Array.isArray(db.records)) throw new Error('Unexpected database schema');
+          if (db.recordCount !== db.records.length) throw new Error('recordCount does not match records array');
+          const ids = new Set();
+          for (const [i, r] of db.records.entries()) {
+            for (const field of ['id','kind','title','summary','notes','sources']) {
+              if (!(field in r)) throw new Error('Record '+i+' missing '+field);
+            }
+            if (ids.has(r.id)) throw new Error('Duplicate record id: '+r.id);
+            ids.add(r.id);
+            if (!Array.isArray(r.sources)) throw new Error('sources must be an array on '+r.id);
+            for (const s of r.sources) {
+              if (s.url && !/^https?:\\/\\//i.test(s.url)) throw new Error('Invalid source URL on '+r.id+': '+s.url);
+            }
+          }
+          console.log('Validated '+db.records.length+' records across '+new Set(db.records.map(r=>r.kind)).size+' record types.');
+          NODE
+      - name: Validate inline JavaScript syntax
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const html = fs.readFileSync('index.html', 'utf8');
+          const scripts = [...html.matchAll(/<script>([\\s\\S]*?)<\\/script>/g)];
+          if (!scripts.length) throw new Error('No inline script found');
+          for (const [, source] of scripts) new Function(source);
+          if (!html.includes('id="p-database"')) throw new Error('Database page is missing');
+          console.log('Validated '+scripts.length+' inline script(s).');
+          NODE
