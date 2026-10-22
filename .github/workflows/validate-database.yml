@@ -52,6 +52,7 @@ jobs:
           const scripts = html.split('<script>').slice(1).map(part => part.split('</script>')[0]).filter(Boolean);
           if (!scripts.length) throw new Error('No inline script found');
           for (const source of scripts) new Function(source);
-          if (!html.includes('id="p-database"')) throw new Error('Database page is missing');
+          if (!html.includes('data/records.json')) throw new Error('Archive data loader is missing');
+          if (!html.includes('Archive Index') || !html.includes('Research Lab')) throw new Error('Expected archive navigation entries are missing');
           console.log('Validated '+scripts.length+' inline script(s).');
           NODE
