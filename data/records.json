@@ -2,7 +2,7 @@
   "schema": "echo7-records-v1",
   "generatedAt": "2026-10-22",
   "description": "Curated ECHO-7 starter index. Not a complete mirror of external websites. Source links and evidence status are retained per record.",
-  "recordCount": 95,
+  "recordCount": 96,
   "records": [
     {
       "id": "case-arnold",
@@ -1914,6 +1914,32 @@
       "relatedIds": [
         "case-gimbal",
         "case-nimitz"
+      ]
+    },
+    {
+      "id": "source-aaro-current-publications-index",
+      "kind": "source",
+      "year": 2026,
+      "title": "AARO Congressional and Press Products — Current Official Report Index",
+      "location": "United States",
+      "category": "official_source_catalog",
+      "summary": "AARO's official publication index lists public annual UAP reports, congressional briefings, hearing materials, transcripts, and historical reports. The index currently lists the Fiscal Year 2025 Consolidated Annual Report on Unidentified Anomalous Phenomena, dated July 20, 2026.",
+      "notes": "Use this index as a discovery route to the newest official material, then open and cite the individual report or transcript rather than citing only the index. Government publication confirms what the office reported; it does not by itself settle every underlying incident or claim. For any annual report, record its covered reporting period separately from its publication date.",
+      "sources": [
+        {
+          "title": "AARO Congressional/Press Products — official index",
+          "url": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-Congressional-Press-Products/",
+          "publisher": "All-domain Anomaly Resolution Office",
+          "publishedAt": "2026-07-20",
+          "sourceType": "primary_document"
+        }
+      ],
+      "provenance": "Discovered through the official AARO website search result; indexed as a navigation source because the page lists the FY2025 consolidated annual report.",
+      "evidenceStatus": "official publication index; individual report findings require source-level review",
+      "relatedIds": [
+        "source-aaro-historical-report-2024",
+        "source-aaro-imagery-library",
+        "source-odni-2022-uap-report"
       ]
     }
   ]
