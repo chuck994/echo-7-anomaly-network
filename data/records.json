@@ -2,7 +2,7 @@
   "schema": "echo7-records-v1",
   "generatedAt": "2026-10-22",
   "description": "Curated ECHO-7 starter index. Not a complete mirror of external websites. Source links and evidence status are retained per record.",
-  "recordCount": 96,
+  "recordCount": 98,
   "records": [
     {
       "id": "case-arnold",
@@ -1940,6 +1940,57 @@
         "source-aaro-historical-report-2024",
         "source-aaro-imagery-library",
         "source-odni-2022-uap-report"
+      ]
+    },
+    {
+      "id": "source-aaro-imagery-updates-2025-2026",
+      "kind": "source",
+      "year": 2026,
+      "title": "AARO Official Imagery Updates — 2025–2026",
+      "location": "Multiple reported locations",
+      "category": "official_media_archive",
+      "summary": "AARO's official imagery page lists additional case videos and case-status descriptions. Entries include unresolved reports from Europe in 2022 and 2024, a 2021 report undergoing analysis, and a 2023 report assessed as birds. These examples show why each item's own status and supporting description must be read separately.",
+      "notes": "The page's listing and wording are official descriptions, not a substitute for inspecting each video, its sensor context, and any linked technical analysis. 'Unresolved' means the available evidence has not yielded an attribution in that assessment; it is not evidence by itself of non-human origin. 'Resolved as birds' is a specific case assessment and should not be generalized to other clips.",
+      "sources": [
+        {
+          "title": "AARO official UAP imagery library",
+          "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+          "publisher": "All-domain Anomaly Resolution Office",
+          "sourceType": "primary_document"
+        }
+      ],
+      "provenance": "Indexed from the official AARO UAP imagery page, which lists additions dated December 2025 and January 2026.",
+      "evidenceStatus": "official media archive; status is case-specific",
+      "relatedIds": [
+        "source-aaro-imagery-library",
+        "case-gimbal",
+        "case-nimitz"
+      ]
+    },
+    {
+      "id": "source-house-uap-hearing-2023-transcript",
+      "kind": "source",
+      "year": 2023,
+      "title": "House Oversight UAP Hearing — July 26, 2023",
+      "location": "Washington, D.C., United States",
+      "category": "congressional_hearing",
+      "summary": "The House Oversight hearing page provides the official hearing record for testimony by Ryan Graves, David Fravor, and David Grusch concerning UAP reporting, pilot observations, and allegations about government programs.",
+      "notes": "Use the official hearing page and linked materials to distinguish the witnesses' direct observations from information they say they received from others. A sworn statement is evidence that a witness made the statement under oath; it does not independently establish every factual allegation within it. Record exact quotations and page or timestamp references when building claim-level dossiers.",
+      "sources": [
+        {
+          "title": "House Oversight hearing page and materials",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+          "publisher": "U.S. House Committee on Oversight and Accountability",
+          "sourceType": "primary_document"
+        }
+      ],
+      "provenance": "Official committee hearing page.",
+      "evidenceStatus": "official hearing record; testimony claims require separate corroboration",
+      "relatedIds": [
+        "case-grusch",
+        "person-1",
+        "timeline-19",
+        "source-house-uap-hearing-2023"
       ]
     }
   ]
