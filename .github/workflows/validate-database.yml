@@ -26,10 +26,14 @@ jobs:
           const db = JSON.parse(fs.readFileSync('data/records.json', 'utf8'));
           if (db.schema !== 'echo7-records-v1' || !Array.isArray(db.records)) throw new Error('Unexpected database schema');
           if (db.recordCount !== db.records.length) throw new Error('recordCount does not match records array');
+          const schema = JSON.parse(fs.readFileSync('data/record.schema.json', 'utf8'));
+          if (schema.title !== 'ECHO-7 Research Record') throw new Error('Record schema is missing or invalid');
+          const allowedKinds = new Set(schema.properties.kind.enum);
           const ids = new Set();
           for (const [i, r] of db.records.entries()) {
             for (const field of ['id','kind','title','summary','notes','sources']) {
               if (!(field in r)) throw new Error('Record '+i+' missing '+field);
+              if (field === 'kind' && !allowedKinds.has(r.kind)) throw new Error('Unknown record kind: '+r.kind);
             }
             if (ids.has(r.id)) throw new Error('Duplicate record id: '+r.id);
             ids.add(r.id);
