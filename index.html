@@ -1427,6 +1427,7 @@
     const caseGrid = document.getElementById("caseGrid");
     const caseEmpty = document.getElementById("caseEmpty");
     let caseCards = [];
+    let caseDatabase = [];
 
     function addTextElement(parent, tag, text, className) {
       const element = document.createElement(tag);
@@ -1482,6 +1483,7 @@
         const response = await fetch("./data/cases.json");
         if (!response.ok) throw new Error("HTTP " + response.status);
         const database = await response.json();
+        caseDatabase = database.cases;
         caseGrid.replaceChildren(...database.cases.map(renderCase));
         caseCards = [...caseGrid.querySelectorAll(".case-card")];
         filterCases();
@@ -1559,7 +1561,8 @@
       });
     });
 
-    // Clearly labeled local demo: no AI request is made.
+    // Local investigator: searches the curated database and returns linked sources.
+    // This is retrieval, not a connected generative AI service.
     const askDemo = document.getElementById("askDemo");
     const clearQuestion = document.getElementById("clearQuestion");
     const question = document.getElementById("question");
@@ -1567,23 +1570,70 @@
 
     askDemo.addEventListener("click", () => {
       const value = question.value.trim();
-
+      answer.replaceChildren();
       answer.hidden = false;
 
       if (!value) {
-        answer.textContent = "Enter a research question first. This demo will then explain how a connected investigator could organize the research.";
+        answer.textContent = "Enter a question or keywords, such as “Roswell”, “Nimitz video”, or “life beyond Earth”.";
+        return;
+      }
+      if (!caseDatabase.length) {
+        answer.textContent = "The case database is not available yet. Wait for it to load, then try again.";
         return;
       }
 
-      answer.textContent =
-        "DEMO ONLY — No AI search was performed. Your question is: “" +
-        value +
-        "”. A connected ECHO-7 investigator would next identify relevant primary sources, compare evidence, record uncertainty, and return a cited answer. This prototype does not yet perform those steps automatically.";
+      const ignored = new Set(["what","when","where","who","why","how","does","did","are","the","and","for","from","with","that","this","about","can","could","would","was","were","have","has","into","evidence","case","tell","me"]);
+      const terms = value.toLowerCase().match(/[a-z0-9-]+/g)?.filter(term => term.length > 2 && !ignored.has(term)) || [];
+      const ranked = caseDatabase.map(record => {
+        const haystack = [record.title, record.location, record.year, record.summary, record.question, record.evidence, record.status, ...(record.sources || []).map(source => source.label)].join(" ").toLowerCase();
+        const score = terms.reduce((total, term) => total + (haystack.includes(term) ? 1 : 0), 0);
+        return {record, score};
+      }).filter(item => item.score > 0).sort((a,b) => b.score - a.score).slice(0, 4);
+
+      const heading = document.createElement("p");
+      const strong = document.createElement("strong");
+      strong.textContent = "ECHO-7 LOCAL RESEARCH LOOKUP";
+      heading.appendChild(strong);
+      answer.appendChild(heading);
+      const disclaimer = document.createElement("p");
+      disclaimer.className = "small muted";
+      disclaimer.textContent = "This searches ECHO-7's curated records only. It does not browse the web, verify new claims, or use generative AI.";
+      answer.appendChild(disclaimer);
+
+      if (!ranked.length) {
+        const message = document.createElement("p");
+        message.textContent = "No close match was found in the current starter database. Try a case name, location, or topic such as “Nimitz”, “Phoenix”, “Roswell”, “Project Blue Book”, or “astrobiology”.";
+        answer.appendChild(message);
+        return;
+      }
+
+      const intro = document.createElement("p");
+      intro.textContent = "Potentially relevant records for: “" + value + "”";
+      answer.appendChild(intro);
+      ranked.forEach(({record}) => {
+        const item = document.createElement("section");
+        item.className = "card";
+        addTextElement(item, "h4", record.title);
+        addTextElement(item, "p", record.summary);
+        addTextElement(item, "p", "Evidence note: " + record.evidence, "small muted");
+        const links = document.createElement("div");
+        links.className = "card-links";
+        (record.sources || []).forEach(source => {
+          const link = document.createElement("a");
+          link.href = source.url;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.textContent = source.label + " ↗";
+          links.appendChild(link);
+        });
+        item.appendChild(links);
+        answer.appendChild(item);
+      });
     });
 
     clearQuestion.addEventListener("click", () => {
       question.value = "";
-      answer.textContent = "";
+      answer.replaceChildren();
       answer.hidden = true;
     });
 
