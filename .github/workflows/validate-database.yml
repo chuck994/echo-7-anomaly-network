@@ -35,7 +35,7 @@ jobs:
             ids.add(r.id);
             if (!Array.isArray(r.sources)) throw new Error('sources must be an array on '+r.id);
             for (const s of r.sources) {
-              if (s.url && !/^https?:\\/\\//i.test(s.url)) throw new Error('Invalid source URL on '+r.id+': '+s.url);
+              if (s.url && !(s.url.startsWith('https://') || s.url.startsWith('http://'))) throw new Error('Invalid source URL on '+r.id+': '+s.url);
             }
           }
           console.log('Validated '+db.records.length+' records across '+new Set(db.records.map(r=>r.kind)).size+' record types.');
@@ -45,9 +45,9 @@ jobs:
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
           const html = fs.readFileSync('index.html', 'utf8');
-          const scripts = [...html.matchAll(/<script>([\\s\\S]*?)<\\/script>/g)];
+          const scripts = html.split('<script>').slice(1).map(part => part.split('</script>')[0]).filter(Boolean);
           if (!scripts.length) throw new Error('No inline script found');
-          for (const [, source] of scripts) new Function(source);
+          for (const source of scripts) new Function(source);
           if (!html.includes('id="p-database"')) throw new Error('Database page is missing');
           console.log('Validated '+scripts.length+' inline script(s).');
           NODE
