@@ -1801,6 +1801,13 @@
       return article;
     }
 
+    const baseRenderCase = renderCase;
+    renderCase = function(record) {
+      const card = baseRenderCase(record);
+      makeDossierCardAccessible(card);
+      return card;
+    };
+
     async function loadCases() {
       try {
         const response = await fetch("./data/cases.json");
@@ -1996,22 +2003,40 @@
       if (lastDossierTrigger) lastDossierTrigger.focus?.();
     }
 
-    document.querySelectorAll("#caseGrid .case-card, .theory-grid > .card").forEach(card => {
+    function makeDossierCardAccessible(card) {
       card.tabIndex = 0;
       card.setAttribute("role", "button");
       card.setAttribute("aria-label", "Open dossier: " + (card.querySelector("h3")?.textContent || "Research topic"));
+    }
+
+    document.querySelectorAll(".theory-grid > .card").forEach(card => {
+      makeDossierCardAccessible(card);
       card.addEventListener("click", event => {
         if (event.target.closest("a, button, input, select, textarea")) return;
         openDossier(card);
       });
       card.addEventListener("keydown", event => {
-        if (event.key === "Enter" || event.key === " ") {
-          if (event.target !== card) return;
+        if ((event.key === "Enter" || event.key === " ") && event.target === card) {
           event.preventDefault();
           openDossier(card);
         }
       });
     });
+
+    // Case cards arrive asynchronously from JSON, so use delegated events.
+    const caseGridForDossiers = document.getElementById("caseGrid");
+    caseGridForDossiers.addEventListener("click", event => {
+      const card = event.target.closest(".case-card");
+      if (!card || event.target.closest("a, button, input, select, textarea")) return;
+      openDossier(card);
+    });
+    caseGridForDossiers.addEventListener("keydown", event => {
+      const card = event.target.closest(".case-card");
+      if (!card || event.target !== card || (event.key !== "Enter" && event.key !== " ")) return;
+      event.preventDefault();
+      openDossier(card);
+    });
+    const originalRenderCase = renderCase;
 
     immersiveClose.addEventListener("click", closeDossier);
     immersiveModal.addEventListener("click", event => {
