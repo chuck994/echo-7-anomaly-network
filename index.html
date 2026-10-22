@@ -71,8 +71,8 @@ function goHome(fromPop=false){page.classList.remove("active");home.classList.re
 function handlePageButton(event){const button=event.target instanceof Element?event.target.closest("[data-page]"):null;if(!button)return;const target=button.dataset.page;if(!descriptions[target])return;event.preventDefault();navigate(target);}
 // Capture clicks before decorative layers or other handlers can swallow them.
 document.addEventListener("click",handlePageButton,true);
-// Also bind each navigation button directly as a reliable fallback.
-document.querySelectorAll("button[data-page]").forEach(button=>button.addEventListener("click",handlePageButton));
+// Bind every page launcher directly (desk notes are not all <button> elements).
+document.querySelectorAll("[data-page]").forEach(button=>button.addEventListener("click",handlePageButton));
 document.getElementById("back-home").addEventListener("click",goHome);
 window.addEventListener("popstate",()=>{const id=location.hash.slice(1);if(descriptions[id])navigate(id,true);else goHome(true)});
 function fillFilters(){const kinds=[...new Set(records.map(r=>r.kind).filter(Boolean))].sort();kind.innerHTML='<option value="">All record types</option>'+kinds.map(v=>'<option value="'+safe(v)+'">'+safe(v.replace(/-/g," "))+'</option>').join("");const years=[...new Set(records.map(r=>r.year).filter(v=>v!==null&&v!==undefined))].sort((a,b)=>b-a);year.innerHTML='<option value="">Any year</option>'+years.map(v=>'<option value="'+safe(v)+'">'+safe(v)+'</option>').join("");}
