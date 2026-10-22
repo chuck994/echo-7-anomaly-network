@@ -1,0 +1,158 @@
+{
+  "title": "ECHO-7 Case Database",
+  "version": 1,
+  "lastReviewed": "2026-10-21",
+  "notice": "Curated research starter set. Not a live feed. Sources and summaries should be reviewed before publication; unresolved reports are not evidence of extraterrestrial origin.",
+  "cases": [
+    {
+      "id": "nimitz-2004",
+      "title": "USS Nimitz / “Tic Tac”",
+      "year": 2004,
+      "location": "Pacific Ocean",
+      "type": "military",
+      "label": "Military report",
+      "summary": "Navy aviators reported unusual objects during training operations in November 2004. The event became widely discussed after public reporting and release of Navy video.",
+      "question": "What can the available video, testimony, and sensor records establish about the observed object?",
+      "evidence": "A public video and pilot accounts do not, by themselves, establish an object's origin or technology.",
+      "status": "Publicly documented; full underlying sensor record is not all publicly available.",
+      "sources": [
+        {
+          "label": "U.S. Department of Defense video statement",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+        },
+        {
+          "label": "AARO official site",
+          "url": "https://www.aaro.mil/"
+        }
+      ]
+    },
+    {
+      "id": "phoenix-lights-1997",
+      "title": "Phoenix Lights",
+      "year": 1997,
+      "location": "Arizona, United States",
+      "type": "lights",
+      "label": "Mass sighting",
+      "summary": "Witnesses reported lights and formations over Arizona on March 13, 1997. Different observations may have involved different events and should not automatically be treated as one object or explanation.",
+      "question": "Which observations can be connected to specific times, locations, and explanations?",
+      "evidence": "Eyewitness reports are useful records, but distance, perspective, and timing affect interpretation.",
+      "status": "Multiple reported observations; interpretations vary.",
+      "sources": [
+        {
+          "label": "National Archives UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "label": "NASA UAP research",
+          "url": "https://science.nasa.gov/uap/"
+        }
+      ]
+    },
+    {
+      "id": "roswell-1947",
+      "title": "Roswell Incident",
+      "year": 1947,
+      "location": "New Mexico, United States",
+      "type": "historic",
+      "label": "Historic controversy",
+      "summary": "Reports of recovered debris near Roswell became central to modern UFO folklore. Later U.S. Air Force reports connected the material to a classified balloon project; some witnesses and researchers dispute aspects of the official account.",
+      "question": "What do contemporaneous records show, and which claims rely on later testimony?",
+      "evidence": "Controversy is not itself proof of an extraterrestrial crash. Compare primary records with later recollections.",
+      "status": "Official explanations and alternative claims remain subjects of public debate.",
+      "sources": [
+        {
+          "label": "National Archives UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "label": "U.S. Air Force report archive (via National Archives)",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ]
+    },
+    {
+      "id": "gimbal-2015",
+      "title": "GIMBAL",
+      "year": 2015,
+      "location": "U.S. Navy; Atlantic training area",
+      "type": "military",
+      "label": "Military video",
+      "summary": "GIMBAL is among the Navy videos publicly released by the Department of Defense. Interpreting apparent motion requires attention to camera behavior, viewing geometry, and limits of the recording.",
+      "question": "Which apparent movements belong to the object, and which could be caused by the sensor?",
+      "evidence": "The video documents an observation, but the clip alone does not conclusively identify the object.",
+      "status": "Public video; not a complete public sensor dataset.",
+      "sources": [
+        {
+          "label": "U.S. Department of Defense video statement",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+        },
+        {
+          "label": "AARO official site",
+          "url": "https://www.aaro.mil/"
+        }
+      ]
+    },
+    {
+      "id": "project-blue-book",
+      "title": "Project Blue Book",
+      "year": "1952–1969",
+      "location": "United States",
+      "type": "historic",
+      "label": "Government investigation",
+      "summary": "The U.S. Air Force's Project Blue Book collected and assessed UFO reports. Its files are a historical record of reports and investigations, not a general finding that the cases were extraterrestrial.",
+      "question": "How were reports categorized, and what can the archive tell us about the limits of historical investigations?",
+      "evidence": "A case marked unidentified means the available information did not resolve it under that investigation; it does not establish a specific origin.",
+      "status": "Historical program; records are available through the U.S. National Archives.",
+      "sources": [
+        {
+          "label": "National Archives UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ]
+    },
+    {
+      "id": "uap-reporting",
+      "title": "Modern UAP reporting framework",
+      "year": "2021–present",
+      "location": "United States",
+      "type": "military",
+      "label": "Research framework",
+      "summary": "NASA and the All-domain Anomaly Resolution Office publish research and reporting materials intended to improve data quality, analysis, and public understanding of UAP.",
+      "question": "What data would be needed to distinguish an ordinary object, sensor artifact, or genuinely unresolved observation?",
+      "evidence": "Unidentified is a status of analysis, not a conclusion about extraterrestrial origin.",
+      "status": "Ongoing public research and reporting.",
+      "sources": [
+        {
+          "label": "NASA UAP research",
+          "url": "https://science.nasa.gov/uap/"
+        },
+        {
+          "label": "AARO official site",
+          "url": "https://www.aaro.mil/"
+        }
+      ]
+    },
+    {
+      "id": "exoplanet-life",
+      "title": "The search for life beyond Earth",
+      "year": "Ongoing",
+      "location": "Solar System and exoplanets",
+      "type": "science",
+      "label": "Astrobiology",
+      "summary": "Scientists investigate habitability and possible biosignatures using planetary missions, laboratory research, and observations of planets beyond our Solar System. No confirmed discovery of extraterrestrial life has been announced by NASA.",
+      "question": "What would count as convincing evidence of life, and how would scientists rule out non-biological explanations?",
+      "evidence": "Habitability is not the same as evidence that life exists; a potential biosignature requires independent validation.",
+      "status": "Active scientific research; no confirmed extraterrestrial life detection.",
+      "sources": [
+        {
+          "label": "NASA Astrobiology",
+          "url": "https://astrobiology.nasa.gov/"
+        },
+        {
+          "label": "NASA Exoplanet Archive",
+          "url": "https://exoplanetarchive.ipac.caltech.edu/"
+        }
+      ]
+    }
+  ]
+}
