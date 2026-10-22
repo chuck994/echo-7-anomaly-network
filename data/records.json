@@ -2,7 +2,7 @@
   "schema": "echo7-records-v1",
   "generatedAt": "2026-10-22",
   "description": "Curated ECHO-7 starter index. Not a complete mirror of external websites. Source links and evidence status are retained per record.",
-  "recordCount": 101,
+  "recordCount": 103,
   "records": [
     {
       "id": "case-arnold",
@@ -155,22 +155,33 @@
       "location": "U.S. Navy training area",
       "category": "military",
       "summary": "GIMBAL is one of the Navy videos released publicly by the Department of Defense and discussed by pilots and researchers.",
-      "notes": "The recording has been interpreted as showing an unusual object and apparent rotation. Camera movement, gimbal mechanics, and viewing geometry need to be distinguished.\nThe video is a real released Navy recording. The clip alone does not fully identify the object or establish its origin.\nReview the original clip and identify what the camera is doing.\nCompare pilot commentary with what can actually be seen.\nWhat additional sensor records would resolve the motion?",
+      "notes": "Evidence assessment (updated 2026-10-22)\nWhat is documented: the U.S. Department of Defense confirmed the released Navy footage was authentic Navy video. That confirms the recording's provenance, not the object's identity, origin, or the accuracy of every interpretation of the scene.\nSeparate observation from interpretation: the apparent rotation in the clip is an interpretation of image motion. Camera/gimbal behavior, glare, aircraft motion, sensor tracking, and viewing geometry must be assessed before treating apparent rotation as object motion. Pilot commentary is important context, but narration and pixels are different evidence streams.\nWhat the public clip can and cannot show: a short infrared video without full calibration, range, telemetry, and synchronized sensor data cannot independently establish distance, size, speed, or acceleration. A target's apparent motion across a display is not enough to calculate its true trajectory.\nCompeting hypotheses: an ordinary object viewed through an unusual sensor geometry; a sensor or tracking artifact; a classified or otherwise unidentified object; or insufficient data to decide. These are possibilities, not verdicts.\nEvidence needed next: original high-quality video and metadata; sensor field-of-view and gimbal state; aircraft heading, speed, and altitude; target range or independent range estimates; synchronized radar/other sensor data; and a reproducible analysis that accounts for camera motion. Compare technical analyses against the original file rather than only re-edited clips.\nResearch rule: mark the event as documented footage with unresolved object identity. Do not call the clip proof of extraterrestrial technology.",
       "sources": [
         {
-          "title": "DoD Navy video statement",
-          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+          "title": "DoD statement on released Navy UAP videos",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/",
+          "publisher": "U.S. Department of Defense",
+          "sourceType": "official release"
         },
         {
-          "title": "Reddit: GIMBAL analysis",
-          "url": "https://www.reddit.com/r/UFOs/search/?q=GIMBAL%20analysis&restrict_sr=1"
+          "title": "AARO official UAP imagery library",
+          "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+          "publisher": "All-domain Anomaly Resolution Office",
+          "sourceType": "official imagery index"
+        },
+        {
+          "title": "Reddit search: GIMBAL technical analysis (research leads only)",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=GIMBAL%20analysis&restrict_sr=1",
+          "publisher": "Reddit community search",
+          "sourceType": "community lead"
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment",
+      "evidenceStatus": "officially released footage; object identity and interpretation unresolved",
       "relatedIds": [
         "source-aaro-imagery-library",
-        "claim-unidentified-does-not-mean-extraterrestrial"
+        "claim-unidentified-does-not-mean-extraterrestrial",
+        "claim-gimbal-rotation"
       ]
     },
     {
@@ -2097,6 +2108,64 @@
         "case-nimitz",
         "case-grusch",
         "case-gimbal"
+      ]
+    },
+    {
+      "id": "claim-gimbal-rotation",
+      "kind": "claim",
+      "year": 2015,
+      "title": "GIMBAL: apparent rotation in the video",
+      "location": "U.S. Navy footage; exact public sensor context incomplete",
+      "category": "video interpretation",
+      "summary": "The GIMBAL clip appears to show an object rotating, but apparent rotation must be separated from camera/gimbal motion and viewing geometry.",
+      "notes": "Test the proposition using the original video, gimbal state, sensor field-of-view, aircraft motion, target range, and synchronized sensor data. An apparent change in image orientation is not alone proof that the target itself rotated. Record technical assumptions and uncertainty, and distinguish the confirmed provenance of the footage from the unresolved identity of the object.",
+      "provenance": "ECHO-7 research synthesis; hypothesis to test, not a settled explanation",
+      "evidenceStatus": "interpretation disputed; original sensor context needed",
+      "relatedIds": [
+        "case-gimbal"
+      ],
+      "sources": [
+        {
+          "title": "DoD statement on released Navy UAP videos",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/",
+          "publisher": "U.S. Department of Defense",
+          "sourceType": "official release"
+        },
+        {
+          "title": "AARO official UAP imagery library",
+          "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+          "publisher": "All-domain Anomaly Resolution Office",
+          "sourceType": "official imagery index"
+        }
+      ]
+    },
+    {
+      "id": "claim-gofast-speed",
+      "kind": "claim",
+      "year": 2015,
+      "title": "GOFAST: apparent motion versus true speed",
+      "location": "U.S. Navy footage; full range data not public in the clip",
+      "category": "measurement claim",
+      "summary": "Screen-relative movement in GOFAST does not independently establish the target's true speed.",
+      "notes": "True speed estimates require range, aircraft motion, sensor line-of-sight, and relevant environmental data. Parallax and viewing geometry can substantially affect apparent motion. Compare any published calculation by checking its assumptions, uncertainty, and reproducibility against the original footage and metadata. Do not label extraordinary speed as established from the clip alone.",
+      "provenance": "ECHO-7 research synthesis; measurement question remains open without full data",
+      "evidenceStatus": "speed claim not independently established from public clip alone",
+      "relatedIds": [
+        "case-gofast"
+      ],
+      "sources": [
+        {
+          "title": "DoD statement on released Navy UAP videos",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/",
+          "publisher": "U.S. Department of Defense",
+          "sourceType": "official release"
+        },
+        {
+          "title": "AARO official UAP imagery library",
+          "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+          "publisher": "All-domain Anomaly Resolution Office",
+          "sourceType": "official imagery index"
+        }
       ]
     }
   ]
