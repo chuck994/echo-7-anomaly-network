@@ -1,0 +1,29 @@
+name: Refresh ECHO-7 public signal feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v4
+      - name: Build signal feed from public NASA RSS
+        run: python scripts/update_live_feed.py
+      - name: Publish refreshed feed data
+        run: |
+          if git diff --quiet -- data/live-updates.json; then
+            echo "No feed changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live-updates.json
+          git commit -m "Refresh public NASA signal feed"
+          git push
