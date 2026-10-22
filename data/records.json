@@ -1,0 +1,1764 @@
+{
+  "schema": "echo7-records-v1",
+  "generatedAt": "2026-10-22",
+  "description": "Curated ECHO-7 starter index. Not a complete mirror of external websites. Source links and evidence status are retained per record.",
+  "recordCount": 90,
+  "records": [
+    {
+      "id": "case-arnold",
+      "kind": "case",
+      "year": 1947,
+      "title": "Kenneth Arnold sighting",
+      "location": "Mount Rainier, Washington",
+      "category": "historic",
+      "summary": "Pilot Kenneth Arnold reported nine fast-moving objects near Mount Rainier on June 24, 1947. His report helped popularize “flying saucer.”",
+      "notes": "Arnold described bright objects moving in a formation unlike familiar aircraft. Compare his contemporary report with later interviews instead of merging them into one version.\nContemporary press and Army Air Forces records document that Arnold reported the event. The original observation has no widely cited physical sample or radar record.\nCompare Arnold's earliest written account with later interviews.\nWhat did military investigators record and how did they classify it?\nWhich details entered public culture after the initial report?",
+      "sources": [
+        {
+          "title": "National Air and Space Museum",
+          "url": "https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer"
+        },
+        {
+          "title": "NICAP case record",
+          "url": "https://www.nicap.org/470624ranier_dir.htm"
+        },
+        {
+          "title": "Reddit: Kenneth Arnold",
+          "url": "https://www.reddit.com/search/?q=Kenneth%20Arnold%201947"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-roswell",
+      "kind": "case",
+      "year": 1947,
+      "title": "Roswell incident",
+      "location": "New Mexico, USA",
+      "category": "historic",
+      "summary": "Debris recovered near Roswell in July 1947 became one of the most enduring alleged crash-retrieval stories.",
+      "notes": "Some witnesses and researchers argue the debris or associated events involved a non-human craft and bodies. Accounts vary, and influential details appeared years after the event.\nThe military initially described a flying disc, then said the material was a weather balloon. Later Air Force explanations connected the debris to Project Mogul. Compare official records with witness accounts.\nBuild a dated chain of custody for debris and separate contemporary documents from recollections.\nWhich witnesses described material directly and which repeated other accounts?\nWhat does each explanation account for, and what do critics say remains unresolved?",
+      "sources": [
+        {
+          "title": "National Archives UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "title": "Reddit: Roswell witnesses",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Roswell%20witness&restrict_sr=1"
+        },
+        {
+          "title": "Contemporary press search",
+          "url": "https://www.google.com/search?q=Roswell+July+1947+newspaper+archive"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-nimitz",
+      "kind": "case",
+      "year": 2004,
+      "title": "USS Nimitz / Tic Tac",
+      "location": "Pacific Ocean, off Southern California",
+      "category": "military",
+      "summary": "Navy aviators described an unusual white object during carrier-group training in November 2004. Cmdr. David Fravor has publicly described his encounter.",
+      "notes": "Fravor described an object with unusual appearance and movement. Other accounts refer to radar observations and a later encounter; details differ by witness and sensor.\nThe Pentagon acknowledged the released Navy video was authentic Navy material in 2020. That does not confirm every interpretation; full sensor records are not all public.\nMap each witness to the flight and observation they describe.\nSeparate direct visual observation from radar reports and later retellings.\nWhat can the released video establish, and what requires unavailable telemetry?",
+      "sources": [
+        {
+          "title": "DoD video statement",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+        },
+        {
+          "title": "House Oversight UAP hearing",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena/"
+        },
+        {
+          "title": "Reddit: Nimitz firsthand accounts",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Nimitz%20Fravor&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-phoenix",
+      "kind": "case",
+      "year": 1997,
+      "title": "Phoenix Lights",
+      "location": "Arizona, USA",
+      "category": "lights",
+      "summary": "People across Arizona reported lights and formations on March 13, 1997. Reports may describe more than one event.",
+      "notes": "Witnesses described a large formation or V-shaped object; a separate set of lights was associated with flares released by military aircraft. Not all witnesses agree flares explain what they saw.\nMultiple eyewitness reports and recordings exist. Time, location, direction, and whether a witness saw the earlier formation or later lights are essential.\nSeparate earlier formation reports from later lights by time and geography.\nCompare independent statements made close to the event with later interviews.\nWhat can video perspective and military activity explain—and what do witnesses dispute?",
+      "sources": [
+        {
+          "title": "National Archives UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "title": "Reddit: Phoenix Lights witnesses",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Phoenix%20Lights%20eyewitness&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-bluebook",
+      "kind": "case",
+      "year": 0,
+      "title": "Project Blue Book",
+      "location": "United States",
+      "category": "historic",
+      "summary": "The U.S. Air Force investigated UFO reports through Project Blue Book, building a large record of observations and case dispositions.",
+      "notes": "Some researchers view unresolved cases as evidence of missing answers; others emphasize the large number of reports attributed to ordinary causes.\nThe project and its files are documented. “Unidentified” means the investigation did not resolve the case with available information; it does not itself establish extraterrestrial origin.\nInspect original case cards and investigator notes, not just modern summaries.\nCompare witness accounts with final classifications and rationale.\nLook for missing data or conclusions that exceeded the evidence.",
+      "sources": [
+        {
+          "title": "National Archives: Air Force UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "title": "Reddit: Project Blue Book",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Project%20Blue%20Book&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-gimbal",
+      "kind": "case",
+      "year": 2015,
+      "title": "GIMBAL video",
+      "location": "U.S. Navy training area",
+      "category": "military",
+      "summary": "GIMBAL is one of the Navy videos released publicly by the Department of Defense and discussed by pilots and researchers.",
+      "notes": "The recording has been interpreted as showing an unusual object and apparent rotation. Camera movement, gimbal mechanics, and viewing geometry need to be distinguished.\nThe video is a real released Navy recording. The clip alone does not fully identify the object or establish its origin.\nReview the original clip and identify what the camera is doing.\nCompare pilot commentary with what can actually be seen.\nWhat additional sensor records would resolve the motion?",
+      "sources": [
+        {
+          "title": "DoD Navy video statement",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+        },
+        {
+          "title": "Reddit: GIMBAL analysis",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=GIMBAL%20analysis&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-rendlesham",
+      "kind": "case",
+      "year": 1980,
+      "title": "Rendlesham Forest",
+      "location": "Suffolk, England",
+      "category": "military",
+      "summary": "U.S. military personnel stationed in England reported unusual lights and events near Rendlesham Forest in December 1980.",
+      "notes": "Some witnesses described a structured craft or close encounter; interpretations and details vary across statements and years.\nThe case includes military witness statements and a well-known memo by Lt. Col. Charles Halt. Compare contemporaneous records with later recollections and local astronomical conditions.\nRead the Halt memo alongside each witness statement.\nBuild a night-by-night timeline rather than combining events across dates.\nWhich observations were close range and which were distant lights?",
+      "sources": [
+        {
+          "title": "Original document search",
+          "url": "https://www.google.com/search?q=Rendlesham+Forest+original+documents+Halt+memo"
+        },
+        {
+          "title": "Reddit: Rendlesham witnesses",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Rendlesham%20Forest&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-tehran",
+      "kind": "case",
+      "year": 1976,
+      "title": "Tehran interception",
+      "location": "Tehran, Iran",
+      "category": "military",
+      "summary": "Iranian military pilots reported a bright object in September 1976; accounts describe attempted interception and reported instrument problems.",
+      "notes": "Often cited as a radar-visual case involving military pilots. Details should be traced to the original intelligence report and later retellings.\nA declassified U.S. DIA report summarizes the event. It records reports and assessments, not independent proof of the object's origin.\nLocate the original DIA report and distinguish source statements from analyst assessment.\nCheck the timeline of sorties, radar contacts, and equipment effects.\nCompare later summaries with the contemporaneous report.",
+      "sources": [
+        {
+          "title": "DIA report search",
+          "url": "https://www.google.com/search?q=1976+Tehran+UFO+DIA+report+PDF"
+        },
+        {
+          "title": "Reddit: Tehran 1976",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Tehran%201976&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-lazar",
+      "kind": "case",
+      "year": 1989,
+      "title": "Bob Lazar / S-4 claims",
+      "location": "Nevada; alleged S-4 near Groom Lake",
+      "category": "whistleblower",
+      "summary": "On May 15, 1989, George Knapp aired an interview with an anonymous man known as “Dennis,” later identified as Bob Lazar. Lazar said he worked at a facility he called S-4 studying alleged non-human craft.",
+      "notes": "Lazar described gravity-related propulsion and an element later known as moscovium. His claims remain heavily disputed; several biographical and technical details have been challenged.\nThe 1989 interview is a primary source for what Lazar claimed at the time, not proof of the alleged program. Moscovium was later synthesized, but known isotopes are extremely short-lived; that does not validate the propulsion claim.\nCompare the May 15 anonymous interview with later named interviews.\nSeparate employment, facility, and technical claims; each needs different corroboration.\nTrace which details were public in 1989 and which appeared later.",
+      "sources": [
+        {
+          "title": "Papoose Lake interview archive",
+          "url": "https://www.papooselake.org/interview-transcripts"
+        },
+        {
+          "title": "1989 interview record",
+          "url": "https://probed.space/documents/852794d6-6bd4-454b-95f4-a01c3e148010"
+        },
+        {
+          "title": "Reddit: Lazar / S-4",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Bob%20Lazar%20S4&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-grusch",
+      "kind": "case",
+      "year": 2023,
+      "title": "David Grusch congressional testimony",
+      "location": "U.S. House Oversight hearing",
+      "category": "whistleblower",
+      "summary": "Former intelligence official David Grusch testified in July 2023 about his efforts to investigate UAP and allegations of hidden crash-retrieval and reverse-engineering programs.",
+      "notes": "Grusch alleged a legacy program and non-human material. He distinguished some information he personally reviewed from information provided by others.\nThe hearing and written statement are public. Testimony documents what a witness asserted under oath; individual underlying claims need their own corroborating records.\nRead the written statement and hearing transcript together.\nMark which claims are based on his own actions and which were relayed.\nFollow named program and document leads without assuming they prove the full allegation.",
+      "sources": [
+        {
+          "title": "House Oversight hearing",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena/"
+        },
+        {
+          "title": "Congress.gov hearing search",
+          "url": "https://www.congress.gov/search?q=%7B%22search%22%3A%22David%20Grusch%22%7D"
+        },
+        {
+          "title": "Reddit: Grusch testimony",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=David%20Grusch%20testimony&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-kona",
+      "kind": "case",
+      "year": 0,
+      "title": "KONA BLUE proposal",
+      "location": "U.S. Department of Homeland Security",
+      "category": "program",
+      "summary": "KONA BLUE was proposed as a DHS prospective special access program and was not approved or formally established.",
+      "notes": "People associated with the proposal connected it with retrieving and exploiting alleged non-human biologics or off-world technology.\nPublic DHS records and AARO's historical report describe a proposed program that was never formally established. Its proposal is not proof the proposed materials existed.\nIdentify what the proposal described versus what was actually authorized.\nTrace who proposed it and what they said they had access to.\nCompare original documents with later descriptions that call it an operating program.",
+      "sources": [
+        {
+          "title": "AARO UAP records: KONA BLUE",
+          "url": "https://www.aaro.mil/UAP-Records/-1/"
+        },
+        {
+          "title": "AARO reports",
+          "url": "https://www.aaro.mil/"
+        },
+        {
+          "title": "Reddit: KONA BLUE",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=KONA%20BLUE&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "case-eisenhower",
+      "kind": "case",
+      "year": 1954,
+      "title": "Eisenhower alleged 1954 meeting",
+      "location": "Palm Springs / Edwards AFB claims",
+      "category": "historic",
+      "summary": "A persistent story claims President Dwight D. Eisenhower met extraterrestrial visitors during a February 1954 trip to California. Versions differ on location, visitors, and alleged agreement.",
+      "notes": "The story is often connected to Eisenhower's temporary absence from public view and later accounts by UFO researchers and alleged insiders.\nNo authenticated contemporaneous record or independently verifiable physical evidence has established such a meeting. The historical itinerary and earliest traceable versions are key starting points.\nReconstruct Eisenhower's documented itinerary and medical visit from contemporary records.\nFind the earliest traceable version and identify the source's access to the event.\nCompare later versions instead of treating them as one consistent account.",
+      "sources": [
+        {
+          "title": "Eisenhower Presidential Library",
+          "url": "https://www.eisenhowerlibrary.gov/"
+        },
+        {
+          "title": "National Archives UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "title": "Reddit: Eisenhower 1954",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Eisenhower%201954&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated case index",
+      "evidenceStatus": "reported / requires case-specific assessment"
+    },
+    {
+      "id": "timeline-0",
+      "kind": "timeline",
+      "year": 1896,
+      "title": "Airship reports in the United States",
+      "location": "",
+      "category": "early",
+      "summary": "Newspaper accounts across regions described unusual airships. Investigate each local account in historical context rather than assuming one shared technology.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=1896+airship+sightings+newspaper+archive"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-1",
+      "kind": "timeline",
+      "year": 1947,
+      "title": "Kenneth Arnold reports unusual objects",
+      "location": "",
+      "category": "classic",
+      "summary": "On June 24, pilot Kenneth Arnold reported nine objects near Mount Rainier, helping popularize the modern flying-saucer era.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-2",
+      "kind": "timeline",
+      "year": 1947,
+      "title": "Roswell debris recovery becomes public news",
+      "location": "",
+      "category": "classic",
+      "summary": "The Army Air Field briefly described a flying disc before changing its explanation. Later accounts made the event a central crash-retrieval controversy.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-3",
+      "kind": "timeline",
+      "year": 1952,
+      "title": "Washington, D.C. radar / visual reports",
+      "location": "",
+      "category": "classic",
+      "summary": "Radar operators and observers reported unusual targets around Washington in July. The case became a major early Cold War UAP event.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=Washington+DC+UFO+1952+Project+Blue+Book+documents"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-4",
+      "kind": "timeline",
+      "year": 1954,
+      "title": "Eisenhower alien-meeting story",
+      "location": "",
+      "category": "classic",
+      "summary": "A later story claimed Eisenhower secretly met extraterrestrial visitors during a California trip. The meeting has not been established by authenticated contemporaneous evidence.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.eisenhowerlibrary.gov/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-5",
+      "kind": "timeline",
+      "year": 1961,
+      "title": "Betty and Barney Hill abduction account",
+      "location": "",
+      "category": "classic",
+      "summary": "The Hills described an alleged abduction after a drive in New Hampshire. The account became influential in abduction narratives and studies of testimony.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=Betty+Barney+Hill+original+case+records"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-6",
+      "kind": "timeline",
+      "year": 1966,
+      "title": "Westall school encounter",
+      "location": "",
+      "category": "classic",
+      "summary": "Students and staff in Melbourne later described an unusual aerial event. Interviews, questioning circumstances, and evolving recollections matter.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=Westall+1966+firsthand+witness+accounts"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-7",
+      "kind": "timeline",
+      "year": 1969,
+      "title": "Project Blue Book ends",
+      "location": "",
+      "category": "classic",
+      "summary": "The Air Force ended the program after collecting and assessing thousands of reports. Its records remain important for understanding investigative methods.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-8",
+      "kind": "timeline",
+      "year": 1976,
+      "title": "Tehran pilot / radar incident",
+      "location": "",
+      "category": "classic",
+      "summary": "Iranian military pilots reported an unusual object during an attempted interception. The DIA report is a starting point for tracing source statements.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=1976+Tehran+UFO+DIA+report+PDF"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-9",
+      "kind": "timeline",
+      "year": 1980,
+      "title": "Rendlesham Forest reports",
+      "location": "",
+      "category": "classic",
+      "summary": "U.S. military personnel in England reported lights and unusual events over several nights. Compare contemporaneous statements with later accounts.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=Rendlesham+Forest+original+documents+Halt+memo"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-10",
+      "kind": "timeline",
+      "year": 1989,
+      "title": "Bob Lazar goes public through George Knapp",
+      "location": "",
+      "category": "classic",
+      "summary": "On May 15, Las Vegas TV aired an interview with an anonymous man later identified as Lazar, who alleged work on recovered craft at S-4. This marks a public claim, not independent confirmation.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.papooselake.org/interview-transcripts"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-11",
+      "kind": "timeline",
+      "year": 1994,
+      "title": "Ariel School encounter",
+      "location": "",
+      "category": "classic",
+      "summary": "Schoolchildren in Ruwa, Zimbabwe, reported an unusual object and beings. Original interviews and the development of recollections are central to research.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=Ariel+School+1994+original+interviews+children"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-12",
+      "kind": "timeline",
+      "year": 1997,
+      "title": "Phoenix Lights",
+      "location": "",
+      "category": "classic",
+      "summary": "Witnesses reported a formation and lights on March 13. Observations at different times may have different explanations.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=Phoenix%20Lights%20eyewitness&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-13",
+      "kind": "timeline",
+      "year": 2004,
+      "title": "USS Nimitz / Tic Tac encounter",
+      "location": "",
+      "category": "modern",
+      "summary": "Navy aviators reported an unusual object during training. Fravor later described a direct encounter; public video and incomplete sensor records are part of the file.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-14",
+      "kind": "timeline",
+      "year": 2008,
+      "title": "AAWSAP / AATIP research era",
+      "location": "",
+      "category": "modern",
+      "summary": "DIA-sponsored research and related UAP efforts became widely discussed. Names and scopes are often conflated; inspect contracts and original documents.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=AAWSAP+AATIP+primary+documents+contract"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-15",
+      "kind": "timeline",
+      "year": 2011,
+      "title": "KONA BLUE proposal period",
+      "location": "",
+      "category": "modern",
+      "summary": "A proposed DHS special-access program was discussed in 2011–2012 but never formally established. Public records help separate proposal from operation.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.aaro.mil/UAP-Records/-1/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-16",
+      "kind": "timeline",
+      "year": 2017,
+      "title": "Modern UAP reporting reaches a wider public",
+      "location": "",
+      "category": "recent",
+      "summary": "Major media coverage renewed attention to Pentagon UAP investigations, Navy encounters, and former officials' roles.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=New+York+Times+2017+UFO+Pentagon+program"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-17",
+      "kind": "timeline",
+      "year": 2020,
+      "title": "Defense Department acknowledges Navy videos",
+      "location": "",
+      "category": "recent",
+      "summary": "The Pentagon confirmed three widely circulated Navy videos were genuine Navy recordings; this did not settle the objects' identities.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-18",
+      "kind": "timeline",
+      "year": 2021,
+      "title": "ODNI preliminary UAP assessment",
+      "location": "",
+      "category": "recent",
+      "summary": "An intelligence assessment summarized reports, many unresolved due to limited data. Better data collection is needed to resolve cases.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.google.com/search?q=ODNI+2021+preliminary+assessment+UAP+PDF"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-19",
+      "kind": "timeline",
+      "year": 2023,
+      "title": "Grusch, Fravor and Graves testify to Congress",
+      "location": "",
+      "category": "recent",
+      "summary": "A House hearing included former intelligence official David Grusch, Navy pilot Ryan Graves, and retired commander David Fravor. Their accounts differ in evidentiary basis.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-20",
+      "kind": "timeline",
+      "year": 2023,
+      "title": "NASA UAP independent study report",
+      "location": "",
+      "category": "recent",
+      "summary": "NASA recommended improving data quality and scientific methods for studying UAP; it did not claim extraterrestrial evidence had been found.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://science.nasa.gov/uap/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-21",
+      "kind": "timeline",
+      "year": 2024,
+      "title": "KONA BLUE records and AARO historical report",
+      "location": "",
+      "category": "recent",
+      "summary": "Public records described KONA BLUE as proposed, not formally established. AARO disputed claims of verified government possession of extraterrestrial technology; researchers and witnesses have criticized aspects of its report.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.aaro.mil/UAP-Records/-1/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-22",
+      "kind": "timeline",
+      "year": 2025,
+      "title": "The Age of Disclosure documentary",
+      "location": "",
+      "category": "recent",
+      "summary": "Directed and produced by Dan Farah, the film presents testimony from 34 government, military, and intelligence insiders and argues a cover-up of non-human intelligence exists.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "timeline-23",
+      "kind": "timeline",
+      "year": 2026,
+      "title": "Current public-record and community research",
+      "location": "",
+      "category": "recent",
+      "summary": "Continue checking new hearing records, public UAP releases, original interviews, independent archives, and community leads. Date each new item to its source.",
+      "notes": "Timeline lead. Verify against contemporaneous records and independent sources.",
+      "sources": [
+        {
+          "title": "Timeline source / research lead",
+          "url": "https://www.aaro.mil/"
+        }
+      ],
+      "provenance": "ECHO-7 curated timeline",
+      "evidenceStatus": "historical milestone / reported event"
+    },
+    {
+      "id": "person-0",
+      "kind": "person",
+      "year": 0,
+      "title": "Luis Elizondo",
+      "location": "",
+      "category": "official",
+      "summary": "A central documentary voice who describes involvement in Pentagon UAP work and argues UAP raise serious security questions.",
+      "notes": "Former DoD / counterintelligence; public UAP advocate\nHis government background is relevant, but precise authority and program remit should be compared with contemporaneous records.\nCompare his testimony and interviews with official program documents. Mark personal knowledge separately from claims attributed to others.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Luis%20Elizondo%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-1",
+      "kind": "person",
+      "year": 0,
+      "title": "David Grusch",
+      "location": "",
+      "category": "official",
+      "summary": "Alleged a legacy UAP crash-retrieval and reverse-engineering program and recovery of non-human material; he distinguished some reviewed information from information relayed by others.",
+      "notes": "Former intelligence officer; 2023 congressional witness\nHis testimony was given to a House subcommittee under oath in 2023. The hearing establishes what he asserted, not automatic proof of every underlying claim.\nRead his written statement and hearing transcript together; classify each claim as personally reviewed, witnessed, or relayed.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=David%20Grusch%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-2",
+      "kind": "person",
+      "year": 0,
+      "title": "David Fravor",
+      "location": "",
+      "category": "witness",
+      "summary": "Described a direct visual encounter with an unusual object during the 2004 USS Nimitz event.",
+      "notes": "Retired U.S. Navy commander and pilot\nFirsthand witness to his own visual observation, not automatically to every radar or other-aircrew account.\nCompare testimony with other crew accounts, released video, and gaps in public sensor data.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=David%20Fravor%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-3",
+      "kind": "person",
+      "year": 0,
+      "title": "Ryan Graves",
+      "location": "",
+      "category": "witness",
+      "summary": "Has described recurring reports and encounters among aviators and advocated for reporting without stigma.",
+      "notes": "Former U.S. Navy F/A-18 pilot\nDistinguish his own observations from accounts he heard from other pilots.\nFind original pilot accounts, dates, locations, and any radar or flight records.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Ryan%20Graves%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-4",
+      "kind": "person",
+      "year": 0,
+      "title": "Tim Gallaudet",
+      "location": "",
+      "category": "official",
+      "summary": "Has spoken publicly about UAP and advocated for serious attention and transparency.",
+      "notes": "Retired Navy rear admiral; former acting NOAA administrator\nSenior Navy and NOAA roles are relevant context; each specific claim needs its own source.\nReview on-record testimony and cited emails or operational records.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Tim%20Gallaudet%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-5",
+      "kind": "person",
+      "year": 0,
+      "title": "Christopher Mellon",
+      "location": "",
+      "category": "official",
+      "summary": "Disclosure advocate who has discussed UAP reporting, intelligence access, and oversight.",
+      "notes": "Former Deputy Assistant Secretary of Defense for Intelligence\nFormer senior role is public biography; interpretations remain distinct from official findings.\nTrace statements to public documents, congressional correspondence, and original interviews.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Christopher%20Mellon%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-6",
+      "kind": "person",
+      "year": 0,
+      "title": "Jay Stratton",
+      "location": "",
+      "category": "official",
+      "summary": "Publicly described as a leader of the U.S. UAP Task Force and among the documentary's insider voices.",
+      "notes": "Former UAP Task Force director; intelligence background\nConfirm exact duties and program relationships against on-record descriptions, not title alone.\nSearch original interviews, official statements, and records naming the task force.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Jay%20Stratton%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-7",
+      "kind": "person",
+      "year": 0,
+      "title": "Jim Semivan",
+      "location": "",
+      "category": "official",
+      "summary": "Has discussed UAP and anomalous experiences in public interviews and later private-sector work.",
+      "notes": "Former CIA officer; later UAP / anomalous-experience advocate\nCIA career is relevant background but does not establish access to every alleged retrieval program.\nSeparate personal experiences from statements about what others allegedly told him.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Jim%20Semivan%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-8",
+      "kind": "person",
+      "year": 0,
+      "title": "Hal Puthoff",
+      "location": "",
+      "category": "researcher",
+      "summary": "Associated with government-funded research into unusual aerospace and related topics.",
+      "notes": "Physicist and long-time government research contractor\nContractor role, funding source, research scope, and personal view are distinct facts.\nLook for contracts, papers, and statements specifying work actually performed.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Hal%20Puthoff%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-9",
+      "kind": "person",
+      "year": 0,
+      "title": "Eric Davis",
+      "location": "",
+      "category": "researcher",
+      "summary": "Has been cited in discussions of alleged crash retrieval, advanced propulsion, and UAP research.",
+      "notes": "Physicist / defense research consultant associated with UAP claims\nPublic accounts describe consulting work; its connection to alleged recovered craft remains disputed.\nTrace claims to dated memos, interview transcripts, contract scope, and named sources.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Eric%20Davis%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-10",
+      "kind": "person",
+      "year": 0,
+      "title": "Karl Nell",
+      "location": "",
+      "category": "official",
+      "summary": "Has made strong public statements about non-human intelligence and non-human origins for some technology.",
+      "notes": "Retired U.S. Army colonel; publicly associated with UAP Task Force work\nMilitary rank and task-force association make claims relevant to investigate; the evidentiary basis must be identified.\nLocate on-record statements and identify direct access versus professional assessment.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Karl%20Nell%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-11",
+      "kind": "person",
+      "year": 0,
+      "title": "Bob Lazar",
+      "location": "",
+      "category": "claimant",
+      "summary": "Said he worked on alleged recovered craft near Groom Lake and described gravity-related propulsion and element 115.",
+      "notes": "Public claimant of work at alleged S-4 facility\nThe May 15, 1989 anonymous KLAS-TV interview with George Knapp is a primary record of the early claim. Employment and technical claims remain disputed.\nStart with earliest interviews, independently verify biography, and separate element 115's synthesis from claims about stable isotopes or propulsion.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Bob%20Lazar%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-12",
+      "kind": "person",
+      "year": 0,
+      "title": "George Knapp",
+      "location": "",
+      "category": "researcher",
+      "summary": "Brought Lazar's claims to public attention in 1989 and continued reporting on UAP and alleged secret programs.",
+      "notes": "Investigative journalist and broadcaster\nJournalist and source collector, not an eyewitness to alleged S-4 work. Original broadcasts trace what was said at the time.\nCompare the May 15 broadcast with later interviews and retain date and context.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=George%20Knapp%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-13",
+      "kind": "person",
+      "year": 0,
+      "title": "Kenneth Arnold",
+      "location": "",
+      "category": "witness",
+      "summary": "Reported nine unusual objects near Mount Rainier on June 24, 1947.",
+      "notes": "Civilian pilot; 1947 sighting witness\nFirsthand historical report of what he said he saw, not proof of the objects' origin.\nCompare first report, contemporary news, and later interviews.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Kenneth%20Arnold%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "person-14",
+      "kind": "person",
+      "year": 0,
+      "title": "Dan Farah",
+      "location": "",
+      "category": "researcher",
+      "summary": "Created the documentary that frames testimony from government, military, and intelligence insiders around a disclosure argument.",
+      "notes": "Director and producer of The Age of Disclosure\nFilmmaker and editorial curator; documentary framing is not an independent finding by each interviewee.\nCompare the film's framing with full interviews, transcript context, and original documents.",
+      "sources": [
+        {
+          "title": "Official film page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        },
+        {
+          "title": "Search original interviews and records",
+          "url": "https://www.google.com/search?q=Dan%20Farah%20UAP%20original%20interview%20testimony"
+        }
+      ],
+      "provenance": "ECHO-7 witness and insider directory",
+      "evidenceStatus": "person's public role documented; claims require separate verification"
+    },
+    {
+      "id": "program-0",
+      "kind": "program",
+      "year": 2007,
+      "title": "AATIP",
+      "location": "",
+      "category": "Reported government program; name and scope debated",
+      "summary": "Commonly linked to a DIA contract and later UAP reporting. Public accounts often blend it with AAWSAP; inspect contracts and official descriptions.",
+      "notes": "2007 onward / public disclosure 2017",
+      "sources": [
+        {
+          "title": "Program source / research lead",
+          "url": "https://www.google.com/search?q=DIA+AATIP+primary+documents"
+        }
+      ],
+      "provenance": "ECHO-7 programs index",
+      "evidenceStatus": "program status must be checked against original records"
+    },
+    {
+      "id": "program-1",
+      "kind": "program",
+      "year": 2008,
+      "title": "AAWSAP",
+      "location": "",
+      "category": "Documented DIA-funded research effort",
+      "summary": "A DIA-sponsored effort with a private contractor. Scope and related UAP research are described differently by participants and official reviews.",
+      "notes": "2008–2012",
+      "sources": [
+        {
+          "title": "Program source / research lead",
+          "url": "https://www.google.com/search?q=AAWSAP+DIA+contract+primary+documents"
+        }
+      ],
+      "provenance": "ECHO-7 programs index",
+      "evidenceStatus": "program status must be checked against original records"
+    },
+    {
+      "id": "program-2",
+      "kind": "program",
+      "year": 0,
+      "title": "KONA BLUE",
+      "location": "",
+      "category": "Proposed, not formally established",
+      "summary": "A DHS prospective special-access proposal. Public records say it was never formally established. Supporters connected it with alleged non-human biologics; that does not prove such materials existed.",
+      "notes": "Proposed 2011–2012; records released 2024",
+      "sources": [
+        {
+          "title": "Program source / research lead",
+          "url": "https://www.aaro.mil/UAP-Records/-1/"
+        }
+      ],
+      "provenance": "ECHO-7 programs index",
+      "evidenceStatus": "program status must be checked against original records"
+    },
+    {
+      "id": "program-3",
+      "kind": "program",
+      "year": 0,
+      "title": "MJ-12 / Majestic 12",
+      "location": "",
+      "category": "Disputed documents / alleged secret group",
+      "summary": "Documents purporting to describe a secret group established after Roswell have been challenged. Treat them as disputed documentary claims rather than an established program.",
+      "notes": "Claims circulated publicly from the 1980s",
+      "sources": [
+        {
+          "title": "Program source / research lead",
+          "url": "https://www.google.com/search?q=MJ-12+documents+provenance+archive"
+        }
+      ],
+      "provenance": "ECHO-7 programs index",
+      "evidenceStatus": "program status must be checked against original records"
+    },
+    {
+      "id": "program-4",
+      "kind": "program",
+      "year": 1952,
+      "title": "Project Blue Book",
+      "location": "",
+      "category": "Documented Air Force investigation",
+      "summary": "Historical project that collected and investigated UFO reports. Files document reports and methods; an unresolved label does not prove extraterrestrial origin.",
+      "notes": "1952–1969",
+      "sources": [
+        {
+          "title": "Program source / research lead",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ],
+      "provenance": "ECHO-7 programs index",
+      "evidenceStatus": "program status must be checked against original records"
+    },
+    {
+      "id": "program-5",
+      "kind": "program",
+      "year": 1947,
+      "title": "Project Sign / Grudge",
+      "location": "",
+      "category": "Documented early Air Force investigations",
+      "summary": "Early investigations that preceded Blue Book and studied flying-disc reports after the 1947 sighting wave.",
+      "notes": "1947–1951",
+      "sources": [
+        {
+          "title": "Program source / research lead",
+          "url": "https://www.google.com/search?q=Project+Sign+Project+Grudge+declassified+records"
+        }
+      ],
+      "provenance": "ECHO-7 programs index",
+      "evidenceStatus": "program status must be checked against original records"
+    },
+    {
+      "id": "program-6",
+      "kind": "program",
+      "year": 0,
+      "title": "Crash retrieval / reverse engineering",
+      "location": "",
+      "category": "Allegation category; case-by-case corroboration",
+      "summary": "Claims of recovered non-human craft appear in testimony from people including David Grusch and Bob Lazar in different contexts. Trace each source and alleged program separately.",
+      "notes": "Multiple claims across decades",
+      "sources": [
+        {
+          "title": "Program source / research lead",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena/"
+        }
+      ],
+      "provenance": "ECHO-7 programs index",
+      "evidenceStatus": "program status must be checked against original records"
+    },
+    {
+      "id": "claim-0",
+      "kind": "claim",
+      "year": 0,
+      "title": "Alleged long-running cover-up",
+      "location": "",
+      "category": "claim / hypothesis",
+      "summary": "The film argues governments concealed evidence of non-human intelligence for decades. Investigate each asserted mechanism—classification, restricted access, missing records, witness accounts—individually.",
+      "notes": "Compare firsthand accounts with dated documents, program authorizations, and independently sourced testimony.",
+      "sources": [
+        {
+          "title": "Claim source / research lead",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        }
+      ],
+      "provenance": "ECHO-7 claims index",
+      "evidenceStatus": "claim; not automatically established fact"
+    },
+    {
+      "id": "claim-1",
+      "kind": "claim",
+      "year": 0,
+      "title": "Alleged retrieval and reverse engineering",
+      "location": "",
+      "category": "claim / hypothesis",
+      "summary": "Witnesses and advocates describe alleged recovered craft and efforts to understand their technology. A proposal, witness description, and documented recovery are different claims.",
+      "notes": "Track the exact program name, who says they accessed it, and whether records or physical evidence are available.",
+      "sources": [
+        {
+          "title": "Claim source / research lead",
+          "url": "https://www.aaro.mil/UAP-Records/-1/"
+        }
+      ],
+      "provenance": "ECHO-7 claims index",
+      "evidenceStatus": "claim; not automatically established fact"
+    },
+    {
+      "id": "claim-2",
+      "kind": "claim",
+      "year": 0,
+      "title": "Non-human biologics",
+      "location": "",
+      "category": "claim / hypothesis",
+      "summary": "The phrase appears in public discussions of alleged recovery programs, including KONA BLUE. Its appearance in a proposal or interview does not establish recovered biological material.",
+      "notes": "Ask who personally saw a specimen, who handled it, where stored, what chain of custody exists, and whether independent lab results are available.",
+      "sources": [
+        {
+          "title": "Claim source / research lead",
+          "url": "https://www.aaro.mil/UAP-Records/-1/"
+        }
+      ],
+      "provenance": "ECHO-7 claims index",
+      "evidenceStatus": "claim; not automatically established fact"
+    },
+    {
+      "id": "claim-3",
+      "kind": "claim",
+      "year": 0,
+      "title": "Secret international technology competition",
+      "location": "",
+      "category": "claim / hypothesis",
+      "summary": "The film's premise includes a claim that nations competed to reverse-engineer non-human technology. Trace specific events, budgets, facilities, and documents.",
+      "notes": "Separate geopolitical interpretation from claims about specific programs and evidence.",
+      "sources": [
+        {
+          "title": "Claim source / research lead",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        }
+      ],
+      "provenance": "ECHO-7 claims index",
+      "evidenceStatus": "claim; not automatically established fact"
+    },
+    {
+      "id": "source-0",
+      "kind": "source",
+      "year": 0,
+      "title": "The Age of Disclosure — official page",
+      "location": "",
+      "category": "Film / primary source",
+      "summary": "Official premise, director/producer information, and stated interview count.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "The Age of Disclosure — official page",
+          "url": "https://www.theageofdisclosure.com/about-the-film"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-1",
+      "kind": "source",
+      "year": 0,
+      "title": "The Age of Disclosure — third-party transcript",
+      "location": "",
+      "category": "Transcript / secondary host",
+      "summary": "Transcript-style resource for locating speakers. Verify wording against the film; completeness and accuracy are not guaranteed by the official site.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "The Age of Disclosure — third-party transcript",
+          "url": "https://ufopedia.fyi/raw/transcripts/age-of-disclosure-documentary-full-transcript/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-2",
+      "kind": "source",
+      "year": 0,
+      "title": "2023 House UAP hearing",
+      "location": "",
+      "category": "Congressional record",
+      "summary": "On-record testimony by David Grusch, David Fravor, and Ryan Graves; claims differ in evidentiary basis.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "2023 House UAP hearing",
+          "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-3",
+      "kind": "source",
+      "year": 0,
+      "title": "AARO UAP records",
+      "location": "",
+      "category": "Government records portal",
+      "summary": "Public documents including DHS KONA BLUE material and UAP records.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "AARO UAP records",
+          "url": "https://www.aaro.mil/UAP-Records/-1/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-4",
+      "kind": "source",
+      "year": 0,
+      "title": "National Archives UFO records",
+      "location": "",
+      "category": "Historical primary-source portal",
+      "summary": "Air Force and historical UFO records, including Project Blue Book files.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "National Archives UFO records",
+          "url": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-5",
+      "kind": "source",
+      "year": 0,
+      "title": "Papoose Lake / Bob Lazar archive",
+      "location": "",
+      "category": "Independent historical archive",
+      "summary": "Chronological interview index and transcripts where available.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "Papoose Lake / Bob Lazar archive",
+          "url": "https://www.papooselake.org/interview-transcripts"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-6",
+      "kind": "source",
+      "year": 0,
+      "title": "NICAP case directory",
+      "location": "",
+      "category": "Independent research archive",
+      "summary": "Historical case files and source references.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "NICAP case directory",
+          "url": "https://www.nicap.org/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-7",
+      "kind": "source",
+      "year": 0,
+      "title": "NUFORC",
+      "location": "",
+      "category": "Public reporting database",
+      "summary": "Long-running public UFO reporting database. Submissions are witness reports, not independently confirmed by default.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "NUFORC",
+          "url": "https://nuforc.org/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-8",
+      "kind": "source",
+      "year": 0,
+      "title": "Enigma Labs",
+      "location": "",
+      "category": "Independent report platform",
+      "summary": "A modern UAP report and discovery platform; review methodology and access limits.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "Enigma Labs",
+          "url": "https://enigmalabs.io/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-9",
+      "kind": "source",
+      "year": 0,
+      "title": "ADS-B Exchange",
+      "location": "",
+      "category": "Independent flight tracking",
+      "summary": "Aircraft tracking can help check some sightings; coverage gaps mean absence is not proof of an unknown craft.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "ADS-B Exchange",
+          "url": "https://www.adsbexchange.com/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-10",
+      "kind": "source",
+      "year": 0,
+      "title": "Flightradar24",
+      "location": "",
+      "category": "Commercial flight tracking",
+      "summary": "Compare visible air traffic, subject to coverage and historical-data limits.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "Flightradar24",
+          "url": "https://www.flightradar24.com/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "source-11",
+      "kind": "source",
+      "year": 0,
+      "title": "MUFON",
+      "location": "",
+      "category": "Civilian investigation network",
+      "summary": "Long-running civilian UFO investigation and reporting organization.",
+      "notes": "Reference entry; check original publication, context, and completeness.",
+      "sources": [
+        {
+          "title": "MUFON",
+          "url": "https://mufon.com/"
+        }
+      ],
+      "provenance": "ECHO-7 source index",
+      "evidenceStatus": "source type indicated in category; assess directly"
+    },
+    {
+      "id": "community-0",
+      "kind": "community",
+      "year": 0,
+      "title": "r/UFOs",
+      "location": "",
+      "category": "Broad UAP discussion",
+      "summary": "Case analysis, witness interviews, source links.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "r/UFOs",
+          "url": "https://www.reddit.com/r/UFOs/"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "community-1",
+      "kind": "community",
+      "year": 0,
+      "title": "r/UFOB",
+      "location": "",
+      "category": "Sightings & reports",
+      "summary": "Community sightings; check originality and event dates.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "r/UFOB",
+          "url": "https://www.reddit.com/r/UFOB/"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "community-2",
+      "kind": "community",
+      "year": 0,
+      "title": "r/Experiencers",
+      "location": "",
+      "category": "Personal experiences",
+      "summary": "First-person anomalous experience accounts; separate experience from interpretation.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "r/Experiencers",
+          "url": "https://www.reddit.com/r/Experiencers/"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "community-3",
+      "kind": "community",
+      "year": 0,
+      "title": "r/HighStrangeness",
+      "location": "",
+      "category": "Related anomalies",
+      "summary": "Broader anomaly discussions with mixed evidence quality.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "r/HighStrangeness",
+          "url": "https://www.reddit.com/r/HighStrangeness/"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "community-4",
+      "kind": "community",
+      "year": 0,
+      "title": "Reddit: whistleblower search",
+      "location": "",
+      "category": "Insider / testimony leads",
+      "summary": "Find discussions that may point to interviews, hearings, and original records.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "Reddit: whistleblower search",
+          "url": "https://www.reddit.com/r/UFOs/search/?q=whistleblower%20testimony&restrict_sr=1"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "community-5",
+      "kind": "community",
+      "year": 0,
+      "title": "NUFORC reports",
+      "location": "",
+      "category": "Public submissions",
+      "summary": "Browse public sighting reports; submissions are not verified by default.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "NUFORC reports",
+          "url": "https://nuforc.org/"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "community-6",
+      "kind": "community",
+      "year": 0,
+      "title": "Enigma Labs",
+      "location": "",
+      "category": "UAP report platform",
+      "summary": "Explore an independent report and case-discovery platform.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "Enigma Labs",
+          "url": "https://enigmalabs.io/"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "community-7",
+      "kind": "community",
+      "year": 0,
+      "title": "MUFON",
+      "location": "",
+      "category": "Civilian reports",
+      "summary": "Investigation network with reporting and case resources.",
+      "notes": "Community source: posts are leads, not verified events by default.",
+      "sources": [
+        {
+          "title": "MUFON",
+          "url": "https://mufon.com/"
+        }
+      ],
+      "provenance": "ECHO-7 community source index",
+      "evidenceStatus": "community / user-submitted material"
+    },
+    {
+      "id": "south-carolina-0",
+      "kind": "community",
+      "year": 0,
+      "title": "r/Charleston",
+      "location": "South Carolina",
+      "category": "Local community",
+      "summary": "Search Charleston posts about unusual lights and aerial events.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "r/Charleston",
+          "url": "https://www.reddit.com/r/Charleston/"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "south-carolina-1",
+      "kind": "community",
+      "year": 0,
+      "title": "r/southcarolina",
+      "location": "South Carolina",
+      "category": "Statewide community",
+      "summary": "Search state-level reports and discussions; confirm event location and date.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "r/southcarolina",
+          "url": "https://www.reddit.com/r/southcarolina/"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "south-carolina-2",
+      "kind": "community",
+      "year": 0,
+      "title": "Reddit: South Carolina UFO search",
+      "location": "South Carolina",
+      "category": "Cross-community search",
+      "summary": "Search Reddit for UAP/UFO reports across communities.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "Reddit: South Carolina UFO search",
+          "url": "https://www.reddit.com/search/?q=South%20Carolina%20UFO"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "south-carolina-3",
+      "kind": "community",
+      "year": 0,
+      "title": "NUFORC database",
+      "location": "South Carolina",
+      "category": "Public submissions",
+      "summary": "Search South Carolina reports; user submissions are not verified by default.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "NUFORC database",
+          "url": "https://nuforc.org/"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "south-carolina-4",
+      "kind": "community",
+      "year": 0,
+      "title": "ADS-B Exchange",
+      "location": "South Carolina",
+      "category": "Independent flight tracking",
+      "summary": "Compare aircraft transponder data near a report; coverage varies.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "ADS-B Exchange",
+          "url": "https://globe.adsbexchange.com/"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "south-carolina-5",
+      "kind": "community",
+      "year": 0,
+      "title": "FlightRadar24",
+      "location": "South Carolina",
+      "category": "Aircraft tracking",
+      "summary": "Check visible air traffic near a reported date and location.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "FlightRadar24",
+          "url": "https://www.flightradar24.com/"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "south-carolina-6",
+      "kind": "community",
+      "year": 0,
+      "title": "MUFON",
+      "location": "South Carolina",
+      "category": "Civilian reports",
+      "summary": "Civilian investigation and reporting network.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "MUFON",
+          "url": "https://mufon.com/"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    },
+    {
+      "id": "south-carolina-7",
+      "kind": "community",
+      "year": 0,
+      "title": "NASA fireball reports",
+      "location": "South Carolina",
+      "category": "Astronomical cross-check",
+      "summary": "Check bright meteor/fireball reports where relevant.",
+      "notes": "Local lead. Confirm exact event date and location, then compare independent sources.",
+      "sources": [
+        {
+          "title": "NASA fireball reports",
+          "url": "https://fireballs.ndc.nasa.gov/"
+        }
+      ],
+      "provenance": "ECHO-7 South Carolina source index",
+      "evidenceStatus": "local research lead"
+    }
+  ]
+}
