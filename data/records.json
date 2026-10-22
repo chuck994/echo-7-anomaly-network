@@ -282,7 +282,10 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported / requires case-specific assessment",
+      "relatedIds": [
+        "source-aaro-historical-report-2024"
+      ]
     },
     {
       "id": "case-eisenhower",
@@ -1850,7 +1853,7 @@
       "evidenceStatus": "official hearing record; statements require claim-by-claim corroboration",
       "relatedIds": [
         "case-nimitz",
-        "person-david-grusch"
+        "person-1"
       ]
     },
     {
@@ -1880,7 +1883,7 @@
       "evidenceStatus": "official historical review; evaluate conclusions alongside underlying records",
       "relatedIds": [
         "case-roswell",
-        "case-kona-blue"
+        "case-kona"
       ]
     },
     {
