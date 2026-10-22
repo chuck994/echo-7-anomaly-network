@@ -1,13 +1,43 @@
 {
   "title": "ECHO-7 South Carolina Community Watch",
-  "updatedAt": null,
-  "status": "waiting-for-first-run",
+  "updatedAt": "2026-10-22T07:04:14.618171+00:00",
+  "status": "unavailable",
   "notice": "Community RSS search snapshot for South Carolina and nearby areas. Posts may be jokes, speculation, reposts, or mistaken observations. Verify each original account, time, place, and media independently.",
   "feeds": [
-    {"name":"r/UFOs search: South Carolina","url":"https://www.reddit.com/r/UFOs/search.rss?q=South%20Carolina&restrict_sr=1&sort=new"},
-    {"name":"r/Charleston search: UFO","url":"https://www.reddit.com/r/Charleston/search.rss?q=UFO%20OR%20UAP%20OR%20strange%20lights&restrict_sr=1&sort=new"},
-    {"name":"r/southcarolina search: UFO","url":"https://www.reddit.com/r/southcarolina/search.rss?q=UFO%20OR%20UAP%20OR%20strange%20lights&restrict_sr=1&sort=new"}
+    {
+      "name": "r/UFOs search: South Carolina",
+      "url": "https://www.reddit.com/r/UFOs/search.rss?q=South%20Carolina&restrict_sr=1&sort=new"
+    },
+    {
+      "name": "r/Charleston search: UFO",
+      "url": "https://www.reddit.com/r/Charleston/search.rss?q=UFO%20OR%20UAP%20OR%20strange%20lights&restrict_sr=1&sort=new"
+    },
+    {
+      "name": "r/southcarolina search: UFO",
+      "url": "https://www.reddit.com/r/southcarolina/search.rss?q=UFO%20OR%20UAP%20OR%20strange%20lights&restrict_sr=1&sort=new"
+    }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "source": "r/UFOB (community reports)",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/Experiencers (personal accounts)",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/UFOs search: South Carolina",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/Charleston search: UFO",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/southcarolina search: UFO",
+      "message": "HTTP Error 429: Too Many Requests"
+    }
+  ],
   "items": []
 }

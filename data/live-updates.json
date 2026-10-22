@@ -1,14 +1,330 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": null,
-  "status": "waiting-for-first-run",
-  "notice": "The automated workflow has been added. Run it from GitHub Actions to fetch public NASA headlines. This is not a verified UAP sighting feed.",
+  "updatedAt": "2026-10-22T07:04:14.617530+00:00",
+  "status": "ok",
+  "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
     {
       "name": "NASA News",
       "url": "https://www.nasa.gov/feed/"
+    },
+    {
+      "name": "r/UFOs (community)",
+      "url": "https://www.reddit.com/r/UFOs/.rss"
+    },
+    {
+      "name": "r/UFOB (community reports)",
+      "url": "https://www.reddit.com/r/UFOB/.rss"
+    },
+    {
+      "name": "r/Experiencers (personal accounts)",
+      "url": "https://www.reddit.com/r/Experiencers/.rss"
+    },
+    {
+      "name": "r/UFOs search: South Carolina",
+      "url": "https://www.reddit.com/r/UFOs/search.rss?q=South%20Carolina&restrict_sr=1&sort=new"
+    },
+    {
+      "name": "r/Charleston search: UFO",
+      "url": "https://www.reddit.com/r/Charleston/search.rss?q=UFO%20OR%20UAP%20OR%20strange%20lights&restrict_sr=1&sort=new"
+    },
+    {
+      "name": "r/southcarolina search: UFO",
+      "url": "https://www.reddit.com/r/southcarolina/search.rss?q=UFO%20OR%20UAP%20OR%20strange%20lights&restrict_sr=1&sort=new"
     }
   ],
-  "errors": [],
-  "items": []
+  "errors": [
+    {
+      "source": "r/UFOB (community reports)",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/Experiencers (personal accounts)",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/UFOs search: South Carolina",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/Charleston search: UFO",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "r/southcarolina search: UFO",
+      "message": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "items": [
+    {
+      "title": "John G. Trump was read-in on the UFO file during WW2 and later on. He was part of Van Bush’s MIT Rad Lab at MIT. High voltage physics are foundational for UFO disc flight.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xcbc3x/john_g_trump_was_readin_on_the_ufo_file_during/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-22T06:45:52+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Out of the Shadows, who is Jay Stratton referring to on page 54?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xca76y/out_of_the_shadows_who_is_jay_stratton_referring/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-22T05:38:24+00:00",
+      "summary": "“At the heart of the CIA’s Directorate of Science and Technology sat a single individual, one who, with decades of service at the agency, acted as the top gatekeeper of the Legacy Program… One man held the keys… And access to it required his personal approval… He didn’t even pretend to consider it… He essentially slammed his door in our faces.” Who is Jay referring to? &#32; submitted by &#32; /u/Extension-Ad1240 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Did Buddha Teach Extraterrestrial Beings?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xc8wgl/did_buddha_teach_extraterrestrial_beings/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-22T04:25:39+00:00",
+      "summary": "The Buddhist Mahāsamaya Sutta (Dīgha Nikāya 20) describes Nāgas, devas, yakkhas, gandhabbas, and asuras gathering before the Buddha. In the Brahmanimantanika Sutta (Majjhima Nikāya 49), the Buddha encounters and teaches Brahmā Baka, while in other Buddhist texts he teaches devas and other non-human beings. When I compare descriptions of these beings in Buddhist scriptures with accounts of extraterrestrial beings today, I find some interesting similarities. Could the beings de",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-22T04:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Fires Char New Guinea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-22T04:01:00+00:00",
+      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "What UFO videos were called hoaxes but later confirmed to be authentic?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xc6n0o/what_ufo_videos_were_called_hoaxes_but_later/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-22T02:28:46+00:00",
+      "summary": "The Nimitz video is one example. It was suspected of being a filmmaking hoax when it appeared online in 2007. According to this writeup of the original discussion , the person who posted it was even banned for hoaxing, years before the Pentagon confirmed it was Navy footage. What other cases are there? By authentic I mean actual footage, not necessarily aliens. Would love links to the original hoax claims and whatever later cleared it up. &#32; submitted by &#32; /u/Girls_Of_",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Faster to Science: A Letter to the Science Community",
+      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-22T00:00:16+00:00",
+      "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Alien Abductions and the “Eisenhower Agreement” Explained",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xc0hfo/alien_abductions_and_the_eisenhower_agreement/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T21:46:57+00:00",
+      "summary": "Submission statement: The story goes that in 1954, President Eisenhower vanished for a night in Palm Springs. UFO folklore says he went to Muroc air field (now Edwards AFB) for a secret meeting to make a deal with alien beings not from this world: they get access to us, and we get their technology. The &quot;official explanation&quot; was an emergency dental procedure. But when you look at the details, it looks less like a President making a deal and more like him being told ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-21T20:51:50+00:00",
+      "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Can someone give me an update on the current UAP situation and whether we've gotten any new information?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbyngl/can_someone_give_me_an_update_on_the_current_uap/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T20:35:40+00:00",
+      "summary": "I hope my post is allowed and doesn’t break any rules. Basically, I became aware of the whole UAP topic after the David Grusch stuff. I&#39;m aware that the extraordinary claims (e.g., recovered biologics, or even crashed UAPs that have supposedly been covered up) haven&#39;t been sufficiently proven, and no government is officially acknowledging any of it. But UAPs as a phenomenon are real. Multiple governments have formally acknowledged that military personnel encounter obj",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s chief says the agency has a seat in PURSUE, but his own guess is adversary tech or natural phenomena. What does that tell us?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbxxwy/nasas_chief_says_the_agency_has_a_seat_in_pursue/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T20:08:09+00:00",
+      "summary": "NASA Administrator Jared Isaacman told NewsNation’s Blake Burman on Sept. 25, 2026 that NASA has had “a seat at the table” since the president’s call to release UFO/UAP files, now formalized as PURSUE. Asked for his gut call, he leaned toward natural phenomena or a “Sputnik Moment,” meaning an adversary testing next-generation propulsion. Aliens came up only as a conditional: “If it’s aliens, I think NASA should have a seat at the table.” Separately, a Department of War waive",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "So I read the entire out of the shadows book by Jay Stratton",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbxo7g/so_i_read_the_entire_out_of_the_shadows_book_by/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T19:58:38+00:00",
+      "summary": "First things first, much respect to Jay for not only writing the book, but more importantly, sharing deeply personal and private anecdotes. The chapters are short, but very rich in substance. For those that are not big on reading these days, you should check out the audiobook. It is also very well done. Jake covers everything. From how he got involved to who he worked with to whom he met to the legacy program folks that he had to push back against, on and on. He provides in d",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Stratton’s new book",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbx4f2/strattons_new_book/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T19:37:40+00:00",
+      "summary": "I love reading. I love following the NHI topic. I do not love this book. I have a problem with someone like Jay Stratton coming out with stories of werewolves in his backyard with nothing more than a “trust me bro” to back it up. “The creature stopped at the tree line, looked at my wife over its shoulder, then scratched its claws down the tree before disappearing into a portal” So the aliens are corny, got it. This feels like a Sarah J Maas UAP fanfic. Outside of your own per",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-21T18:35:56+00:00",
+      "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Jason Samosa on the Secret Cult That Ties Every Conspiracy Together Going Back to the 1933 Magenta, Italy UFO Crash-Retrieval",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbtrhe/jason_samosa_on_the_secret_cult_that_ties_every/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T17:35:52+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "If a contact experiencer remembers an encounter, spontaneously or via hypnosis, does that mean it was a physical event?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbt8tq/if_a_contact_experiencer_remembers_an_encounter/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T17:17:23+00:00",
+      "summary": "In my judgment, the entire UAP/paranormal interest community is unable to grasp the tremendous psi capability of the non-human intelligences associated with what are now called “Unidentified Anomalous Phenomena.” Their mechanisms of contact are consciousness based and are accomplished by placing human subjects in altered states of consciousness that involve strong forms of virtual reality akin to OBEs. These &quot;others&quot; can implant false memories that convince both exp",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-21T16:31:11+00:00",
+      "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA&#8217;s contributions to aeronautics and the agency&#8217;s continued commitment to [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Tracks Along the Longest Drive on Another World",
+      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-21T15:50:44+00:00",
+      "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-21T15:05:08+00:00",
+      "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module&#8217;s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Source: Jacques Vallee's book \"Passport to Magonia\". This witness encounter made me giggle so I had to share it.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbna7e/source_jacques_vallees_book_passport_to_magonia/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T13:32:50+00:00",
+      "summary": "&#32; submitted by &#32; /u/MaxZout [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "‘UFO pioneer’ and outsider artist Dante Vaghi gets his day in the starlight at CT gallery",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xblxlc/ufo_pioneer_and_outsider_artist_dante_vaghi_gets/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T12:34:13+00:00",
+      "summary": "A late artist, UFO enthusiast and Connecticut small town character is being recognized 15 years after his death with a newly opened art show in Danbury. Vaghi’s belief began in 1950, when he claimed to see a large UFO above his Bethel shop, Vaghi Woodworking. That sighting was the spark that inspired decades of Vaghi’s model UFO recreations, drawings, T-shirts, and large, hand-painted signs that adorned his shop walls. After his initial sighting in 1950, Vaghi claimed to have",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "I built a free map of UFO sightings and official government UFO files (Blue Book, Canada, UK, France and more). Mods said OK to share",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xblt5u/i_built_a_free_map_of_ufo_sightings_and_official/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T12:28:37+00:00",
+      "summary": "Hi r/UFOs . With the mods&#39; permission, I wanted to share a side project: Encounter Atlas ( encounteratlas.com/ufo ), a free map of UFO sightings and the paperwork behind them. What&#39;s on it: • 10,622 Project Blue Book case files, mapped, from the US National Archives. • 17,170 Canadian sightings from the Canadian UFO Survey, mapped across the country. • Official releases from 13 countries: the UK MoD files, France&#39;s GEIPAN, Chile&#39;s CEFAA/SEFAA, Brazil, the FBI ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-21T12:17:58+00:00",
+      "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "🚀 Upcoming Space Launches for October 21, 2026",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbj9sr/upcoming_space_launches_for_october_21_2026/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T10:15:03+00:00",
+      "summary": "Here are the launches scheduled for the next 24 hours: Falcon 9 Block 5 | Starlink Group 15-15 Provider: SpaceX Launch Time: 2026-10-21 23:02 UTC / 2026-10-21 07:02 PM EDT Launch Pad: Vandenberg SFB, CA, USA Pad Country: USA Electron | We&#39;re Not Hawking Around (3x HawkEye 360) Provider: Rocket Lab Launch Time: 2026-10-22 07:00 UTC / 2026-10-22 03:00 AM EDT Launch Pad: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand Pad Country: NZL Visit RocketLaunch.Live to vie",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Before Blue Book: What J. Allen Hynek Did in the War",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbhroo/before_blue_book_what_j_allen_hynek_did_in_the_war/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T08:42:14+00:00",
+      "summary": "Part 10 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Before Project Sign, Hynek was Supervisor of Technical Reports at Johns Hopkins’ Applied Physics Laboratory (APL), 1942–1946 , working inside the secret proximity-fuze program. A newspaper account says he led a briefing and reported that captured dud fuzes had been recovered. That does not establish that he commanded their recovery. The fuze program collaborated with Los Alamos. No",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Jeremy Corbell and George Knapp present Jay Stratton’s first-ever recorded interview",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xbdcdc/jeremy_corbell_and_george_knapp_present_jay/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-21T04:14:13+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-21T04:05:00+00:00",
+      "summary": "APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Jay Stratton says in his book that there are fake whistleblowers in the UAP space to muddy the waters. - \"These planted phonies undermine the impact of the real deal whistleblowers and confuse the public.\" Says they have testified in front of Congress.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xb74t9/jay_stratton_says_in_his_book_that_there_are_fake/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-20T23:11:04+00:00",
+      "summary": "Full excerpt from the book: “A new layer of the disinformation campaign is manufactured by so called whistleblowers, stepping into the spotlight of the social media and podcast arena, often urged on by bad actors doing the legacy programs bidding. They spin tales that grab headlines, not because they are credible, but because they are sensational. And because a hungry online community, desperate for any breadcrumb, eats them up without question and elevates these individuals ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "The Pentagon’s new UAP waiver covers disclosures to PURSUE representatives only. Who decides what becomes public?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xb3xce/the_pentagons_new_uap_waiver_covers_disclosures/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-20T20:55:15+00:00",
+      "summary": "On Monday, Sept. 14, 2026, the Department of War issued a waiver letting current and former service members, civilians and contractors share UAP-related national defense information with PURSUE representatives without triggering NDA breach penalties. PURSUE is the Trump administration’s UAP task force, and the Pentagon did not say who its representatives are. A senior administration official said in July that anything shedding light on UAP “will ultimately be made public,” bu",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "He Used a Nuclear Submarine to Lure an Alien Spacecraft—and Found Something That Defied Physics",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xb0nfq/he_used_a_nuclear_submarine_to_lure_an_alien/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-20T18:50:34+00:00",
+      "summary": "&#32; submitted by &#32; /u/Altruism7 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    }
+  ]
 }
