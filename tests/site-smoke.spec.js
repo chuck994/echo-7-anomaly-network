@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test';
 
 test.beforeEach(async ({ page }) => {
   await page.goto('/');
+  page.on('pageerror', error => console.error('PAGE_ERROR:', error.message));
   await expect(page.locator('#case-count')).not.toHaveText('—');
   await expect(page.locator('#case-count')).not.toHaveText('0');
   // The archive results live inside #pageview, which is intentionally hidden on the desk.
