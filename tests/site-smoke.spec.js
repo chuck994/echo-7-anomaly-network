@@ -33,8 +33,8 @@ test('search narrows results and clear search restores them', async ({ page }) =
 
 test('type and year filters are populated and can be applied', async ({ page }) => {
   await page.locator('[data-page="research"]').click();
-  await expect(page.locator('#kind-filter option')).toHaveCountGreaterThan(1);
-  await expect(page.locator('#year-filter option')).toHaveCountGreaterThan(1);
+  expect(await page.locator('#kind-filter option').count()).toBeGreaterThan(1);
+  expect(await page.locator('#year-filter option').count()).toBeGreaterThan(1);
   await page.locator('#kind-filter').selectOption({ index: 1 });
   await expect(page.locator('#results .record').first()).toBeVisible();
   const selectedKind = await page.locator('#kind-filter').inputValue();
