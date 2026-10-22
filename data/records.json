@@ -38,7 +38,7 @@
       "location": "New Mexico, USA",
       "category": "historic",
       "summary": "Debris recovered near Roswell in July 1947 became one of the most enduring alleged crash-retrieval stories.",
-      "notes": "Some witnesses and researchers argue the debris or associated events involved a non-human craft and bodies. Accounts vary, and influential details appeared years after the event.\nThe military initially described a flying disc, then said the material was a weather balloon. Later Air Force explanations connected the debris to Project Mogul. Compare official records with witness accounts.\nBuild a dated chain of custody for debris and separate contemporary documents from recollections.\nWhich witnesses described material directly and which repeated other accounts?\nWhat does each explanation account for, and what do critics say remains unresolved?",
+      "notes": "Evidence assessment (updated 2026-10-22)\nDocumented baseline: in July 1947, military personnel at Roswell Army Air Field announced recovery of a \"flying disc\"; the Army soon described the material as a weather balloon. Later Air Force investigations attributed the debris to Project Mogul and addressed later body claims through other explanations. Those official explanations should be read alongside the actual documents and the history of when witness accounts were recorded.\nWitness chronology: separate 1947 statements and news reports from recollections recorded decades later. Record whether each witness personally handled debris, saw bodies, heard an account from someone else, or learned details through media or researchers. Avoid combining different locations, dates, and materials into a single assumed event.\nChain of custody: no publicly available, independently verifiable chain of custody for alleged non-human bodies or craft has established that claim. A witness's description of unusual material is not enough to determine origin or composition.\nCompeting explanations: weather balloon or other conventional debris; Project Mogul-related material; mistaken memory or conflated events; or unresolved details in the historical record. Compare what each explanation predicts with contemporary records, not just later summaries.\nNext research steps: inspect National Archives and Air Force records, contemporaneous local reporting, and dated witness interviews; map each claim to the earliest traceable source; record contradictions and missing documents. Treat web searches and community threads as leads, not primary evidence.",
       "sources": [
         {
           "title": "National Archives UFO records",
@@ -54,7 +54,7 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment",
+      "evidenceStatus": "reported event; individual claims and explanations require source-by-source assessment",
       "relatedIds": [
         "source-aaro-historical-report-2024"
       ]
@@ -111,7 +111,7 @@
       "location": "Arizona, USA",
       "category": "lights",
       "summary": "People across Arizona reported lights and formations on March 13, 1997. Reports may describe more than one event.",
-      "notes": "Witnesses described a large formation or V-shaped object; a separate set of lights was associated with flares released by military aircraft. Not all witnesses agree flares explain what they saw.\nMultiple eyewitness reports and recordings exist. Time, location, direction, and whether a witness saw the earlier formation or later lights are essential.\nSeparate earlier formation reports from later lights by time and geography.\nCompare independent statements made close to the event with later interviews.\nWhat can video perspective and military activity explain—and what do witnesses dispute?",
+      "notes": "Evidence assessment (updated 2026-10-22)\nCritical distinction: the Phoenix Lights label often groups at least two reported phenomena on March 13, 1997: earlier reports of a large formation or V-shaped object and later lights widely associated with military flares. Treating these as one event can create false agreement or make an explanation for one set of lights appear to explain all reports.\nWitness evidence: record each observer's location, time, direction, elevation, duration, and whether they described a formation, individual lights, or the later stationary sequence. A witness who saw only the later lights cannot independently corroborate an earlier formation report.\nCompeting explanations: military flares can account for some later lights in some observations; aircraft formations or other conventional sources have also been proposed for portions of the reports. The match must be evaluated by timing, geography, motion, and visual characteristics rather than applied indiscriminately.\nEvidence needed: original recordings with timestamps, contemporary interviews, military flight and exercise records, weather, observer locations, and independent statements recorded close to the event. Later recollections are useful but can be affected by media narratives and memory.\nCurrent conclusion: a significant cluster of reports with multiple potentially distinct observations; no single interpretation should be treated as established for every witness.",
       "sources": [
         {
           "title": "National Archives UFO records",
@@ -123,7 +123,7 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported event; individual claims and explanations require source-by-source assessment"
     },
     {
       "id": "case-bluebook",
@@ -192,7 +192,7 @@
       "location": "Suffolk, England",
       "category": "military",
       "summary": "U.S. military personnel stationed in England reported unusual lights and events near Rendlesham Forest in December 1980.",
-      "notes": "Some witnesses described a structured craft or close encounter; interpretations and details vary across statements and years.\nThe case includes military witness statements and a well-known memo by Lt. Col. Charles Halt. Compare contemporaneous records with later recollections and local astronomical conditions.\nRead the Halt memo alongside each witness statement.\nBuild a night-by-night timeline rather than combining events across dates.\nWhich observations were close range and which were distant lights?",
+      "notes": "Evidence assessment (updated 2026-10-22)\nWhat is documented: U.S. military personnel stationed in the UK reported unusual lights and events near Rendlesham Forest in late December 1980. Lt. Col. Charles Halt produced a memo describing reported events. The memo is a contemporaneous official record of what was reported and observed by the author; it does not independently establish an extraterrestrial craft.\nTimeline discipline: keep the nights and locations separate. Distinguish direct close-range observations from distant lights, and distinguish what Halt personally observed from what other personnel told him. Later interviews may add detail but should be compared against the earliest statements.\nPotential conventional factors: lighthouse illumination, stars or planets, meteors, aircraft, night-vision limitations, stress, and expectation have been discussed as possible contributors to parts of the case. Evaluate each against the specific time, direction, weather, and witness location; no single generic explanation should be assumed to account for every report without testing.\nEvidence needed: original statements, the full Halt memo and recording, base logs, weather and astronomical conditions, site maps, and exact witness positions and timestamps. Look for independent corroboration rather than repeating the same account across later books and interviews.\nCurrent conclusion: a documented cluster of reports with disputed interpretations. The case record does not establish non-human origin.",
       "sources": [
         {
           "title": "Original document search",
@@ -204,7 +204,7 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported event; individual claims and explanations require source-by-source assessment"
     },
     {
       "id": "case-tehran",
@@ -214,7 +214,7 @@
       "location": "Tehran, Iran",
       "category": "military",
       "summary": "Iranian military pilots reported a bright object in September 1976; accounts describe attempted interception and reported instrument problems.",
-      "notes": "Often cited as a radar-visual case involving military pilots. Details should be traced to the original intelligence report and later retellings.\nA declassified U.S. DIA report summarizes the event. It records reports and assessments, not independent proof of the object's origin.\nLocate the original DIA report and distinguish source statements from analyst assessment.\nCheck the timeline of sorties, radar contacts, and equipment effects.\nCompare later summaries with the contemporaneous report.",
+      "notes": "Evidence assessment (updated 2026-10-22)\nWhat is documented: a U.S. Defense Intelligence Agency information report summarized Iranian military reports of a September 1976 Tehran incident involving visual observations, radar reports, aircraft interceptions, and reported equipment difficulties. The document is a primary source for what was reported to U.S. officials; much of the underlying event information is relayed reporting rather than direct U.S. observation.\nKeep the layers separate: Iranian pilots' observations, radar operator reports, statements passed to U.S. officials, and the DIA report's assessment are different evidence layers. Do not present the summary document as though its author personally witnessed the event.\nTechnical questions: identify the original report version, its source notes, aircraft types and equipment, sortie chronology, weather, astronomical conditions, and what exactly was meant by each reported system malfunction. Later accounts should be checked against the contemporaneous document.\nCompeting explanations: misidentified astronomical or atmospheric phenomena, equipment or operational issues, a conventional object, inaccurate retelling, or an unresolved event. A report describing multiple unusual elements does not establish their cause.\nNext steps: obtain the full original DIA document from a reliable archive; cite page and paragraph for each assertion; compare it with Iranian and U.S. records and independent technical review. Preserve uncertainty where underlying logs are unavailable.",
       "sources": [
         {
           "title": "DIA report search",
@@ -226,7 +226,7 @@
         }
       ],
       "provenance": "ECHO-7 curated case index",
-      "evidenceStatus": "reported / requires case-specific assessment"
+      "evidenceStatus": "reported event; individual claims and explanations require source-by-source assessment"
     },
     {
       "id": "case-lazar",
