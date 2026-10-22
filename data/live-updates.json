@@ -1,0 +1,14 @@
+{
+  "title": "ECHO-7 Public Signal Feed",
+  "updatedAt": null,
+  "status": "waiting-for-first-run",
+  "notice": "The automated workflow has been added. Run it from GitHub Actions to fetch public NASA headlines. This is not a verified UAP sighting feed.",
+  "feeds": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/feed/"
+    }
+  ],
+  "errors": [],
+  "items": []
+}
