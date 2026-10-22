@@ -1,0 +1,38 @@
+name: ECHO-7 browser smoke tests
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'data/records.json'
+      - 'tests/**'
+      - '.github/workflows/browser-smoke.yml'
+  pull_request:
+    paths:
+      - 'index.html'
+      - 'data/records.json'
+      - 'tests/**'
+      - '.github/workflows/browser-smoke.yml'
+jobs:
+  browser-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install --save-dev @playwright/test
+          npx playwright install --with-deps chromium
+      - name: Run site in local static server and test in Chromium
+        run: |
+          python3 -m http.server 4173 --bind 127.0.0.1 > /tmp/echo7-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+          for i in $(seq 1 30); do
+            if curl --silent --fail http://127.0.0.1:4173/ > /dev/null; then break; fi
+            sleep 1
+          done
+          npx playwright test tests/site-smoke.spec.js --reporter=list
