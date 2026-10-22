@@ -776,23 +776,18 @@
       box-shadow: 0 8px 28px rgba(0,0,0,.3);
     }
     .immersive-ship {
-      position: fixed;
-      z-index: 10000;
-      left: -34vw;
-      top: 18vh;
-      width: clamp(190px, 27vw, 360px);
-      height: 100px;
-      opacity: 0;
-      pointer-events: none;
-      filter: drop-shadow(0 0 20px rgba(84,255,157,.72));
+      position: fixed; z-index: 10000; right: max(18px, calc((100vw - 1120px) / 2 + 18px));
+      top: 3.4vh; width: 118px; height: 42px; opacity: 0; pointer-events: none;
+      filter: drop-shadow(0 0 12px rgba(84,255,157,.5));
     }
+    body.modal-lock .immersive-ship { opacity:.96; }
     .immersive-ship::before {
       content: "";
       position: absolute;
       left: 0;
-      top: 43px;
+      top: 23px;
       width: 100%;
-      height: 8px;
+      height: 4px;
       border-radius: 50%;
       background: linear-gradient(90deg, transparent, rgba(63,255,139,.12), #56ff9e, #d5ffe6);
       box-shadow: 0 0 18px #28ff83, 0 0 44px rgba(28,255,132,.7);
@@ -802,24 +797,17 @@
       content: "";
       position: absolute;
       right: 18px;
-      top: 8px;
-      width: 104px;
-      height: 62px;
+      top: 0;
+      width: 44px;
+      height: 30px;
       border-radius: 55% 55% 45% 45%;
       background: radial-gradient(ellipse at 50% 24%, #effff7 0 5%, #9cfbd2 10%, #5c8fa9 38%, #17283b 68%, #03080e 78%);
       border: 1px solid rgba(184,255,224,.85);
       box-shadow: 0 0 16px rgba(86,255,158,.9), 0 0 45px rgba(86,255,158,.5);
       transform: rotate(-8deg) perspective(80px) rotateX(25deg);
     }
-    .immersive-ship.flyby { animation: shipFlyby 4.2s cubic-bezier(.2,.55,.25,1) both; }
+    .immersive-ship.flyby { animation:none; }
     body.modal-lock { overflow: hidden; }
-    @keyframes shipFlyby {
-      0% { left: -35vw; top: 24vh; opacity: 0; transform: scale(.45) rotate(-9deg); }
-      10% { opacity: 1; }
-      35% { top: 19vh; transform: scale(.9) rotate(-5deg); }
-      66% { top: 12vh; opacity: 1; transform: scale(1.22) rotate(-3deg); }
-      100% { left: 115vw; top: 8vh; opacity: 0; transform: scale(1.55) rotate(-2deg); }
-    }
     @keyframes modalFade { from { opacity: 0; } to { opacity: 1; } }
     @keyframes dossierArrive { from { opacity: 0; transform: rotateX(5deg) translateY(20px) scale(.985); } to { opacity: 1; transform: rotateX(0) translateY(0) scale(1); } }
     @media (prefers-reduced-motion: reduce) {
@@ -828,7 +816,7 @@
     @media (max-width: 640px) {
       .immersive-shell { border-radius: 16px; }
       .immersive-modal { padding: 10px; }
-      .immersive-ship { top: 13vh; }
+      .immersive-ship { top: 3vh; right:18px; transform:scale(.82); transform-origin:top right; }
     }
 
     /* Distinct visual identities for each research department. */
@@ -842,19 +830,6 @@
     #cases .section-head, #documents .section-head, #science .section-head,
     #south-carolina .section-head, #theory-lab .section-head, #methods .section-head,
     #investigator .section-head { padding-bottom: 15px; border-bottom: 1px solid rgba(180,210,235,.12); }
-    .alien-buddy {
-      position: absolute;
-      right: 26px;
-      top: 22px;
-      font-size: clamp(26px, 4vw, 42px);
-      opacity: .76;
-      filter: drop-shadow(0 0 14px rgba(93,255,166,.35));
-      animation: buddyBob 4s ease-in-out infinite;
-      user-select: none;
-      pointer-events: none;
-    }
-    #science, #south-carolina, #theory-lab { position: relative; }
-    @keyframes buddyBob { 0%,100% { transform: translateY(0) rotate(-5deg); } 50% { transform: translateY(-10px) rotate(5deg); } }
     .dossier-analyst-note {
       margin-top: 24px;
       padding: 20px 22px;
@@ -895,15 +870,19 @@
     .live-dot,.status-pip { display:inline-block;width:7px;height:7px;border-radius:50%;background:#68ffad;box-shadow:0 0 12px #68ffad;margin-right:7px; }
     .live-status-row { display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;margin:16px 0;padding:14px 16px;border:1px solid rgba(96,255,174,.16);border-radius:12px;background:rgba(2,13,18,.55);color:#a8c8bc;font:10px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.06em; }
     .live-next-step { margin-top:14px;border-color:rgba(96,255,174,.2);background:rgba(5,22,24,.55); }
-    .alien-population { position:absolute;inset:0;pointer-events:none;overflow:visible;z-index:3; }
-    .alien-buddy { position:absolute;display:block;pointer-events:auto;cursor:pointer;user-select:none;filter:drop-shadow(0 0 12px rgba(101,255,174,.28));font-size:clamp(23px,2.7vw,38px);animation:alienBob var(--bob,3.8s) ease-in-out infinite;animation-delay:var(--delay,0s);transition:transform .2s,filter .2s; }
-    .alien-buddy:hover { transform:scale(1.45) rotate(10deg);filter:drop-shadow(0 0 18px rgba(101,255,174,.7)); }
-    .alien-buddy::after { content:attr(data-caption);position:absolute;left:50%;top:100%;transform:translateX(-50%);padding:5px 8px;border:1px solid rgba(96,255,174,.25);border-radius:7px;background:#07151a;color:#b6ffd5;font:9px/1.3 ui-monospace,monospace;white-space:nowrap;opacity:0;pointer-events:none; }
-    .alien-buddy:hover::after { opacity:1; }
-    @keyframes alienBob { 0%,100%{translate:0 0;rotate:-5deg} 50%{translate:0 -11px;rotate:5deg} }
-    .alien-buddy.sitting { animation-name:alienSit; }
-    @keyframes alienSit { 0%,100%{translate:0 0;rotate:-2deg} 50%{translate:0 -4px;rotate:2deg} }
     .section-head { position:relative; }
+    .corner-alien{position:absolute;z-index:2;right:24px;top:-16px;width:30px;height:30px;pointer-events:none}
+    .corner-alien .alien-head{position:absolute;left:3px;top:0;width:24px;height:20px;border-radius:48% 48% 42% 42%;background:linear-gradient(145deg,#a8ff9b,#35c96d 68%,#16894a);border:1px solid #b9ffc2;box-shadow:0 0 12px #35c96d33}
+    .corner-alien .alien-eye{position:absolute;top:7px;width:5px;height:7px;border-radius:50%;background:#092a1c}
+    .corner-alien .alien-eye.left{left:7px}.corner-alien .alien-eye.right{right:7px}
+    .corner-alien .alien-body{position:absolute;left:9px;top:18px;width:12px;height:9px;border-radius:6px 6px 2px 2px;background:#35c96d}
+    .corner-alien .alien-leg{position:absolute;top:25px;width:4px;height:5px;background:#35c96d;border-radius:2px}
+    .corner-alien .alien-leg.left{left:9px}.corner-alien .alien-leg.right{right:9px}
+    #live-desk,#south-carolina{position:relative}#live-desk>.corner-alien,#south-carolina>.corner-alien{right:30px;top:-11px}
+    .corner-ufo{position:absolute;z-index:2;right:75px;top:-10px;width:48px;height:18px;pointer-events:none}
+    .corner-ufo:before{content:"";position:absolute;left:3px;top:0;width:42px;height:12px;border-radius:50% 50% 40% 40%;border:1px solid #b5ffce;background:linear-gradient(180deg,#b8ffe0,#3b9879 65%,#173b3c);box-shadow:0 0 13px #4dff9d40}
+    .corner-ufo:after{content:"";position:absolute;left:9px;top:10px;width:30px;height:5px;border-radius:50%;background:linear-gradient(90deg,transparent,#72ffac,transparent)}
+    @media(max-width:600px){.corner-alien{right:12px;transform:scale(.85);transform-origin:top right}.corner-ufo{right:54px;transform:scale(.85);transform-origin:top right}}
     #live-desk .section-head,#cases .section-head,#documents .section-head,#science .section-head,#south-carolina .section-head,#theory-lab .section-head,#faq .section-head,#investigator .section-head { padding-bottom:16px;border-bottom:1px solid rgba(180,210,235,.13);margin-bottom:22px; }
     @media(max-width:1000px){.signal-board{grid-template-columns:repeat(2,minmax(0,1fr));}}
     @media(max-width:600px){.signal-board{grid-template-columns:1fr}.signal-tile{min-height:0}.signal-tile p{min-height:0}.live-status-row{font-size:9px} .alien-buddy{font-size:24px}}
@@ -922,6 +901,7 @@
     .feed-empty { padding:20px;border:1px dashed rgba(125,177,198,.22);border-radius:12px;color:#9bb4c1;font:11px/1.7 ui-monospace,monospace;grid-column:1/-1; }
     .feed-footer { margin-top:14px;padding-top:13px;border-top:1px solid rgba(125,177,198,.14);color:#91acb9;font-size:10px; }
     @media(max-width:700px){.live-feed-items{grid-template-columns:1fr}.signal-feed-panel{padding:14px}}
+    .sc-feed-panel{border-color:rgba(87,255,164,.26);background:linear-gradient(135deg,rgba(5,31,27,.7),rgba(7,14,24,.9))}.sc-source-note{margin-top:14px;border-color:rgba(87,255,164,.2);background:rgba(5,25,24,.38)}
 
   </style>
 </head>
@@ -1130,7 +1110,7 @@
         </article>
       </div>
       <div class="live-status-row">
-        <div><span class="status-pip"></span><strong>TRACKER STATUS:</strong> Scheduled NASA news feed · First run pending</div>
+        <div><span class="status-pip"></span><strong>TRACKER STATUS:</strong> Scheduled public-source snapshots · See source timestamps</div>
         <div id="localClock">LOCAL CLOCK — loading…</div>
       </div>
       <div class="signal-feed-panel">
@@ -1142,7 +1122,7 @@
       <div class="article live-next-step">
         <div class="eyebrow">NEXT SYSTEM TO BUILD</div>
         <h3>Real updates, not pretend updates</h3>
-        <p>To turn these into live trackers, ECHO-7 needs a small backend or scheduled workflow to fetch permitted feeds/APIs, save timestamps and source URLs, and publish updated JSON for this page to read. The interface is ready to grow into that; this panel does not claim that any source is being polled automatically today.</p>
+        <p>A scheduled GitHub workflow refreshes public-source snapshots and publishes source URLs and timestamps. These are RSS snapshots, not second-by-second sensor feeds; their latest refresh status is shown above.</p>
       </div>
     </section>
 
@@ -1480,7 +1460,7 @@
           <p>A dedicated starting point for investigating reported observations
             in South Carolina, including the Lowcountry and Charleston area.</p>
         </div>
-        <span class="tag tag-amber">No live local feed connected</span>
+        <span id="scFeedStatus" class="tag tag-amber">COMMUNITY FEED SETUP</span>
       </div>
 
       <div class="two-column">
@@ -1559,6 +1539,23 @@
       </div>
     </section>
 
+      <div class="signal-feed-panel sc-feed-panel">
+        <div class="feed-heading"><div><div class="eyebrow">LOWCOUNTRY / STATEWIDE WATCH</div><h3>South Carolina community reports</h3></div><span id="scFeedBadge" class="tag tag-amber">WAITING FOR FIRST RUN</span></div>
+        <p id="scFeedNotice" class="small muted">Community posts are leads, not confirmed sightings. Firsthand accounts will be distinguished from reposts where the source makes that clear.</p>
+        <div id="scFeedItems" class="live-feed-items"><div class="feed-empty">Community signal queue initializing…</div></div>
+        <div class="feed-footer"><span id="scFeedUpdatedAt">No successful South Carolina feed refresh yet</span><button type="button" class="btn" id="refreshScFeedButton">Reload local feed</button></div>
+      </div>
+      <div class="article sc-source-note"><h3>People-first source watch</h3>
+        <p>Prioritize firsthand witness descriptions, original videos, named interviewees, and testimony from people who describe their own role in government, military, intelligence, or aerospace work. Reddit is valuable for finding leads and witness accounts, but a post alone does not authenticate an event or prove a poster's identity.</p>
+        <div class="card-links">
+          <a href="https://www.reddit.com/r/UFOs/" target="_blank" rel="noopener noreferrer">r/UFOs community ↗</a>
+          <a href="https://www.reddit.com/r/UFOB/" target="_blank" rel="noopener noreferrer">r/UFOB sightings & reports ↗</a>
+          <a href="https://www.reddit.com/r/Charleston/" target="_blank" rel="noopener noreferrer">r/Charleston ↗</a>
+          <a href="https://www.reddit.com/r/southcarolina/" target="_blank" rel="noopener noreferrer">r/southcarolina ↗</a>
+        </div>
+      </div>
+    </section>
+
     <section class="section" id="theory-lab">
       <div class="section-head">
         <div>
@@ -1591,6 +1588,20 @@
               <li>What does AARO say it found, and what evidence do critics offer in response?</li>
             </ul>
           </div>
+        </div>
+        <div class="dossier-analyst-note">
+          <div class="eyebrow">Expanded testimony file / insider claims</div>
+          <h4>Government and military testimony: map each person's actual access</h4>
+          <p><strong>Luis Elizondo</strong> has publicly described his former U.S. government UAP work and advocated disclosure. <strong>David Grusch</strong>, a former intelligence official, alleged a concealed crash-retrieval and reverse-engineering effort in 2023 congressional testimony; he has said some information came from others, so firsthand and secondhand statements must be separated. <strong>David Fravor</strong> described his own 2004 Navy encounter. <strong>Ryan Graves</strong>, a former Navy pilot, has discussed recurring reports from aviators. These accounts differ in direct access and evidentiary basis and should be examined individually.</p>
+          <p>For every witness, record exact words, date, role at the time, whether the statement was sworn or on the record, what they personally saw, what they heard from others, and whether documents, sensor data, or physical materials can be independently inspected. Insider status makes a source relevant; it does not automatically verify every allegation.</p>
+          <div class="card-links"><a href="https://www.congress.gov/event/118th-congress/house-event/116282" target="_blank" rel="noopener noreferrer">2023 House UAP hearing record ↗</a><a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer">House Oversight hearing page ↗</a><a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer">AARO reports & responses ↗</a></div>
+        </div>
+        <div class="dossier-analyst-note">
+          <div class="eyebrow">Historical claim file / 1954</div>
+          <h4>President Eisenhower and the alleged meeting with non-human visitors</h4>
+          <p>A persistent story claims President Dwight D. Eisenhower secretly met extraterrestrial visitors at Edwards Air Force Base or a nearby location in February 1954, sometimes linked to an unexplained absence from public view during a Palm Springs trip. Versions describe a diplomatic meeting or agreement. The story is influential, but details vary and no authenticated contemporaneous record or independently verifiable physical evidence has established that such a meeting occurred.</p>
+          <p>Investigate the timeline of Eisenhower's trip and medical/dental visit, contemporary press coverage, presidential schedules, and the earliest traceable source for the extraterrestrial-meeting version. Date later recollections and distinguish direct knowledge from hearsay. The claim can be researched without presenting it as settled history.</p>
+          <div class="card-links"><a href="https://www.eisenhowerlibrary.gov/" target="_blank" rel="noopener noreferrer">Eisenhower Presidential Library ↗</a><a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer">National Archives UFO records ↗</a></div>
         </div>
         <div class="card-links">
           <a href="https://www.theageofdisclosure.com/about-the-film">Official film description and credits ↗</a>
@@ -2141,8 +2152,6 @@
       document.body.classList.add("modal-lock");
       immersiveClose.focus();
       immersiveShip.classList.remove("flyby");
-      void immersiveShip.offsetWidth;
-      immersiveShip.classList.add("flyby");
     }
 
     function closeDossier() {
@@ -2300,39 +2309,58 @@
     loadLiveFeed();
     document.getElementById("refreshFeedButton")?.addEventListener("click", loadLiveFeed);
 
-    // A whole little alien crew: different poses, positions, and gentle animations.
-    const alienCrew = [
-      ["science","👽",8,25,"waving visitor"],["science","👾",88,58,"tiny science buddy"],
-      ["science","🛸",70,13,"floating saucer"],["science","👽",46,84,"seated alien"],
-      ["south-carolina","👽",7,55,"local sky watcher"],["south-carolina","🛸",84,18,"patrolling saucer"],
-      ["south-carolina","👾",74,83,"curious little alien"],["theory-lab","👽",7,19,"archive greeter"],
-      ["theory-lab","👾",90,44,"theory lab buddy"],["theory-lab","🛸",66,84,"quiet hovercraft"],
-      ["live-desk","👽",92,12,"signal room observer"],["live-desk","👾",4,82,"monitoring crew"],
-      ["cases","👽",95,30,"case file investigator"],["cases","🛸",5,88,"scout ship"],
-      ["documents","👾",94,18,"document room visitor"],["documents","👽",5,73,"archive assistant"],
-      ["investigator","👽",94,25,"AI desk companion"],["investigator","👾",4,79,"curious assistant"],
-      ["briefing","🛸",89,75,"command center saucer"],["briefing","👽",4,66,"command center buddy"]
-    ];
-    alienCrew.forEach(([sectionId,emoji,left,top,caption],i) => {
+    const scFeedItems=document.getElementById("scFeedItems"), scFeedBadge=document.getElementById("scFeedBadge"), scFeedNotice=document.getElementById("scFeedNotice"), scFeedUpdatedAt=document.getElementById("scFeedUpdatedAt");
+    async function loadSouthCarolinaFeed(){
+      if(!scFeedItems)return;
+      scFeedItems.replaceChildren();
+      try{
+        const response=await fetch("./data/south-carolina-feed.json?refresh="+Date.now(),{cache:"no-store"});
+        if(!response.ok)throw new Error("HTTP "+response.status);
+        const data=await response.json();
+        scFeedItems.replaceChildren();
+        scFeedNotice.textContent=data.notice||"Community posts are leads; verify dates, location, and original context.";
+        const updated=data.updatedAt?new Date(data.updatedAt):null;
+        scFeedUpdatedAt.textContent=updated&&!Number.isNaN(updated.getTime())?"COMMUNITY FEED UPDATED "+updated.toLocaleString():"NO SUCCESSFUL REFRESH YET";
+        if(data.status==="ok"&&Array.isArray(data.items)&&data.items.length){
+          scFeedBadge.textContent="COMMUNITY POSTS FOUND";scFeedBadge.className="tag tag-green";
+          data.items.slice(0,8).forEach(item=>{
+            const card=document.createElement("article");card.className="feed-item";
+            const meta=document.createElement("div");meta.className="feed-meta";
+            meta.textContent=(item.source||"COMMUNITY SOURCE")+(item.publishedAt?" · "+new Date(item.publishedAt).toLocaleDateString():"")+(item.firsthand?" · FIRSTHAND-STYLE CLAIM":" · COMMUNITY LEAD");
+            const title=document.createElement("h4");title.textContent=item.title||"Untitled community post";
+            const summary=document.createElement("p");summary.textContent=item.summary||"Open the original post for context.";
+            const link=document.createElement("a");link.href=item.url;link.target="_blank";link.rel="noopener noreferrer";link.textContent="OPEN ORIGINAL POST ↗";
+            card.append(meta,title,summary,link);scFeedItems.appendChild(card);
+          });
+        }else{
+          scFeedBadge.textContent="NO MATCHING POSTS";scFeedBadge.className="tag tag-amber";
+          const empty=document.createElement("div");empty.className="feed-empty";empty.textContent="No matching posts in this snapshot. That does not mean no reports exist; use the linked communities or reload after the next scheduled refresh.";scFeedItems.appendChild(empty);
+        }
+      }catch(error){
+        scFeedBadge.textContent="FEED UNAVAILABLE";scFeedBadge.className="tag tag-amber";scFeedItems.replaceChildren();
+        const empty=document.createElement("div");empty.className="feed-empty";empty.textContent="The South Carolina feed has not been published yet. Run the scheduled public-source feed workflow and check its result.";scFeedItems.appendChild(empty);
+        console.error("ECHO-7 South Carolina feed failed:",error);
+      }
+    }
+    loadSouthCarolinaFeed();
+    document.getElementById("refreshScFeedButton")?.addEventListener("click",loadSouthCarolinaFeed);
+
+    // Static corner decorations only: no interactive critters or animation.
+    function addCornerAlien(sectionId) {
       const section=document.getElementById(sectionId);
-      if(!section) return;
-      section.style.position="relative";
-      let layer=section.querySelector(".alien-population");
-      if(!layer){layer=document.createElement("div");layer.className="alien-population";layer.setAttribute("aria-label","Playful alien crew");section.appendChild(layer);}
-      const buddy=document.createElement("span");
-      buddy.className="alien-buddy"+(i%3===1?" sitting":"");
-      buddy.textContent=emoji;
-      buddy.style.left=left+"%";buddy.style.top=top+"%";
-      buddy.style.setProperty("--bob",(3.1+(i%5)*.47)+"s");
-      buddy.style.setProperty("--delay",(-.3*(i%7))+"s");
-      buddy.dataset.caption=caption;
-      buddy.setAttribute("role","button");buddy.setAttribute("tabindex","0");
-      buddy.setAttribute("aria-label",caption+"; click for a greeting");
-      const greet=()=>{buddy.textContent=buddy.textContent==="👽"?"👋":buddy.textContent==="👾"?"💚":buddy.textContent==="🛸"?"✨":"👽";buddy.style.transform="scale(1.4)";window.setTimeout(()=>buddy.style.transform="",650);};
-      buddy.addEventListener("click",greet);
-      buddy.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();greet();}});
-      layer.appendChild(buddy);
-    });
+      if(!section || section.querySelector(".corner-alien")) return;
+      const alien=document.createElement("span");
+      alien.className="corner-alien";
+      alien.setAttribute("aria-hidden","true");
+      alien.innerHTML='<span class="alien-head"><i class="alien-eye left"></i><i class="alien-eye right"></i></span><span class="alien-body"></span><i class="alien-leg left"></i><i class="alien-leg right"></i>';
+      section.appendChild(alien);
+    }
+    addCornerAlien("live-desk");
+    addCornerAlien("south-carolina");
+    const cornerSaucer=document.createElement("span");
+    cornerSaucer.className="corner-ufo";
+    cornerSaucer.setAttribute("aria-hidden","true");
+    document.getElementById("live-desk")?.appendChild(cornerSaucer);
 
     // Open all external links in new tabs, including links added later.
     // Internal links beginning with # continue to navigate within this page.
