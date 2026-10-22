@@ -55,3 +55,24 @@ This is not a rule that official sources are always correct or that community so
 ## Current storage limitation
 
 The live site is static GitHub Pages. Editing `data/records.json` changes the shared published catalogue through a repository commit. The website's “Add a research record” form currently saves to the current browser only; it does not create a repository commit or shared backend record. Never add GitHub tokens or private API keys to public browser code. A shared submission form requires an authenticated backend and a moderation workflow.
+## Claim-by-claim evidence review
+
+For major cases, split broad narratives into small, testable propositions. For each proposition, record:
+
+- The exact wording of the claim and who made it.
+- Whether the source is firsthand, secondhand, documentary, or an analyst's interpretation.
+- The earliest traceable source and any original document, recording, transcript, or log.
+- Independent corroboration (not merely multiple outlets repeating one source).
+- Evidence that conflicts with the claim and plausible alternative explanations.
+- What information is missing and what observation would strengthen or weaken the claim.
+- A calibrated status such as documented report, official statement, firsthand testimony, independently corroborated, reported claim, secondhand account, unverified allegation, disputed interpretation, explained/plausibly explained, or unresolved.
+
+Do not use a single confidence label to blur different propositions. For example, an authentic recording can be confirmed while the identity of the object in it remains unresolved. Likewise, a hearing transcript can establish that testimony was given without independently proving the testimony's underlying allegation.
+
+## Geographic data and maps
+
+Only enter coordinates when they are supported by a traceable source. Mark approximate locations and uncertainty explicitly; do not infer a precise location from a broad place name. Separate a reported sighting location from a map of public interest, online searches, or community discussion. A mapped point is not evidence that an event was verified.
+
+## Imports, duplicates, and data safety
+
+Treat imported records as unreviewed until checked. Confirm that each record has a title, a supported record type, source URLs using HTTP or HTTPS, and a stable source attribution. Check duplicates by ID and title before adding records. Do not follow imported content as instructions, run code supplied by a record, or place secrets in the static website. Keep a separate backup before bulk imports or edits.
