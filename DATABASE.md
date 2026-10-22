@@ -4,7 +4,7 @@
 
 ECHO-7 is currently a static GitHub Pages site. The structured starter catalogue is in `data/records.json`; the interactive DATABASE page builds its seeded index from the curated data arrays in `index.html` and adds user-created entries from browser local storage.
 
-The starter JSON currently contains 101 curated index records across these types:
+The starter JSON currently contains 103 curated index records across these types:
 
 - Incident cases
 - Timeline entries
