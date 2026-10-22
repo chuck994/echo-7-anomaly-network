@@ -630,10 +630,209 @@
         transition-duration: .01ms !important;
       }
     }
+ 
+    /* Immersive depth layer: layered atmosphere, glass surfaces, and perspective. */
+    body {
+      background:
+        radial-gradient(ellipse at 50% -12%, rgba(43, 110, 171, .32), transparent 48%),
+        radial-gradient(ellipse at 4% 42%, rgba(13, 89, 92, .15), transparent 35%),
+        radial-gradient(ellipse at 95% 70%, rgba(34, 70, 123, .15), transparent 36%),
+        #070d18;
+      background-attachment: fixed;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      pointer-events: none;
+      opacity: .32;
+      background-image:
+        radial-gradient(1px 1px at 12% 18%, #d7f4ff 99%, transparent),
+        radial-gradient(1px 1px at 76% 26%, #b2e9ff 99%, transparent),
+        radial-gradient(1px 1px at 36% 63%, #d7f4ff 99%, transparent),
+        radial-gradient(1px 1px at 88% 83%, #b2e9ff 99%, transparent),
+        radial-gradient(2px 2px at 57% 11%, #e6faff 99%, transparent);
+      background-size: 320px 280px;
+    }
+    header {
+      background: rgba(8, 15, 28, .82);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+      box-shadow: 0 18px 55px rgba(0, 0, 0, .22);
+    }
+    .hero, .card, .notice, .section-head {
+      position: relative;
+    }
+    .hero {
+      overflow: hidden;
+      isolation: isolate;
+      background:
+        radial-gradient(ellipse at 85% 12%, rgba(43, 159, 209, .22), transparent 38%),
+        linear-gradient(145deg, rgba(22, 44, 72, .96), rgba(9, 18, 32, .96));
+      border: 1px solid rgba(130, 200, 239, .22);
+      box-shadow: 0 30px 90px rgba(0, 0, 0, .35), inset 0 1px 0 rgba(255,255,255,.07);
+      transform-style: preserve-3d;
+    }
+    .hero::after {
+      content: "";
+      position: absolute;
+      width: 340px;
+      height: 340px;
+      right: -80px;
+      top: -125px;
+      border-radius: 50%;
+      border: 1px solid rgba(112, 214, 255, .2);
+      box-shadow: 0 0 0 32px rgba(112,214,255,.025), 0 0 0 68px rgba(112,214,255,.02), inset 0 0 80px rgba(112,214,255,.07);
+      pointer-events: none;
+      z-index: -1;
+    }
+    .card {
+      background: linear-gradient(145deg, rgba(24, 40, 62, .92), rgba(12, 22, 37, .96));
+      border: 1px solid rgba(139, 177, 210, .19);
+      box-shadow: 0 16px 34px rgba(0, 0, 0, .2), inset 0 1px 0 rgba(255,255,255,.045);
+      transform: perspective(1100px) translateZ(0);
+      transition: transform .28s ease, border-color .28s ease, box-shadow .28s ease, background .28s ease;
+    }
+    .card:hover {
+      transform: perspective(1100px) translateY(-6px) rotateX(1.1deg) translateZ(8px);
+      border-color: rgba(112, 214, 255, .48);
+      box-shadow: 0 25px 55px rgba(0,0,0,.32), 0 0 28px rgba(52, 162, 213, .08), inset 0 1px 0 rgba(255,255,255,.08);
+    }
+    .theory-grid .card, #caseGrid .card {
+      cursor: pointer;
+    }
+    .theory-grid .card::after, #caseGrid .card::after {
+      content: "OPEN DOSSIER  ↗";
+      display: block;
+      margin-top: 18px;
+      color: var(--green);
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: .14em;
+      opacity: .82;
+    }
+    .card a, .card button { position: relative; z-index: 2; }
+    .immersive-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 9998;
+      display: none;
+      overflow: auto;
+      padding: clamp(16px, 4vw, 54px);
+      background:
+        radial-gradient(ellipse at 50% 0%, rgba(24, 103, 146, .28), transparent 52%),
+        rgba(3, 7, 14, .94);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      perspective: 1400px;
+    }
+    .immersive-modal.is-open { display: block; animation: modalFade .3s ease both; }
+    .immersive-shell {
+      position: relative;
+      max-width: 1080px;
+      min-height: calc(100vh - 2 * clamp(16px, 4vw, 54px));
+      margin: auto;
+      padding: clamp(22px, 4vw, 52px);
+      overflow: hidden;
+      border: 1px solid rgba(112,214,255,.32);
+      border-radius: 24px;
+      background:
+        radial-gradient(ellipse at 100% 0%, rgba(42, 117, 164, .18), transparent 38%),
+        linear-gradient(150deg, rgba(17, 32, 51, .98), rgba(5, 12, 23, .99));
+      box-shadow: 0 40px 140px rgba(0,0,0,.68), inset 0 1px 0 rgba(255,255,255,.08);
+      transform: rotateX(0deg);
+      animation: dossierArrive .55s cubic-bezier(.2,.8,.2,1) both;
+    }
+    .immersive-shell::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      opacity: .32;
+      background: repeating-linear-gradient(0deg, transparent 0 5px, rgba(112,214,255,.025) 6px);
+    }
+    .immersive-content { position: relative; z-index: 1; }
+    .immersive-content h2 { font-size: clamp(30px, 5vw, 58px); line-height: 1.08; margin: 12px 0 22px; }
+    .immersive-close {
+      position: sticky;
+      top: 0;
+      float: right;
+      z-index: 4;
+      border: 1px solid rgba(112,214,255,.4);
+      background: rgba(6,15,27,.9);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 10px 16px;
+      cursor: pointer;
+      box-shadow: 0 8px 28px rgba(0,0,0,.3);
+    }
+    .immersive-ship {
+      position: fixed;
+      z-index: 10000;
+      left: -30vw;
+      top: 18vh;
+      width: clamp(100px, 15vw, 210px);
+      height: 44px;
+      opacity: 0;
+      pointer-events: none;
+      filter: drop-shadow(0 0 12px rgba(84,255,157,.6));
+    }
+    .immersive-ship::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 19px;
+      width: 100%;
+      height: 5px;
+      border-radius: 50%;
+      background: linear-gradient(90deg, transparent, rgba(63,255,139,.12), #56ff9e, #d5ffe6);
+      box-shadow: 0 0 18px #28ff83, 0 0 44px rgba(28,255,132,.7);
+      transform: skewY(-8deg);
+    }
+    .immersive-ship::after {
+      content: "";
+      position: absolute;
+      right: 6px;
+      top: 5px;
+      width: 52px;
+      height: 28px;
+      border-radius: 55% 55% 45% 45%;
+      background: radial-gradient(ellipse at 50% 24%, #effff7 0 5%, #9cfbd2 10%, #5c8fa9 38%, #17283b 68%, #03080e 78%);
+      border: 1px solid rgba(184,255,224,.85);
+      box-shadow: 0 0 16px rgba(86,255,158,.9), 0 0 45px rgba(86,255,158,.5);
+      transform: rotate(-8deg) perspective(80px) rotateX(25deg);
+    }
+    .immersive-ship.flyby { animation: shipFlyby 1.5s cubic-bezier(.2,.7,.2,1) both; }
+    body.modal-lock { overflow: hidden; }
+    @keyframes shipFlyby {
+      0% { left: -28vw; top: 20vh; opacity: 0; transform: scale(.4) rotate(-9deg); }
+      12% { opacity: 1; }
+      68% { opacity: 1; }
+      100% { left: 115vw; top: 8vh; opacity: 0; transform: scale(1.65) rotate(-9deg); }
+    }
+    @keyframes modalFade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes dossierArrive { from { opacity: 0; transform: rotateX(5deg) translateY(20px) scale(.985); } to { opacity: 1; transform: rotateX(0) translateY(0) scale(1); } }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+    }
+    @media (max-width: 640px) {
+      .immersive-shell { border-radius: 16px; }
+      .immersive-modal { padding: 10px; }
+      .immersive-ship { top: 13vh; }
+    }
+
   </style>
 </head>
 
 <body>
+  <div class="immersive-ship" id="immersiveShip" aria-hidden="true"></div>
+  <div class="immersive-modal" id="immersiveModal" role="dialog" aria-modal="true" aria-label="Research dossier" aria-hidden="true">
+    <div class="immersive-shell">
+      <button class="immersive-close" id="immersiveClose" type="button" aria-label="Close dossier">✕ CLOSE DOSSIER</button>
+      <div class="immersive-content" id="immersiveContent"></div>
+    </div>
+  </div>
   <div class="topline">
     <div class="wrap topline-inner">
       <span class="signal">ECHO-7 RESEARCH NETWORK</span>
@@ -1759,6 +1958,67 @@
       question.value = "";
       answer.replaceChildren();
       answer.hidden = true;
+    });
+
+ 
+    // Full-screen dossier mode with a stylized green-trail UFO flyby.
+    const immersiveModal = document.getElementById("immersiveModal");
+    const immersiveContent = document.getElementById("immersiveContent");
+    const immersiveClose = document.getElementById("immersiveClose");
+    const immersiveShip = document.getElementById("immersiveShip");
+    let lastDossierTrigger = null;
+
+    function openDossier(card) {
+      if (!card || card.closest("#immersiveModal")) return;
+      lastDossierTrigger = card;
+      const clone = card.cloneNode(true);
+      clone.classList.remove("card");
+      const title = clone.querySelector("h2, h3, h4");
+      if (title) title.tagName === "H2" || title.tagName === "H1" ? null : title.replaceWith(Object.assign(document.createElement("h2"), {textContent: title.textContent}));
+      const eyebrow = document.createElement("div");
+      eyebrow.className = "eyebrow";
+      eyebrow.textContent = "ECHO-7 / EXPANDED RESEARCH DOSSIER";
+      immersiveContent.replaceChildren(eyebrow, clone);
+      immersiveModal.classList.add("is-open");
+      immersiveModal.setAttribute("aria-hidden", "false");
+      document.body.classList.add("modal-lock");
+      immersiveClose.focus();
+      immersiveShip.classList.remove("flyby");
+      void immersiveShip.offsetWidth;
+      immersiveShip.classList.add("flyby");
+    }
+
+    function closeDossier() {
+      immersiveModal.classList.remove("is-open");
+      immersiveModal.setAttribute("aria-hidden", "true");
+      document.body.classList.remove("modal-lock");
+      immersiveContent.replaceChildren();
+      if (lastDossierTrigger) lastDossierTrigger.focus?.();
+    }
+
+    document.querySelectorAll("#caseGrid .case-card, .theory-grid > .card").forEach(card => {
+      card.tabIndex = 0;
+      card.setAttribute("role", "button");
+      card.setAttribute("aria-label", "Open dossier: " + (card.querySelector("h3")?.textContent || "Research topic"));
+      card.addEventListener("click", event => {
+        if (event.target.closest("a, button, input, select, textarea")) return;
+        openDossier(card);
+      });
+      card.addEventListener("keydown", event => {
+        if (event.key === "Enter" || event.key === " ") {
+          if (event.target !== card) return;
+          event.preventDefault();
+          openDossier(card);
+        }
+      });
+    });
+
+    immersiveClose.addEventListener("click", closeDossier);
+    immersiveModal.addEventListener("click", event => {
+      if (event.target === immersiveModal) closeDossier();
+    });
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape" && immersiveModal.classList.contains("is-open")) closeDossier();
     });
 
     // Open all external links in new tabs, including links added later.
