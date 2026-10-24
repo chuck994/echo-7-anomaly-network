@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-24T01:05:33.046663+00:00",
+  "updatedAt": "2026-10-24T06:58:17.552030+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Karlsruhe 2023 similar to Nuremberg 1561",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xe1jq4/karlsruhe_2023_similar_to_nuremberg_1561/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-24T06:42:46+00:00",
+      "summary": "Captured by [ u/kopperxl ]( u/kopperxl ) over Karlsruhe, Germany on Oct 1 2023 at 7pm local time. https://www.reddit.com/r/UFOs/s/AKLM1Ngxb2 The video from 00:12 to 00:16 shows the object staying in one place and rotating around a vertical axis. An impossible maneuver for a delta-winged drone with rear propulsion. It reminds me of the black dagger-like object seen over Nuremberg in 1561. &#32; submitted by &#32; /u/Johne1618 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-24T04:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta&#8217;s Selfie Explanation: [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "Microtubules, consciousness, quantum AI",
       "url": "https://www.reddit.com/r/UFOs/comments/1xdv2el/microtubules_consciousness_quantum_ai/",
@@ -154,15 +172,6 @@
       "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each [&#8230;]",
       "sourceType": "official",
       "firsthand": false
-    },
-    {
-      "title": "I wouldn't wish my experience on anyone, it's incredibly socially isolating and Hell",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdlz1q/i_wouldnt_wish_my_experience_on_anyone_its/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T18:27:37+00:00",
-      "summary": "I don&#39;t know who to talk to, or if doing so would really even help, but I&#39;m just going to start typing, maybe if nothing else it will help others who are going through similar not feel so alone. You&#39;re not alone. I don&#39;t really want to rehash my entire story, I&#39;ve posted it once before and it got more attention than I was prepared for, panicked and deleted everything. To briefly summarize I was approached and injured by what appeared to me to be a glowing ",
-      "sourceType": "reddit",
-      "firsthand": true
     },
     {
       "title": "NASA, Virginia Launch Power Partnership for Energy Security",
@@ -314,15 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-23T03:22:35+00:00",
       "summary": "While sources of information are sparse, briefly mentioned throughout, I do appreciate the effort of Jason to delve deep here into Tom DeLong’s fictional book Sekret Machines: Chasing Shadows. I haven’t read it myself but am now very curious to considering the recent disappearance of General Neil McCasland, an advisor to DeLong. There are of course examples of well known MIC operators suggested to disseminate key information on UFOs via science fiction. I find it interesting ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Connecting the dots on UAP disclosure: 180+ people, incidents, hearings and documents, linked to their original source. LMKWYT",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xd2cn0/connecting_the_dots_on_uap_disclosure_180_people/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T02:47:49+00:00",
-      "summary": "I built https://wherearethey.info , a network that connects the dots on UAP and NHI disclosure. The people, incidents, programs, hearings and documents of the UAP story, laid out as one map you can explore. You can pick a thread and pull it. For example start with David Fravor and you&#39;re one click from the Nimitz incident, then from the other pilots and radar operators who were there, then from the 2023 hearing where he testified under oath, then from the exact second he ",
       "sourceType": "reddit",
       "firsthand": false
     }
