@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-24T18:48:47.373453+00:00",
+  "updatedAt": "2026-10-25T00:56:09.616688+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,20 +57,74 @@
   ],
   "items": [
     {
+      "title": "Rep Burlison discusses a UAP encounter in a military base on Dr Phil's podcast. The Congressman confirms that the documentation of the event had been declassified in the first two tranches of war.gov/ufo.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xeo8t9/rep_burlison_discusses_a_uap_encounter_in_a/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-25T00:27:30+00:00",
+      "summary": "Timestamped at the point in which Dr Phil asks Rep Burlison if he can say more about how UAPs can be lured by certain elements. I know that Dr. Phil is not a popular man in this subreddit, but this interview with Rep Burlison is gold. Rep Burlison clearly says that he can now discuss this event because it was declassified in the first two tranches of documents posted in the war.gov website. Rep Burlison explains that soldiers had a close encounter with flying orbs of light th",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Roswell (7th tranche)",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xenf8h/roswell_7th_tranche/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-24T23:48:42+00:00",
+      "summary": "Roswell: `I was able to see a couple of bodies under a canvas tarpaulin.(...)I am convinced that what I personally observed was some type of craft and its crew from outer space.´ (from the 7th batch) https://www.war.gov/medialink/ufo/release-07/documents/DOW-UAP-D168-BAASS_Project_Management_Plan-December_2008.pdf See Appendix 2 &#32; submitted by &#32; /u/NoPop6080 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Were “psychotronic” attacks against contact activists in the 1990s a precursor of the “Havana Syndrome”? Consciousness based technology might also be targeting what is called the “astral body.”",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xemp0w/were_psychotronic_attacks_against_contact/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-24T23:13:36+00:00",
+      "summary": "Were “psychotronic” attacks against contact activists in the 1990s a precursor of the “Havana Syndrome”? Consciousness based technology might also be targeting what is called the “astral body.” Introduction In my judgment, flying saucers threaten all terrestrial elites, but not necessarily the planet’s people. Given what is a perceived threat to the status quo, both corporate and Executive Branch Intelligence operatives have historically been compelled to deal with UFOs as a ",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Configurations of Highly Repeating Shapes | from the 2010 BAASS/AAWSAP UAP Report (Utilizing Paul Hill’s NASA Research)",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xemgwf/configurations_of_highly_repeating_shapes_from/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-24T23:02:49+00:00",
+      "summary": "https://www.war.gov/medialink/ufo/release-07/documents/DOW-UAP-D175-BAASS_Self-Assessment_of_UAP_Analysis_Capabilities_November_2010.pdf I just found this and thought it was interesting. What shapes do you think are missing? &#32; submitted by &#32; /u/Available_Air_6367 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "A Navy chief told a House task force a Tic Tac rose out of the Pacific beside USS Jackson in 2023. What does the sensor data actually show?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xejoj4/a_navy_chief_told_a_house_task_force_a_tic_tac/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-24T20:57:41+00:00",
+      "summary": "Alex Wiggins, an active-duty Navy chief, says he watched a glowing Tic Tac-shaped object rise from the water off USS Jackson (LCS-6) on Feb. 15, 2023, around 7:15 p.m. PST. The ship was in the W-291 warning area off Southern California. He says it met three similar objects and all four left at once. He testified at the House Oversight UAP task force hearing on Sept. 9, 2025, and says the object was tracked on radar and a Star SAFIRE EO/IR system. The CIC footage has been publ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "The FACTS about Black Triangle UFOs. New Evidence.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xeid6y/the_facts_about_black_triangle_ufos_new_evidence/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-24T20:02:05+00:00",
+      "summary": "with all the talk over the latest tranche of information, I think this has some useful info. &#32; submitted by &#32; /u/Resident_Thanks9331 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "URGENT: The UAP Disclosure Act is in closed-door conferences right now. Here is how we stop them from gutting it like they did in 2023",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xegnsb/urgent_the_uap_disclosure_act_is_in_closeddoor/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-24T18:53:04+00:00",
+      "summary": "In 2023, the Senate passed the Schumer-Rounds UAP Disclosure Act, giving us the best chance at real transparency in 80 years. Then, behind closed doors in the NDAA conference committee, leadership stripped out the independent review board and the recovered-materials provisions. We were handed a hollow shell. They are in the room to do it again right now. Thanks to months of fights by Rep. Eric Burlison (R-MO), a fully intact UAPDA was adopted into the House-passed FY2027 NDAA",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "Interviewer to Burlison: \"What I thought was a genius move was hiring David Grusch\". Burlison: \"wait till you see who we're going to hire next [...] Lets just say he's also been on Ross Coulthart\". Who could it possibly be?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xeg2kc/interviewer_to_burlison_what_i_thought_was_a/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-24T18:29:39+00:00",
       "summary": "From yesterdays interview with Burlison ( timestamp 1:30:14 ): Interviewer: &quot;What I thought was a genius move was hiring David Grusch. I thought that was that was just a stroke of genius. I remember you were talking to me about that and I thought that that is a great idea. Get that guy in your office. Burlison: &quot;Hey, wait till you see who we&#39;re going to hire next&quot; Interviewer: &quot;Can you say, can you say... Burlison: &quot;Well, the ink is not dry yet, s",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "'There were aliens in the water': Research into 1960 Shelburne incident shared at UFO expo in Yarmouth",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xeffm0/there_were_aliens_in_the_water_research_into_1960/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-24T18:04:30+00:00",
-      "summary": "&#39;There were aliens in the water&#39;: Research into 1960 Shelburne incident shared at UFO expo in Yarmouth | PNI Atlantic News Chris Styles shared his research into a 1960 incident in Shelburne harbour that he told attendees of a UFO expo held in Yarmouth pre-dates the 1967 Shag Harbour incident. For the man’s family reasons he refers to him by the pseudonym Harry. He told Styles Shelburne was the real deal, aliens and all. “Shelburne is the real deal,” Harry told them. “",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -107,15 +161,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-24T09:20:07+00:00",
       "summary": "This set of 7th Tranche PURSUE files sounds much more interesting than it is. It&#39;s mostly about space junk retrieval (and falling threats) from the Cold War. What will be interesting to UFOlogists are the names and agencies involved and how they all communicated and regarded each other. It&#39;s starting to feel like these documents are all pieces from a large jigsaw that don&#39;t say much on their own but are building-up to something extraordinary. I&#39;m probably goin",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "UFOs for the Curious: A Beginner’s Guide to the Evidence and the Possibilities",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xe39bq/ufos_for_the_curious_a_beginners_guide_to_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-24T08:27:28+00:00",
-      "summary": "Navy pilots have reported objects they could not identify. The Pentagon has released videos, witnesses have made sworn allegations, and Congress has pushed for disclosure. In 2026, the government began releasing UAP files, the House voted to revive an independent review board, and the president reportedly waived prior UAP nondisclosure agreements. This guide follows the evidence, then asks what might interest another intelligence about us. A documented event, a witness’s alle",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -201,15 +246,6 @@
       "firsthand": false
     },
     {
-      "title": "PURSUE Release 07 is out (28 docs). The new AARO triangle memo and an FBI FD-302 in the same drop look like the same 2026 sighting. Notes on all 28 inside",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdocnu/pursue_release_07_is_out_28_docs_the_new_aaro/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T19:58:01+00:00",
-      "summary": "Release 07 dropped on war.gov/UFO today: 28 PDFs from the Dept. of War, FBI, the Executive Office of the President and &quot;U.S. Government&quot;. I run a small site that tracks the PURSUE releases, and I went through every document. Here are the parts worth your time, interesting and mundane alike. 1. Two documents, probably one event - DOW-UAP-D176 (AARO Memorandum for Record, 2026): federal law enforcement agents at a sensitive site in the western US see a matte black tri",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "NASIC - Air Force UFO Crash Retrieval & Reverse Engineering",
       "url": "https://www.reddit.com/r/UFOs/comments/1xdntaj/nasic_air_force_ufo_crash_retrieval_reverse/",
       "source": "r/UFOs (community)",
@@ -255,15 +291,6 @@
       "firsthand": false
     },
     {
-      "title": "Still going through Release 7 and found a couple more things in the November 2010 BAASS self-assessment.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdigz3/still_going_through_release_7_and_found_a_couple/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T16:15:50+00:00",
-      "summary": "On PDF page 21, BAASS describes an existing database of UFO reports and investigations. They were apparently upgrading it while keeping the framework from Project Capella, a database system proposed back in 2008. The database organized reports into six categories, including physical characteristics, physiological effects, psychological effects, and even psychic or parapsychological effects. Then on pages 117–128, there are actual computer simulations of Tic Tac-shaped objects",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "2026 DOW PURSUE sighting of a black triangle by multiple federal agents",
       "url": "https://www.reddit.com/r/UFOs/comments/1xdi027/2026_dow_pursue_sighting_of_a_black_triangle_by/",
       "source": "r/UFOs (community)",
@@ -296,33 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-23T13:39:34+00:00",
       "summary": "Going through Release 7 and found this in the March 2009 BAASS report. They were putting together scenarios for UNLV researchers to study, including how people, governments, religion and the economy would react. One scenario is literally the Air Force announcing that both crashes in 1947 involved spacecraft of nonterrestrial origin. It’s a hypothetical, so this isn’t an admission that the crashes were alien. But that’s a pretty specific scenario to include. I’d like to know h",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Glowing UFOs spotted racing over the Atlantic at 'hypersonic speeds'",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdchku/glowing_ufos_spotted_racing_over_the_atlantic_at/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T12:20:45+00:00",
-      "summary": "A submission to the National UFO Reporting Center (NUFORC), dated October 11, detailed an encounter with glowing UFOs that the ship&#39;s crew said moved at impossible speeds and patterns. For about 40 minutes, two sailors watched through binoculars as a single orb appeared 12 to 16 miles away, which &#39;rose and fell rapidly, bearing right and left, periodically shooting at hypersonic speeds, for about 5-10 minutes.&#39; The report, posted on October 21, claimed that three ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "7th UFO tranche released",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdbcdg/7th_ufo_tranche_released/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T11:23:56+00:00",
-      "summary": "7th tranche released on October 23rd, 2026 I have had a skim through the contents - no videos or &#39;smoking gun&#39; photos are available - however there are a lot of documents related to BAAS (Robert Bigelows) company. The BAAS documents are quite interesting. For example, there is a 2010 document titled &quot;DOW-UAP-D175-BAASS_Self-Assessment_of_UAP_Analysis_Capabilities_November_2010&quot;, which is an indepth analysis of the Tic Tac Nimitz encounter - something that wa",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Two Days After Jarod Yates Started Publicly Sharing His Analysis Into the Roswell Art’s Parts Sample He Obtained, Sean Kirkpatrick and AARO Tried to Debunk It",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xd6tgk/two_days_after_jarod_yates_started_publicly/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T06:53:54+00:00",
-      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     }
