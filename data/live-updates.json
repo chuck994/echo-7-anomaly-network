@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-25T06:59:08.757251+00:00",
+  "updatedAt": "2026-10-25T12:55:05.567974+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,11 +57,38 @@
   ],
   "items": [
     {
+      "title": "CBS - Federal agents encountered a large, triangular craft earlier this year that zoomed through the sky from a standstill while making no noise or giving off any exhaust",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xezrbm/cbs_federal_agents_encountered_a_large_triangular/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-25T11:16:28+00:00",
+      "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "UAP Files Podcast 🛸 New Interview with Jacques Vallee—AI Could Contact Aliens Before We Do!",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xey0r3/uap_files_podcast_new_interview_with_jacques/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-25T09:35:02+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-25T08:19:48+00:00",
+      "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
       "title": "Karlsruhe 2023 similar to Nuremberg 1561",
       "url": "https://www.reddit.com/r/UFOs/comments/1xev5l0/karlsruhe_2023_similar_to_nuremberg_1561/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-25T06:40:09+00:00",
-      "summary": "Dagger-shaped object caught on camera by [ u/kopperxl ]( u/kopperxl ) over Karlsruhe, Germany on Oct 1, 2023 at 7pm local time. The video from 00:12 to 00:16 shows the object staying in one place and rotating around a vertical axis. An impossible maneuver for a delta-winged drone with rear propulsion. It reminds me of the black dagger-like object seen over Nuremberg in 1561. &#32; submitted by &#32; /u/Johne1618 [link] &#32; [comments]",
+      "summary": "Spearhead-shaped object caught on camera by [ u/kopperxl ]( u/kopperxl ) over Karlsruhe, Germany on Oct 1, 2023 at 7pm local time. The video from 00:12 to 00:16 shows the object staying in one place and rotating around a vertical axis. An impossible maneuver for a delta-winged drone with rear propulsion. It also seems unlikely that the object is a balloon or a kite. It reminds me of a similar dark, pointed object depicted in Hans Glaser’s famous 1561 Nuremberg woodcut . &#32;",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -156,15 +183,6 @@
       "firsthand": false
     },
     {
-      "title": "The Hill - How will Congress address UFOs if Democrats win a majority? - Covers Notable House Democrats who explicitly support UFO disclosure - House Minority Leader Hakeem Jeffries, Jared Moskowitz, Andre Carson, Alexandria Ocasio-Cortez, Ro Khanna and Jamie Raskin",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xe640b/the_hill_how_will_congress_address_ufos_if/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-24T11:21:18+00:00",
-      "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "🚀 Upcoming Space Launches for October 24, 2026",
       "url": "https://www.reddit.com/r/UFOs/comments/1xe4zip/upcoming_space_launches_for_october_24_2026/",
       "source": "r/UFOs (community)",
@@ -255,15 +273,6 @@
       "firsthand": false
     },
     {
-      "title": "Sworn testimony places silent red square craft over active launch complexes at Vandenberg. Why isn’t there an official record of it?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdoyw9/sworn_testimony_places_silent_red_square_craft/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T20:21:23+00:00",
-      "summary": "(3) Jeffrey Nuccetelli: &#39;Red Square&#39; UFO Hovered Over Missile Site | US House UAP Hearing | APT - YouTube Air Force veteran Jeffrey Nuccetelli testified to the House Oversight Committee about a 2003-2005 encounter at Vandenberg Air Force Base. He described large, silent red squares that repeatedly appeared directly over active launch complexes. The hearing was part of Rep. Anna Paulina Luna’s UAP transparency push, and the account is described as multi-witness. What w",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "NASIC - Air Force UFO Crash Retrieval & Reverse Engineering",
       "url": "https://www.reddit.com/r/UFOs/comments/1xdntaj/nasic_air_force_ufo_crash_retrieval_reverse/",
       "source": "r/UFOs (community)",
@@ -314,15 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-23T15:59:16+00:00",
       "summary": "&quot;On approximately ....2026, at 2023L, federal law enforcement agents documented an unidentified craft presenting as a matte black triangular shape of extremely low aspect ratio that was nonreflective under the observed lighting conditions. It had an estimated thirteen-to-fifteen-foot wingspan, apparent six-to-nine-foot fuselage length, and a maximum vertical thickness of roughly one to two feet. The unidentified craft maintained a completely fixed horizontal alignment wi",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "23 Oct. 2026: Pentagon releases new UFO files detailing non-human bodies and mysterious egg-shaped craft inside guarded hangar",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdgmhx/23_oct_2026_pentagon_releases_new_ufo_files/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T15:07:06+00:00",
-      "summary": "The Pentagon has released a new batch of declassified UFO documents, including a shocking eyewitness account detailing how the military recovered the wreckage of a spaceship and alien bodies. The report made public on Friday included testimony from a military officer, whose name was redacted, who claimed he was present at the famous Roswell UFO incident in 1947 and was shown the spacecraft in a hangar known as &#39;Building 84.&#39; The Original Source for this article is the",
       "sourceType": "reddit",
       "firsthand": false
     }
