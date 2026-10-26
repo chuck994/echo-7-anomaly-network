@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-26T01:11:22.893986+00:00",
+  "updatedAt": "2026-10-26T07:07:26.888051+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Korea Suwon sighting of the same thing from Iran?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xfphxu/korea_suwon_sighting_of_the_same_thing_from_iran/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T06:45:04+00:00",
+      "summary": "Saw this posted in r/korea and couldn&#39;t help but notice the similarity to the one in iran https://www.reddit.com/r/UFOs/comments/1wlyaq6/osintdefender_a_number_of_videos_are_circulating/ &#32; submitted by &#32; /u/Direct-Strawberry433 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-26T04:05:00+00:00",
+      "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Hunting Red Leaves with Satellites",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-26T04:01:00+00:00",
+      "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "What If the Universe Is a Simulation Designed to Keep Civilizations Isolated?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xfm782/what_if_the_universe_is_a_simulation_designed_to/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T03:31:49+00:00",
+      "summary": "Whoever created this simulation made sure the rules of the game—especially the laws of physics—prevent different civilizations from ever interacting. The universe keeps expanding, the distances between stars and galaxies are unimaginably vast, and the speed of light is an absolute limit. Maybe these rules were designed to make it virtually impossible for any alien species to ever visit Earth. What if the universe is designed to keep everyone isolated? &#32; submitted by &#32;",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Pilot Mountain Lights in Surry County, NC",
       "url": "https://www.reddit.com/r/UFOs/comments/1xff21h/pilot_mountain_lights_in_surry_county_nc/",
@@ -192,6 +228,15 @@
       "firsthand": false
     },
     {
+      "title": "UFOLOGY ATLAS - My little UFO sightings site.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xeubbk/ufology_atlas_my_little_ufo_sightings_site/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-25T05:49:43+00:00",
+      "summary": "I made an interactive globe to explore UFO sightings. Would love your feedback! I&#39;ve been tinkering on a little project called UFOLOGY ATLAS and thought you might enjoy trying it. It&#39;s an interactive globe where you can explore reported UFO/UAP sightings around the world, zoom into different areas and open cases to read more and follow the available sources. There&#39;s also a forum and a little live chat. The reports aren&#39;t verified evidence, and some locations a",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "Former Israeli Air Force fighter pilot : “I have seen UFO craft in the skies over Israel”",
       "url": "https://www.reddit.com/r/UFOs/comments/1xeqluq/former_israeli_air_force_fighter_pilot_i_have/",
       "source": "r/UFOs (community)",
@@ -210,29 +255,11 @@
       "firsthand": false
     },
     {
-      "title": "Rep Burlison discusses a UAP encounter in a military base on Dr Phil's podcast. The Congressman confirms that the documentation of the event had been declassified in the first two tranches of war.gov/ufo.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xeo8t9/rep_burlison_discusses_a_uap_encounter_in_a/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T00:27:30+00:00",
-      "summary": "Timestamped at the point in which Dr Phil asks Rep Burlison if he can say more about how UAPs can be lured by certain elements. I know that Dr. Phil is not a popular man in this subreddit, but this interview with Rep Burlison is gold. Rep Burlison clearly says that he can now discuss this event because it was declassified in the first two tranches of documents posted in the war.gov website. Rep Burlison explains that soldiers had a close encounter with flying orbs of light th",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Roswell (7th tranche)",
       "url": "https://www.reddit.com/r/UFOs/comments/1xenf8h/roswell_7th_tranche/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-24T23:48:42+00:00",
       "summary": "Roswell: `I was able to see a couple of bodies under a canvas tarpaulin.(...)I am convinced that what I personally observed was some type of craft and its crew from outer space.´ (from the 7th batch) https://www.war.gov/medialink/ufo/release-07/documents/DOW-UAP-D168-BAASS_Project_Management_Plan-December_2008.pdf See Appendix 2 &#32; submitted by &#32; /u/NoPop6080 [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
-      "title": "Were “psychotronic” attacks against contact activists in the 1990s a precursor of the “Havana Syndrome”? Consciousness based technology might also be targeting what is called the “astral body.”",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xemp0w/were_psychotronic_attacks_against_contact/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-24T23:13:36+00:00",
-      "summary": "Were “psychotronic” attacks against contact activists in the 1990s a precursor of the “Havana Syndrome”? Consciousness based technology might also be targeting what is called the “astral body.” Introduction In my judgment, flying saucers threaten all terrestrial elites, but not necessarily the planet’s people. Given what is a perceived threat to the status quo, both corporate and Executive Branch Intelligence operatives have historically been compelled to deal with UFOs as a ",
       "sourceType": "reddit",
       "firsthand": true
     },
@@ -297,33 +324,6 @@
       "publishedAt": "2026-10-23T22:39:39+00:00",
       "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX [&#8230;]",
       "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-23T22:37:53+00:00",
-      "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-23T21:51:19+00:00",
-      "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "UFO entering mountain? DOW-UAP-PR061, \"Spherical UAP [CALLSIGN] 2021/04/12 vid 0\"",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xdphby/ufo_entering_mountain_dowuappr061_spherical_uap/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-23T20:42:05+00:00",
-      "summary": "&#x200B; I was looking at some videos on war.gov and this one caught my attention. I have not found other posts talking about this but here we go. At 3:59, from what i can see, it look like the object is getting closer to the ground and the disapears in the shadow/mountain. Where I am getting at is this... We have all heard about Aliens living underground/underwater/in mountains. Wouldn&#39;t this video match the description of multiple people saying they saw ufos going into ",
-      "sourceType": "reddit",
       "firsthand": false
     }
   ]
