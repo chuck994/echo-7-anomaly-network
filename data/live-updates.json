@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-26T14:56:53.753978+00:00",
+  "updatedAt": "2026-10-26T19:03:42.355885+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,11 +57,110 @@
   ],
   "items": [
     {
+      "title": "Open Source, AI Sky Cam. Tracks birds, planes, meteors, and other",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg5byd/open_source_ai_sky_cam_tracks_birds_planes/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T18:40:41+00:00",
+      "summary": "&#32; submitted by &#32; /u/FrailSong [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Eric Burlinson said he's on the trail of the Nordic alien video and footage of UAP activity at White Sands.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg55jh/eric_burlinson_said_hes_on_the_trail_of_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T18:33:51+00:00",
+      "summary": "&#32; submitted by &#32; /u/NateBerukAnjing [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Silent strobing light hovered and darted erratically over Bellingham, WA — May 3, 2026, 12:00 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg3m8h/silent_strobing_light_hovered_and_darted/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T17:38:22+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Relaxing Rule 3 \"Be substantive\" enforcement on posts.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg3400/relaxing_rule_3_be_substantive_enforcement_on/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T17:19:58+00:00",
+      "summary": "Rule 3 currently states. This rule is an attempt to elevate the quality of discussion. To prevent lazy karma farming posts. This generally includes: Posts containing jokes, memes, and showerthoughts. Posts of AI generated content. AI is permissible in narrow circumstances e.g. document summary, witness artwork in place of a hand drawn sketch. Posts of social media content without relevant context. e.g. &quot;Saw this on TikTok...&quot; Posts with incredible claims unsupported",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-26T17:13:44+00:00",
+      "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Jake Barber is reportedly going to join Rep. Burlison’s staff to assist with UAP transparency",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg2lup/jake_barber_is_reportedly_going_to_join_rep/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T17:01:42+00:00",
+      "summary": "&#32; submitted by &#32; /u/NateBerukAnjing [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Pentagon's UFO Files Open a Portal to the Unknown With Chilling Claims of Seven-Foot Skinwalkers",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg1cvh/pentagons_ufo_files_open_a_portal_to_the_unknown/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T16:16:29+00:00",
+      "summary": "Newly released Pentagon UFO files have revealed extraordinary witness accounts of seven-foot creatures, mysterious lights, and an alleged portal to another world near Utah&#39;s infamous Skinwalker Ranch. &#32; submitted by &#32; /u/Smoky_Aventus_2010 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Did Bob Lazar’s “Element 115” Become His Ultimate Get-Out-of-Jail Card?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg0waf/did_bob_lazars_element_115_become_his_ultimate/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T16:00:33+00:00",
+      "summary": "Bob Lazar’s story has one detail that keeps nagging at me: the element 115 he says powered the craft at S-4. He’s suggested he had access to a sample, and I’ve come across claims that investigators searched his home or workshop for it. If that’s true, could the possibility of revealing a real sample have been his ultimate protection—or was the “hidden element 115” story itself a way to make people think twice about going after him? I’m not claiming either version is true, and",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s X-59 Aircraft and Test Pilot",
+      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-26T15:25:47+00:00",
+      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency&#8217;s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Bill McDonald's strange claims",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xfzqmf/bill_mcdonalds_strange_claims/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T15:19:05+00:00",
+      "summary": "According to William McDonald, who&#39;s spent years studying testimonies related to the Roswell incident in order to design an authentic model of the crashed craft, the descriptions provided did not match the conventional image of a &quot;flying saucer&quot;, to McDonald&#39;s own surprise. Instead of a disc-shaped craft, it was an advanced winged body, a type of &quot;lifting body&quot; or &quot;waverider&quot; design similar to those used in hypersonic and trans-atmospheri",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "It has been 17,000+ days since I haven't been abducted by aliens or seen a UFO. And it is making me rethink everything.",
       "url": "https://www.reddit.com/r/UFOs/comments/1xfxsay/it_has_been_17000_days_since_i_havent_been/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-26T14:06:08+00:00",
       "summary": "I have a hard time putting my thoughts into words right away because my mind connects things quickly, so please bear with me. I’ve followed the UFO phenomenon since the mid-1990s. Growing up in Tucson under a major military flight path, I became an aviation nut. At nearly 50 years old, I have over 17,000 days of logged experience knowing exactly how military aircraft behave, how they sound, and how optical illusions (like an aircraft flying on your exact heading) make things ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Jay Stratton says that as of June 2026, at least two privately owned sites in the United States were seeing daily UAP activity and were under active FBI investigation. What are those two sites?”",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xfxs73/jay_stratton_says_that_as_of_june_2026_at_least/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T14:06:01+00:00",
+      "summary": "From Strattons book &quot;Out of the Shadows&quot;: &quot;As of June of 2026, there are at least two privately owned sites in the U.S. that are having daily UAP activity and are active FBI investigation sites. The FBI literally has boots on the ground at these locations, where FBI agents are observing and recording UAP activity on a daily basis. I am receiving regular updates on thee investigations directly from the FBI, and I&#39;m providing my expertise to help them.&quot; ",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -98,15 +197,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-26T12:58:44+00:00",
       "summary": "&#32; submitted by &#32; /u/insanisprimero [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Multiple bright lights hovered and floated erratically over Seoul, South Korea — Oct 26, 2026, 9:00 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xfvwwf/multiple_bright_lights_hovered_and_floated/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T12:50:32+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -165,15 +255,6 @@
       "firsthand": false
     },
     {
-      "title": "Korea Suwon sighting of the same thing from Iran?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xfphxu/korea_suwon_sighting_of_the_same_thing_from_iran/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T06:45:04+00:00",
-      "summary": "Saw this posted in r/korea and couldn&#39;t help but notice the similarity to the one in iran https://www.reddit.com/r/UFOs/comments/1wlyaq6/osintdefender_a_number_of_videos_are_circulating/ &#32; submitted by &#32; /u/Direct-Strawberry433 [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "2026 October 26 – M42: The Great Nebula in Orion",
       "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
       "source": "NASA News",
@@ -192,47 +273,11 @@
       "firsthand": false
     },
     {
-      "title": "Pilot Mountain Lights in Surry County, NC",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xff21h/pilot_mountain_lights_in_surry_county_nc/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T21:58:44+00:00",
-      "summary": "Any suggestions on how to obtain archival historical accounts of UFO/UAP/Orbs in northwestern North Carolina? I&#39;m only familiar with MUFON and didn&#39;t see much there. Are there other sites for reporting now and do they allow the pubic to view what is reported? I have also looked for newspaper accounts at the NC Government &amp; Heritage library and there were a couple of dozen. Mt. Airy, North Carolina used to be a hot spot and they seem to be having a bit of a flap ri",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "RAF report near misses with “drones”",
       "url": "https://www.reddit.com/r/UFOs/comments/1xfcsai/raf_report_near_misses_with_drones/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-25T20:23:28+00:00",
       "summary": "On February 23, a pilot flying a Typhoon spotted a &quot;black circular object&quot; passing directly above him while practising dogfights with another jet. It was said to have travelled around &quot;300ft above” the Typhoon near Humberside. The commander reported the drone to the radar controller monitoring the drill, who subsequently passed the sighting on to North Yorkshire Police. At this stage, it is unknown whether the drones are hostile or not. Drone sightings at such ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Agreements with NHI: Secrecy, Abductions, and the Question of Consent",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xf9xvz/agreements_with_nhi_secrecy_abductions_and_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T18:31:44+00:00",
-      "summary": "Several people have described alleged government agreements with non-human intelligence (NHI), but their accounts differ: reported conversations, inherited stories, indirect answers, and speculation. None presents an authenticated agreement. The central ethical question is consent: could officials promise access to people who never agreed? 1. What Borland actually said Dylan Borland says he learned about agreements with NHI from the Intelligence Community Inspector General (I",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
-      "title": "The 1946 Swedish Ghost Rockets and the Peenemunde Hypothesis",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xf9v9w/the_1946_swedish_ghost_rockets_and_the_peenemunde/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T18:28:54+00:00",
-      "summary": "Part 13 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Sweden received 973 reports by 1 December 1946 and mounted a military-scientific investigation. None of thirty submitted finds was proved to come from a rocket. The often-cited 225 reports of objects were a reporting category, not a count of verified craft. Only one unexplained radar indication had a simultaneous visual observation. The Soviet-missile hypothesis reached President T",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Theory on UFO mimicry",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xf8pkt/theory_on_ufo_mimicry/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T17:42:54+00:00",
-      "summary": "I was standing outside while my dog did his business the other night, and I was watching some lights moving across the sky. Probably a plane. But I was thinking about UFOs, and pondering why would they cover their craft in bright lights? That&#39;s not very stealth. And I thought about some of the videos where a UAP seems to change shape, or seems to go from a just a bright light to something mechanical looking. Why bother? Are they trying to impress us? Unlikely. It made me ",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -246,29 +291,11 @@
       "firsthand": false
     },
     {
-      "title": "Black object hovered then floated steadily away over Mui Wo, Hong Kong — Oct 25, 2026, 5:27 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xf64pb/black_object_hovered_then_floated_steadily_away/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T16:02:16+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Horror as BA flight has ‘near miss’ with ‘UFO’ at 5,800 feet",
       "url": "https://www.reddit.com/r/UFOs/comments/1xf3eh4/horror_as_ba_flight_has_near_miss_with_ufo_at/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-25T14:12:04+00:00",
       "summary": "A transatlantic flight carrying hundreds of holidaymakers came within feet of catastrophe after a mystery airborne object shot past the aircraft shortly after taking off from Heathrow Airport , a safety report has revealed. The British Airways Boeing 777-300ER was climbing out of the UK’s busiest airport en route to New York when the flight crew spotted the bizarre metallic object screaming towards them at high speed. The packed passenger jet, carrying 256 passengers and crew",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Today (Sunday, October 25, 1PM PT): Remembering Mario Woods, the Air Force veteran and UAP whistleblower, with his daughter Lexie Woods and Dr. John Blitch",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xf260z/today_sunday_october_25_1pm_pt_remembering_mario/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T13:18:20+00:00",
-      "summary": "Mario Woods passed away on October 16, at 71. He took his story to History&#39;s Unidentified, to the Pentagon&#39;s UAP office, and to podcasts around the world, and in 2023 he told it on our show. Today his daughter, Lexie Woods, and Dr. John Blitch join us live to remember him, and then we replay that 2023 interview, in his own words. 🔴 Join us LIVE - Sunday, October 25 at 1:00 PM PT https://youtube.com/live/g4KLMTJt9CE &#32; submitted by &#32; /u/TheGoodTroubleShow [link]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -296,33 +323,6 @@
       "source": "NASA News",
       "publishedAt": "2026-10-25T08:19:48+00:00",
       "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Karlsruhe 2023 similar to Nuremberg 1561",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xev5l0/karlsruhe_2023_similar_to_nuremberg_1561/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-25T06:40:09+00:00",
-      "summary": "Spearhead-shaped object caught on camera by [ u/kopperxl ]( u/kopperxl ) over Karlsruhe, Germany on Oct 1, 2023 at 7pm local time. The video from 00:12 to 00:16 shows the object staying in one place and rotating around its vertical axis. An impossible maneuver for a delta-winged drone with rear propulsion. It also seems unlikely that the object is a balloon or a kite. It reminds me of a similar dark, pointed object depicted in Hans Glaser’s famous 1561 Nuremberg woodcut . &#3",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "URGENT: The UAP Disclosure Act is in closed-door conferences right now. Here is how we stop them from gutting it like they did in 2023",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xegnsb/urgent_the_uap_disclosure_act_is_in_closeddoor/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-24T18:53:04+00:00",
-      "summary": "In 2023, the Senate passed the Schumer-Rounds UAP Disclosure Act, giving us the best chance at real transparency in 80 years. Then, behind closed doors in the NDAA conference committee, leadership stripped out the independent review board and the recovered-materials provisions. We were handed a hollow shell. They are in the room to do it again right now. Thanks to months of fights by Rep. Eric Burlison (R-MO), a fully intact UAPDA was adopted into the House-passed FY2027 NDAA",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-24T04:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta&#8217;s Selfie Explanation: [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     }
