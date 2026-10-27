@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-27T07:02:57.781516+00:00",
+  "updatedAt": "2026-10-27T13:03:40.834076+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Roswell, Part One: The 1947 Record and the Material Witnesses",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xgn8ev/roswell_part_one_the_1947_record_and_the_material/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-27T08:48:09+00:00",
+      "summary": "Part 14 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR: The 1947 record documents a debris recovery, a “flying disc” announcement and a balloon explanation. The body stories came later. The strongest unresolved claims concern unusual material and secrecy, but several prominent witnesses were discredited. Earlier in the series: Part 1 — Captured technology, 1943–1950 Part 2 — Italy, 1933: the Magenta documents Part 3 — Vannevar Bush Par",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-27T07:07:51+00:00",
+      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation &#38; Control (GN&#38;C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”&#160; In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "The Key to Disclosure: Dr. Christopher Kit Green and Mind Control",
       "url": "https://www.reddit.com/r/UFOs/comments/1xglesn/the_key_to_disclosure_dr_christopher_kit_green/",
@@ -228,6 +246,15 @@
       "firsthand": false
     },
     {
+      "title": "Relaxing Rule 3 \"Be substantive\" enforcement on posts.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xg3400/relaxing_rule_3_be_substantive_enforcement_on/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-26T17:19:58+00:00",
+      "summary": "Rule 3 currently states. This rule is an attempt to elevate the quality of discussion. To prevent lazy karma farming posts. This generally includes: Posts containing jokes, memes, and showerthoughts. Posts of AI generated content. AI is permissible in narrow circumstances e.g. document summary, witness artwork in place of a hand drawn sketch. Posts of social media content without relevant context. e.g. &quot;Saw this on TikTok...&quot; Posts with incredible claims unsupported",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
       "source": "NASA News",
@@ -251,15 +278,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-26T16:16:29+00:00",
       "summary": "Newly released Pentagon UFO files have revealed extraordinary witness accounts of seven-foot creatures, mysterious lights, and an alleged portal to another world near Utah&#39;s infamous Skinwalker Ranch. &#32; submitted by &#32; /u/Smoky_Aventus_2010 [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Did Bob Lazar’s “Element 115” Become His Ultimate Get-Out-of-Jail Card?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xg0waf/did_bob_lazars_element_115_become_his_ultimate/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T16:00:33+00:00",
-      "summary": "Bob Lazar’s story has one detail that keeps nagging at me: the element 115 he says powered the craft at S-4. He’s suggested he had access to a sample, and I’ve come across claims that investigators searched his home or workshop for it. If that’s true, could the possibility of revealing a real sample have been his ultimate protection—or was the “hidden element 115” story itself a way to make people think twice about going after him? I’m not claiming either version is true, and",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -300,29 +318,11 @@
       "firsthand": false
     },
     {
-      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-      "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-26T13:54:25+00:00",
-      "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "Sealed Roswell Affidavit Describing Alien Craft And Bodies Released By Department of War",
       "url": "https://www.reddit.com/r/UFOs/comments/1xfw3ig/sealed_roswell_affidavit_describing_alien_craft/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-26T12:58:44+00:00",
       "summary": "&#32; submitted by &#32; /u/insanisprimero [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Rep Andre Carson accuses the Trump administration of having \"slow walked\" UFO reporting and investigation transparency efforts. Calls for immediate release of a report called \"Historical UAP Record Report\" that he says will shed light on classified UFO programs.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xfuxdr/rep_andre_carson_accuses_the_trump_administration/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T12:04:53+00:00",
-      "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     }
