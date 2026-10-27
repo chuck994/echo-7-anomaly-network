@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-27T13:03:40.834076+00:00",
+  "updatedAt": "2026-10-27T18:58:14.514157+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Why don't people come forward with proof?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xh05jh/why_dont_people_come_forward_with_proof/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-27T18:13:40+00:00",
+      "summary": "One thing that doesn&#39;t make sense to me is people saying that multiple companies like lockheed are in the possession of alien craft and potentially bodies. The narritive is that since these are not government entities, they can&#39;t be held responsible or forced to submit foia requests. That all makes sense but how does that same non government company also get to be protected from people telling us what exactly they have? They aren&#39;t a government entity so why can&#",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-27T17:58:57+00:00",
+      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "5+ changing lights moved erratically over Folsom and El Dorado Hills from Mather, CA — Oct 16, 2026, 4:07 AM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xgz7pv/5_changing_lights_moved_erratically_over_folsom/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-27T17:39:35+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "UFO Plasma Projections, PSYOPs, Tech for Access, and the Plasmoid Prison Break",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xgz5zx/ufo_plasma_projections_psyops_tech_for_access_and/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-27T17:37:47+00:00",
+      "summary": "This post was previously removed under the &quot;be substantive&quot; rule so I am reposting an updated version given this rule has been relaxed. TLDR; The lights in the sky might be plasma, not craft. Some are military, some are natural, some may be projected by something we don&#39;t understand yet. Every tradition on Earth warns against opening channels to non-human intelligence. The modern UFO contact community is doing exactly that and calling it enlightenment. The most ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Roswell, Part One: The 1947 Record and the Material Witnesses",
       "url": "https://www.reddit.com/r/UFOs/comments/1xgn8ev/roswell_part_one_the_1947_record_and_the_material/",
@@ -125,15 +161,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-27T02:47:55+00:00",
       "summary": "From the original post: This video was filmed on October 1, 2023 at 7PM CET, in Karlsruhe, Germany; the original sighting post ( https://www.reddit.com/r/UFOs/s/4ZCo3LTnCE ) still exists. This UAP closely matches the triangular morphology ( https://imgur.com/a/ec1ALMz ) according to the Immaculate Constellation report ( https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf ); this specific shape is also known as the “pumpinkseed ( https:",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Trump's answers on UAP: 3 interviews over 3 years",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xgc0mh/trumps_answers_on_uap_3_interviews_over_3_years/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T22:59:37+00:00",
-      "summary": "Trump was asked about UAP on Logan Paul, Joe Rogan and Newsmax. Each time he returns to the same answers: He describes exceptionally handsome military pilots. (x3) He establishes their credibility: they are serious people, not conspiracy theorists. (x3) He recounts the round object travelling four times faster than an F-22. (x3) He distances himself from the subject by presenting himself as a sceptic. (x2) He digresses into Area 51 and its tourist appeal. (x3) He is consisten",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -282,15 +309,6 @@
       "firsthand": false
     },
     {
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-26T15:25:47+00:00",
-      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency&#8217;s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "It has been 17,000+ days since I haven't been abducted by aliens or seen a UFO. And it is making me rethink everything.",
       "url": "https://www.reddit.com/r/UFOs/comments/1xfxsay/it_has_been_17000_days_since_i_havent_been/",
       "source": "r/UFOs (community)",
@@ -305,24 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-26T14:06:01+00:00",
       "summary": "From Strattons book &quot;Out of the Shadows&quot;: &quot;As of June of 2026, there are at least two privately owned sites in the U.S. that are having daily UAP activity and are active FBI investigation sites. The FBI literally has boots on the ground at these locations, where FBI agents are observing and recording UAP activity on a daily basis. I am receiving regular updates on thee investigations directly from the FBI, and I&#39;m providing my expertise to help them.&quot; ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "A Drudge-style front page for UFO and high strangeness news",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xfxozp/a_drudgestyle_front_page_for_ufo_and_high/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T14:02:36+00:00",
-      "summary": "Mods gave me the OK to post this, so here goes. A few months ago I was tired of having to keep checking a dozen sites, substacks, and subreddits for UFO/UAP and high strangeness news, so I built an aggregator page: enigmaticnews.com I&#39;m using a Drudge-style list of headlines. I update it twice daily, r/UFOs is one of the main sources, along with The Debrief, The Anomalist, Liberation Times, etc (there&#39;s close to 100 sources at this point). I pick the stories by runnin",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Sealed Roswell Affidavit Describing Alien Craft And Bodies Released By Department of War",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xfw3ig/sealed_roswell_affidavit_describing_alien_craft/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T12:58:44+00:00",
-      "summary": "&#32; submitted by &#32; /u/insanisprimero [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     }
