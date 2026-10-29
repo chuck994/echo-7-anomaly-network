@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-28T19:04:28.957132+00:00",
+  "updatedAt": "2026-10-29T01:14:20.773089+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,42 @@
     }
   ],
   "items": [
+    {
+      "title": "A June 2026 black triangle sat in the Pentagon’s files for four months before release. What changed?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xi1yfg/a_june_2026_black_triangle_sat_in_the_pentagons/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-28T22:01:12+00:00",
+      "summary": "AARO memo DOW-UAP-D176 describes a matte-black triangle, 13-15 feet across, seen by two federal special agents and a third official at a sensitive site in the western U.S. The object rose 200-300 feet over a ridgeline, hovered for about 20 seconds, then banked and dropped toward a canyon in two to three seconds. A ground survey the next morning found no wreckage or scarring. The FBI’s own statement (FBI-UAP-D043) says the whole event lasted about three seconds, and the two do",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-28T21:50:01+00:00",
+      "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.&#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Pulsing ball of energy moved straight and steady over Dorval, Quebec — Dec 14, 2024, 6:35 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xi0nb0/pulsing_ball_of_energy_moved_straight_and_steady/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-28T21:09:34+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "2027: Why Do Ancient Prophecies, Scientists, Military Officials, and UFO Insiders Keep Pointing to the Same Year?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xhzrzt/2027_why_do_ancient_prophecies_scientists/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-28T20:36:07+00:00",
+      "summary": "I&#39;ve spent quite a bit of time going down the rabbit hole surrounding the year 2027 , and what I found genuinely surprised me. Most people following the UAP topic have probably heard John Ramirez or Lue Elizondo mention 2027. But I wanted to know something different: How far back does this date actually go? Some of these references are hundreds of years old. Others come from scientists, economists, and military officials who have absolutely nothing to do with UFOs. And th",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
       "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
@@ -273,24 +309,6 @@
       "firsthand": false
     },
     {
-      "title": "Roswell, Part One: The 1947 Record and the Material Witnesses",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xgn8ev/roswell_part_one_the_1947_record_and_the_material/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-27T08:48:09+00:00",
-      "summary": "Part 14 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR: The 1947 record documents a debris recovery, a “flying disc” announcement and a balloon explanation. The body stories came later. The strongest unresolved claims concern unusual material and secrecy, but several prominent witnesses were discredited. Earlier in the series: Part 1 — Captured technology, 1943–1950 Part 2 — Italy, 1933: the Magenta documents Part 3 — Vannevar Bush Par",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-27T07:07:51+00:00",
-      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation &#38; Control (GN&#38;C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”&#160; In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "The Key to Disclosure: Dr. Christopher Kit Green and Mind Control",
       "url": "https://www.reddit.com/r/UFOs/comments/1xglesn/the_key_to_disclosure_dr_christopher_kit_green/",
       "source": "r/UFOs (community)",
@@ -307,24 +325,6 @@
       "summary": "In the last 10 years most of this stuff has been pretty new material to me as I&#39;ve looked into UFOs. I was enthrawled by Bob Lazar&#39;s book Dreamland , awed by David Grusch&#39;s inverview with Ross Coulthart about a secret government agreement with aliens, flabergasted by Coulthart&#39;s statement that there was a UFO too big to move and Steven Greer&#39;s statement that it under a base in South Korea, and blown away by Matthew Gaetz&#39;s comment that he had been told",
       "sourceType": "reddit",
       "firsthand": true
-    },
-    {
-      "title": "From the InterdimensionalNHI community on Reddit: Video showing a distinct black triangular UAP rotating in the sky above Karlsruhe, Germany (stabilized)",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xgh478/from_the_interdimensionalnhi_community_on_reddit/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-27T02:47:55+00:00",
-      "summary": "From the original post: This video was filmed on October 1, 2023 at 7PM CET, in Karlsruhe, Germany; the original sighting post ( https://www.reddit.com/r/UFOs/s/4ZCo3LTnCE ) still exists. This UAP closely matches the triangular morphology ( https://imgur.com/a/ec1ALMz ) according to the Immaculate Constellation report ( https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf ); this specific shape is also known as the “pumpinkseed ( https:",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Eric Burlinson said he's on the trail of the Nordic alien video and footage of UAP activity at White Sands.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xg55jh/eric_burlinson_said_hes_on_the_trail_of_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-26T18:33:51+00:00",
-      "summary": "&#32; submitted by &#32; /u/NateBerukAnjing [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
     }
   ]
 }
