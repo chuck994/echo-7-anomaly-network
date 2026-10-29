@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-29T07:15:03.275204+00:00",
+  "updatedAt": "2026-10-29T13:15:21.185009+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,6 +57,33 @@
   ],
   "items": [
     {
+      "title": "Okay, so we can get high res images of objects in Space....",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xihy22/okay_so_we_can_get_high_res_images_of_objects_in/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T11:57:48+00:00",
+      "summary": "This is a picture of China&#39;s secret space plane with it&#39;s cargo bays open and solar arrays deployed IN SPACE that the US captured with imagery back in 2024. There is no way of knowing if this is a screen grab from a much longer video or if the image/video was captured from the ground or another space asset we have. THE POINT OF THIS POST: If the US was capturing images this detailed in 2024, then if there are UAP&#39;s, surely we can capture images/videos of them in h",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Diamond-shaped object paced car with erratic direction changes over Porterville, CA — Oct 29, 2026, 9:00 AM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xifb8k/diamondshaped_object_paced_car_with_erratic/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T09:33:54+00:00",
+      "summary": "Reported by u/Raiders580 (verified via ufosighting.report) This is an automated post. The report was filed through the structured sighting form on ufosighting.report and posted here by u/ufosightingsbot on the reporter&#39;s behalf. u/Raiders580 confirmed this submission from their own Reddit account through a one-time link, so the name above is verified as the submitter. 📄 Full report and structured details — the map entry, timeline, and everything from the sighting form. No",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Lengthy Twitter Post Alleging Insider Program Knowledge",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xifb7h/lengthy_twitter_post_alleging_insider_program/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T09:33:51+00:00",
+      "summary": "link. likely larp, but interesting nonetheless: I spent nineteen years inside the programs. Not the ones that appear in budgets or get briefed to the oversight committees. The ones that sit one layer further in, the ones whose existence is protected by the fact that almost no one who could ask the right questions has the clearance to hear the answers. I handled logistics, chain of custody, and medical transfer orders. I never flew anything. I never opened a power module. I ju",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
       "title": "Roswell, Part Two: The Investigations and the Witnesses Who Came After",
       "url": "https://www.reddit.com/r/UFOs/comments/1xicxih/roswell_part_two_the_investigations_and_the/",
       "source": "r/UFOs (community)",
@@ -82,15 +109,6 @@
       "summary": "Source info Wanted to bring this to y’alls attention. Did I miss this entirely somehow? I’m in this rabbit hole some 2 years now and just stumbled over this in a comment section on socials… TL:DR apparently there is a decades long internal UFO disinformation campaign within the US military DoD. Basically people were told they work on alien stuff or reverse engineering UFOs, while they worked on sensitive weapons. Allegedly it serves multiple pusposes: hazing, misinformation, ",
       "sourceType": "reddit",
       "firsthand": false
-    },
-    {
-      "title": "What On Earth...",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xib7jf/what_on_earth/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T05:16:27+00:00",
-      "summary": "I live in Southeastern Massachusetts. Literally 5 minutes ago I heard a noise that sounded like one in the usual MedFlight or State Police helicopters that you unfortunately see and hear around here much too often. But this sounded like it was landing in the apartment complex. I ran to the back door and opened it up, looked up and saw the outline of a gigantic drone shaped object, almost square but with legs, and without flashing green and red lights, but dark reddish lights ",
-      "sourceType": "reddit",
-      "firsthand": true
     },
     {
       "title": "APOD: 29 October 2026 – The Horns of Venus",
@@ -152,15 +170,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-28T21:09:34+00:00",
       "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "2027: Why Do Ancient Prophecies, Scientists, Military Officials, and UFO Insiders Keep Pointing to the Same Year?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xhzrzt/2027_why_do_ancient_prophecies_scientists/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-28T20:36:07+00:00",
-      "summary": "I&#39;ve spent quite a bit of time going down the rabbit hole surrounding the year 2027 , and what I found genuinely surprised me. Most people following the UAP topic have probably heard John Ramirez or Lue Elizondo mention 2027. But I wanted to know something different: How far back does this date actually go? Some of these references are hundreds of years old. Others come from scientists, economists, and military officials who have absolutely nothing to do with UFOs. And th",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -314,15 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-27T20:33:43+00:00",
       "summary": "&#32; submitted by &#32; /u/FearmyBeard21 [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Today’s the 72nd anniversary of the Florence mass UFO sighting (1954) so here’s a technical recreation made in Unreal Engine",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xh2wbo/todays_the_72nd_anniversary_of_the_florence_mass/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-27T19:54:53+00:00",
-      "summary": "&#32; submitted by &#32; /u/playertariat [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     }
