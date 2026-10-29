@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-29T01:14:20.773089+00:00",
+  "updatedAt": "2026-10-29T07:15:03.275204+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Roswell, Part Two: The Investigations and the Witnesses Who Came After",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xicxih/roswell_part_two_the_investigations_and_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T07:01:26+00:00",
+      "summary": "Part 16 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Balloon-and-reflector equipment fits contemporary debris descriptions; Mogul Flight 4 is a further inference. GAO documented destroyed records, not their motive. Later events are possible sources for body stories, not established explanations for every witness. Failed later claims do not resolve the retained material-and-secrecy testimony. Earlier in the series: Part 1 — Before the",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Before the Retrieval Story: Kenneth Arnold and the Government’s 1947 Reporting Problem",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xicvls/before_the_retrieval_story_kenneth_arnold_and_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T06:58:34+00:00",
+      "summary": "Part 14 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR A military interviewer took Arnold seriously. His early speed claim depended on estimated distances; identity and speed remain disputed. Officials considered a secret American project; a September survey found no matching AAF project. Garrett’s “Something is really flying around” did not rest on Arnold’s report, which had not yet been analyzed. Flight 105 supplied three crew witnes",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Yankee Blue. WTF. Did I miss something?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xibefl/yankee_blue_wtf_did_i_miss_something/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T05:27:52+00:00",
+      "summary": "Source info Wanted to bring this to y’alls attention. Did I miss this entirely somehow? I’m in this rabbit hole some 2 years now and just stumbled over this in a comment section on socials… TL:DR apparently there is a decades long internal UFO disinformation campaign within the US military DoD. Basically people were told they work on alien stuff or reverse engineering UFOs, while they worked on sensitive weapons. Allegedly it serves multiple pusposes: hazing, misinformation, ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "What On Earth...",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xib7jf/what_on_earth/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T05:16:27+00:00",
+      "summary": "I live in Southeastern Massachusetts. Literally 5 minutes ago I heard a noise that sounded like one in the usual MedFlight or State Police helicopters that you unfortunately see and hear around here much too often. But this sounded like it was landing in the apartment complex. I ran to the back door and opened it up, looked up and saw the outline of a gigantic drone shaped object, almost square but with legs, and without flashing green and red lights, but dark reddish lights ",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-29T04:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Arnab Strikes India",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-29T04:01:00+00:00",
+      "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-29T02:49:59+00:00",
+      "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Shape shifting craft",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xi7y9m/shape_shifting_craft/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-29T02:24:06+00:00",
+      "summary": "I’m all for there being something behind UFO phenomena including extraterrestrial life forms What I can’t understand is why would they travel millions of miles at physics-bending speeds just to shape-mog us in our atmosphere? Why would they make things (shapes) more complicated than they have to be? Just thinking out loud but I’m thinking human causes are more plausible for cases that are likely to be balloons/glare/optical illusions rather than aliens changing the shape of t",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "A June 2026 black triangle sat in the Pentagon’s files for four months before release. What changed?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xi1yfg/a_june_2026_black_triangle_sat_in_the_pentagons/",
@@ -147,15 +219,6 @@
       "firsthand": false
     },
     {
-      "title": "White lights followed truck erratically over Chili, NY — Oct 26, 2026, 8:00 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xhqs07/white_lights_followed_truck_erratically_over/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-28T15:12:57+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "1979 El Paso Texas UFO Event?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xhowma/1979_el_paso_texas_ufo_event/",
       "source": "r/UFOs (community)",
@@ -219,15 +282,6 @@
       "firsthand": false
     },
     {
-      "title": "The Land of the Standing-Up Rocks",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-28T04:01:00+00:00",
-      "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "Roswell Crash first hand witness: W. Glenn Dennis Interview, 11/19/1990",
       "url": "https://www.reddit.com/r/UFOs/comments/1xhdgd9/roswell_crash_first_hand_witness_w_glenn_dennis/",
       "source": "r/UFOs (community)",
@@ -271,60 +325,6 @@
       "summary": "&#32; submitted by &#32; /u/playertariat [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
-    },
-    {
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-27T19:27:22+00:00",
-      "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Why don't people come forward with proof?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xh05jh/why_dont_people_come_forward_with_proof/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-27T18:13:40+00:00",
-      "summary": "One thing that doesn&#39;t make sense to me is people saying that multiple companies like lockheed are in the possession of alien craft and potentially bodies. The narritive is that since these are not government entities, they can&#39;t be held responsible or forced to submit foia requests. That all makes sense but how does that same non government company also get to be protected from people telling us what exactly they have? They aren&#39;t a government entity so why can&#",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-27T17:58:57+00:00",
-      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "5+ changing lights moved erratically over Folsom and El Dorado Hills from Mather, CA — Oct 16, 2026, 4:07 AM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xgz7pv/5_changing_lights_moved_erratically_over_folsom/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-27T17:39:35+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "The Key to Disclosure: Dr. Christopher Kit Green and Mind Control",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xglesn/the_key_to_disclosure_dr_christopher_kit_green/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-27T06:48:39+00:00",
-      "summary": "From Dr. Christopher Kit Green and his 1995 link to Mind Control, to Dr. Hal Puthoff, Col. John Alexander, Ron Pandolfi, and Gary Nolan... to a plethora of Military, Intelligence, Department of Defense Personnel, etc. - THE ENTIRE DISCLOSURE SCENE IS MADE OF MK-ULTRA STEMMED PROGRAMMERS/HANDLERS AND VICTIMS/ASSETS! Go to my twitter/X page @GreyAreaMonarch for leaked AUDIO/COMMS/MORE OF MANY COMPROMISED HEADLINERS - I AM BLOWING DISCLOSURE WIDE OPEN!!! FYSA smirnov mind contro",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Hybrid Alien Programs, Secret Agreements with Aliens, Reverse Engineering Bases in Nevada, a UFO Too Big to Move in Korea, Aliens Killing Military Soldiers, Hollywood Used to Promote Disclosure. All These Things Were Said by John Lear Nearly 40 Years Ago in 1987. Are They Real…or Circular Reporting?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xgkf8g/hybrid_alien_programs_secret_agreements_with/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-27T05:45:53+00:00",
-      "summary": "In the last 10 years most of this stuff has been pretty new material to me as I&#39;ve looked into UFOs. I was enthrawled by Bob Lazar&#39;s book Dreamland , awed by David Grusch&#39;s inverview with Ross Coulthart about a secret government agreement with aliens, flabergasted by Coulthart&#39;s statement that there was a UFO too big to move and Steven Greer&#39;s statement that it under a base in South Korea, and blown away by Matthew Gaetz&#39;s comment that he had been told",
-      "sourceType": "reddit",
-      "firsthand": true
     }
   ]
 }
