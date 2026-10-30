@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-30T07:15:17.592206+00:00",
+  "updatedAt": "2026-10-30T13:11:31.779546+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,60 @@
     }
   ],
   "items": [
+    {
+      "title": "Connecting the dots: Kevin Campbell’s story about the drone videos Congress requested, and the PURSUE footage that fits",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjdi1r/connecting_the_dots_kevin_campbells_story_about/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T12:03:19+00:00",
+      "summary": "While I was reviewing some of the content I added over the last few days to wherearethey.info , I noticed a connection between what Kevin Campbell said on the Sept 3 episode of Safe Aerospace Podcast with Ryan Graves, and the drone videos dropped in May. Kevin is a former DISA contracto r who monitored live MQ-9 feeds at Hill AFB for about eight months in 2023–24. He describes three sightings over the East China Sea and Yellow Sea, including a sphere tumbling above the water ",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "What if the 2027 prediction has more to do with Math than Aliens ?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjbo78/what_if_the_2027_prediction_has_more_to_do_with/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T10:26:00+00:00",
+      "summary": "In the past few months, for those who have paid attention to the AI discoveries in mathematics, there has been a series of publications that have changed math forever, like solving the Navier Stokes equation (law that governs the motion of fluids) and more recently proving false the Exponential Time Hypotesis. Getting us one small step closer to answer the question if P=nP or not. This video explains well in my opionion the whole thing : https://youtu.be/Qleu_YjrS9c?si=R6ceCS",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "🚀 Upcoming Space Launches for October 30, 2026",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjbhjq/upcoming_space_launches_for_october_30_2026/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T10:15:05+00:00",
+      "summary": "Here are the launches scheduled for the next 24 hours: GSLV Mk II | IRNSS-1L (NVS-03) Provider: Indian Space Research Organization Launch Time: 2026-10-30 18:21 UTC / 2026-10-30 02:21 PM EDT Launch Pad: Satish Dhawan Space Centre, India Pad Country: IND Falcon 9 Block 5 | Starlink Group 15-18 Provider: SpaceX Launch Time: 2026-10-31 03:48 UTC / 2026-10-30 11:48 PM EDT Launch Pad: Vandenberg SFB, CA, USA Pad Country: USA Visit RocketLaunch.Live to view the full schedule for fu",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-30T10:00:00+00:00",
+      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Kelly Chase is Naming Names and Crimes",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xj9ksf/kelly_chase_is_naming_names_and_crimes/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T08:14:39+00:00",
+      "summary": "Researcher Kelly Chase says she was drugged and prominent figures in the UFO Disclosure movement had tried to get her to shut up. If you have suspected there was more going on than these people&#39;s public appearances, you were right. &#32; submitted by &#32; /u/jasmine-tgirl [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Psionic asset “Jason” talks about using consciousness to fly UAPs on American Alchemy",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xj90u6/psionic_asset_jason_talks_about_using/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T07:38:13+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Angleton was living Milan at 14 at the time of the 1933 Magenta, Italy UFO crash-retrieval. He would be rushed in to lead the OSS X-2 unit in Sept. 1943 later become the hidden Counterintelligence lead in the CIA, who nobody knew existed until the Church Committee.",
       "url": "https://www.reddit.com/r/UFOs/comments/1xj822y/angleton_was_living_milan_at_14_at_the_time_of/",
@@ -228,15 +282,6 @@
       "firsthand": false
     },
     {
-      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-29T15:10:18+00:00",
-      "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world. &#160; To have your [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "Okay, so we can get high res images of objects in Space....",
       "url": "https://www.reddit.com/r/UFOs/comments/1xihy22/okay_so_we_can_get_high_res_images_of_objects_in/",
       "source": "r/UFOs (community)",
@@ -264,24 +309,6 @@
       "firsthand": true
     },
     {
-      "title": "Roswell, Part Two: The Investigations and the Witnesses Who Came After",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xicxih/roswell_part_two_the_investigations_and_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T07:01:26+00:00",
-      "summary": "Part 16 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Balloon-and-reflector equipment fits contemporary debris descriptions; Mogul Flight 4 is a further inference. GAO documented destroyed records, not their motive. Later events are possible sources for body stories, not established explanations for every witness. Failed later claims do not resolve the retained material-and-secrecy testimony. Earlier in the series: Part 1 — Before the",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Before the Retrieval Story: Kenneth Arnold and the Government’s 1947 Reporting Problem",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xicvls/before_the_retrieval_story_kenneth_arnold_and_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T06:58:34+00:00",
-      "summary": "Part 14 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR A military interviewer took Arnold seriously. His early speed claim depended on estimated distances; identity and speed remain disputed. Officials considered a secret American project; a September survey found no matching AAF project. Garrett’s “Something is really flying around” did not rest on Arnold’s report, which had not yet been analyzed. Flight 105 supplied three crew witnes",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
       "title": "Yankee Blue. WTF. Did I miss something?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xibefl/yankee_blue_wtf_did_i_miss_something/",
       "source": "r/UFOs (community)",
@@ -291,38 +318,11 @@
       "firsthand": false
     },
     {
-      "title": "Shape shifting craft",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xi7y9m/shape_shifting_craft/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T02:24:06+00:00",
-      "summary": "I’m all for there being something behind UFO phenomena including extraterrestrial life forms What I can’t understand is why would they travel millions of miles at physics-bending speeds just to shape-mog us in our atmosphere? Why would they make things (shapes) more complicated than they have to be? Just thinking out loud but I’m thinking human causes are more plausible for cases that are likely to be balloons/glare/optical illusions rather than aliens changing the shape of t",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "A June 2026 black triangle sat in the Pentagon’s files for four months before release. What changed?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xi1yfg/a_june_2026_black_triangle_sat_in_the_pentagons/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-28T22:01:12+00:00",
       "summary": "AARO memo DOW-UAP-D176 describes a matte-black triangle, 13-15 feet across, seen by two federal special agents and a third official at a sensitive site in the western U.S. The object rose 200-300 feet over a ridgeline, hovered for about 20 seconds, then banked and dropped toward a canyon in two to three seconds. A ground survey the next morning found no wreckage or scarring. The FBI’s own statement (FBI-UAP-D043) says the whole event lasted about three seconds, and the two do",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Pulsing ball of energy moved straight and steady over Dorval, Quebec — Dec 14, 2024, 6:35 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xi0nb0/pulsing_ball_of_energy_moved_straight_and_steady/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-28T21:09:34+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "What if \"the consciousness people\" like Grant Cameron are right? Contact Modalities - The Keys to the Universe.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xhwd5f/what_if_the_consciousness_people_like_grant/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-28T18:31:58+00:00",
-      "summary": "So what if the people that keep on saying that Consciousness is the Key to the UFO phenomenon are actually right? In this 47 seconds short clip he summarizes his message well: https://youtu.be/2ph7VZJyhlY?si=P7BzDBe5ymFhnatg That comes from a much longer talk of him with UFO Hub that can be found here: Tales of Unity and Oneness that the Government Doesn&#39;t Want You to Know | Grant Cameron https://www.youtube.com/watch?v=O0zGr7vjz24 Grant Cameron recently wrote an interest",
       "sourceType": "reddit",
       "firsthand": false
     }
