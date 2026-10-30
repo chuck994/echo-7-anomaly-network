@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-30T13:11:31.779546+00:00",
+  "updatedAt": "2026-10-30T18:59:56.245576+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,51 @@
     }
   ],
   "items": [
+    {
+      "title": "Updated summary of military insiders’ public claims about NHIs and UAPs",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjmvr6/updated_summary_of_military_insiders_public/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T18:12:12+00:00",
+      "summary": "Thank you to everyone who read my previous article “ Implications of military insiders’ claims about NHIs and UAPs: Earth is at risk of being a pawn on the galactic chessboard ”. The article included a summary of the reasons that the most high-profile alleged military insiders have publicly claimed the full truth about NHIs and UAPs would be very difficult for the general population to handle. ( This is according to the “Age of Disclosure” group, along with David Grusch ). Th",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Exclusive - First time interview of alleged NHI encounter (circa 2004)",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjm1px/exclusive_first_time_interview_of_alleged_nhi/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T17:41:02+00:00",
+      "summary": "&#32; submitted by &#32; /u/KissMyFuckingDadMom [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-30T15:56:26+00:00",
+      "summary": "Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-30T14:51:21+00:00",
+      "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Before becoming The Prince of Liechtenstein, Hans-Adam II (guy in white next to Hal Puthoff) funded Parapsychology and UFO research",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjf4k6/before_becoming_the_prince_of_liechtenstein/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-30T13:17:03+00:00",
+      "summary": "Left to right: Robert Jahn (Princeton, PEAR,) Hal Puthoff ( SRI &quot;Stargate&quot;, Earthtech) Hans-Adams II (Prince of Liechtenstein,) Paula and C.B Scott Jones (C.B Scott founded CAAP,) Brenda Dunne (Princeton, PEAR) and John Alexander (Army, LANL, NIDS) Photo from June 1, 1988, at Cornell University. It was a private CAAP gathering held the day before the Society for Scientific Exploration (SSE) 7th Annual Meeting on June 2. Hans-Adam II was a major private benefactor fo",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
     {
       "title": "Connecting the dots: Kevin Campbell’s story about the drone videos Congress requested, and the PURSUE footage that fits",
       "url": "https://www.reddit.com/r/UFOs/comments/1xjdi1r/connecting_the_dots_kevin_campbells_story_about/",
@@ -237,24 +282,6 @@
       "firsthand": false
     },
     {
-      "title": "Disclosure and AI Parallelism",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xir77x/disclosure_and_ai_parallelism/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T17:57:34+00:00",
-      "summary": "Anthropic CEO said AI will be better at almost everything than almost all humans by as early as 2027. He also notes that humans have never had to exist knowing they were not the most intelligent species. These two statement are eerily familiar to what we’ve been hearing in the disclosure discourse for several years. Something big coming in 2027 and humans not being top of the food chain. Is this all a coincidence? Quite possibly. Is there more going on behind the scenes? Does",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "NIH–NASA QuSAFE Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-29T17:44:37+00:00",
-      "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "New Kirkpatrick claims: I worked with Lockheed CTO; asked about Jim Ryder; and was told by a Hill staffer to direct millions of dollars to UFO world figures",
       "url": "https://www.reddit.com/r/UFOs/comments/1xiqtvd/new_kirkpatrick_claims_i_worked_with_lockheed_cto/",
       "source": "r/UFOs (community)",
@@ -270,15 +297,6 @@
       "publishedAt": "2026-10-29T16:53:13+00:00",
       "summary": "I’m all about the woo elements. I think behind the physical crafts and beings lie a deeper secret. It’s all about the woo that really freaks people out. It’s consciousness. It’s life after death. It’s potentially angels and demons. What do you think? What have you heard? I’m intrigued by Robert Bigelow’s latest interviews. Matthew Brown continues to hint at a spiritual connection. And requesting presidential immunity. I am a little disappointed in the government releases so f",
       "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-      "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-29T15:21:23+00:00",
-      "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia [&#8230;]",
-      "sourceType": "official",
       "firsthand": false
     },
     {
@@ -307,24 +325,6 @@
       "summary": "link. likely larp, but interesting nonetheless: I spent nineteen years inside the programs. Not the ones that appear in budgets or get briefed to the oversight committees. The ones that sit one layer further in, the ones whose existence is protected by the fact that almost no one who could ask the right questions has the clearance to hear the answers. I handled logistics, chain of custody, and medical transfer orders. I never flew anything. I never opened a power module. I ju",
       "sourceType": "reddit",
       "firsthand": true
-    },
-    {
-      "title": "Yankee Blue. WTF. Did I miss something?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xibefl/yankee_blue_wtf_did_i_miss_something/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T05:27:52+00:00",
-      "summary": "Source info Wanted to bring this to y’alls attention. Did I miss this entirely somehow? I’m in this rabbit hole some 2 years now and just stumbled over this in a comment section on socials… TL:DR apparently there is a decades long internal UFO disinformation campaign within the US military DoD. Basically people were told they work on alien stuff or reverse engineering UFOs, while they worked on sensitive weapons. Allegedly it serves multiple pusposes: hazing, misinformation, ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "A June 2026 black triangle sat in the Pentagon’s files for four months before release. What changed?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xi1yfg/a_june_2026_black_triangle_sat_in_the_pentagons/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-28T22:01:12+00:00",
-      "summary": "AARO memo DOW-UAP-D176 describes a matte-black triangle, 13-15 feet across, seen by two federal special agents and a third official at a sensitive site in the western U.S. The object rose 200-300 feet over a ridgeline, hovered for about 20 seconds, then banked and dropped toward a canyon in two to three seconds. A ground survey the next morning found no wreckage or scarring. The FBI’s own statement (FBI-UAP-D043) says the whole event lasted about three seconds, and the two do",
-      "sourceType": "reddit",
-      "firsthand": false
     }
   ]
 }
