@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-31T01:17:22.066254+00:00",
+  "updatedAt": "2026-10-31T07:09:54.116253+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,11 +57,56 @@
   ],
   "items": [
     {
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "source": "NASA News",
+      "publishedAt": "2026-10-31T04:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Art’s Parts: The Layered Metal, the Laboratory Tests and the Missing 1947 Link",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xk067a/arts_parts_the_layered_metal_the_laboratory_tests/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-31T03:48:46+00:00",
+      "summary": "Part 18 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR The public history begins with anonymous shipments in 1996. The claimed 1947 recovery remains unverified. Nolan reported ordinary isotope ratios for Art’s Parts. His unusual-isotope claims concern other specimens. ORNL favors terrestrial manufacture. Puthoff and Davis accept key laboratory findings while disputing the proposed historical origin. Yates’s microscopy adds detail, but ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Roswell, Part Three: Shipments, Custody and the Program Claims",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xk04hi/roswell_part_three_shipments_custody_and_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-31T03:46:15+00:00",
+      "summary": "Part 17 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Shipment witnesses describe different routes and have different degrees of direct knowledge. AAWSAP studies and BAASS documents establish interest in Roswell, without demonstrating access to recovered hardware. Elizondo and Stratton name sources, but several accounts connect through Puthoff and Davis. Battelle’s research and Art’s Parts testing are documented; their links to Roswel",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Some weirdness, GITM suggested posting here due to complexity and nature of the activity, all physically impossible.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjzqad/some_weirdness_gitm_suggested_posting_here_due_to/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-31T03:25:10+00:00",
+      "summary": "Note: this is all relevant to UFOs, the activities occurring were in conjunction with major UFO activity and many sightings. I will address the UFO stuff somewhere in the text. Last night, I looked under my bed for something, and found the wallet I lost two months ago in plain sight despite that I had been down there at least thirty if not fifty times. I sit on the floor right there often and absolutely would have seen it due to highly conspicuous placement. It didn’t fall ou",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Herald Sun: It’s time to lift the lid on Melbourne’s most baffling UFO case",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xjyymq/herald_sun_its_time_to_lift_the_lid_on_melbournes/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-31T02:45:26+00:00",
+      "summary": "It’s time to lift the lid on Melbourne’s most baffling UFO case. On April 6, 1966, more than 200 students, teachers and other witnesses reported seeing strange objects over Westall High School and the surrounding area in the city’s southeast. Those students are now aged in their 70s. What they saw has never been explained. “I don’t have to justify myself to anybody,” one witness Joy Clarke once told me. “I know what I saw. And what I saw and the memories I have won’t leave me",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
       "title": "An Event I still can't explain",
       "url": "https://www.reddit.com/r/UFOs/comments/1xjvf8i/an_event_i_still_cant_explain/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-30T23:58:10+00:00",
-      "summary": "Hi everyone, this is only my second ever post ever on reddit so hopefully I&#39;m posting in the right group for this. I apologize if not. So for my trade I&#39;m a truck driver, I started driving when I was 21 and I&#39;m 33 now, this happened when I was 23 so 10 years ago now. I running for a large company running refrigerated freight in a 53&#39; reefer trailer and my truck was a 2016 International Prostar with the terrible max force engine (for those of you that knew the ",
+      "summary": "Hi everyone, this is only my second ever post ever on reddit so hopefully I&#39;m posting in the right group for this. I apologize if not. So for my trade I&#39;m a truck driver, I started driving when I was 21 and I&#39;m 33 now, this happened when I was 23 so 10 years ago now. I was running for a large company running refrigerated freight with a 53&#39; reefer trailer and my truck was a 2016 International Prostar with the terrible max force engine (for those of you that kne",
       "sourceType": "reddit",
       "firsthand": true
     },
@@ -89,15 +134,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-30T21:10:44+00:00",
       "summary": "The FBI statement puts the first call about the triangle at 19:23 local time. The AARO memorandum for the same encounter says 20:23. Both were published October 23, 2026, in Release 7 of the PURSUE files, and neither explains the gap. The documents describe a matte-black object with a 13 to 15 foot wingspan rising over a ridgeline near a sensitive site in the western U.S. Neither record includes independent tracking data. AARO still says the case warrants further investigatio",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Metallic shape-shifting object moved straight and steady over Bay County, FL — Oct 28, 2026, 12:30 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xjr0e5/metallic_shapeshifting_object_moved_straight_and/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-30T20:50:27+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -289,42 +325,6 @@
       "summary": "In this interview, United Airlines CEO Scott Kirby, a former Air Force Academy cadet, is asked whether UFOs are real. His answer is at 0:32. Curious how people here weigh this coming from someone who oversees thousands of commercial pilots. youtube.com/watch?v=LnorCpBR3aA&amp;t=32s &#32; submitted by &#32; /u/HaslamUTK [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
-    },
-    {
-      "title": "Pilots spot mysterious 'Tic Tac' UFO at 41,000 feet over US, but radar detects nothing",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xit7nd/pilots_spot_mysterious_tic_tac_ufo_at_41000_feet/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T19:12:24+00:00",
-      "summary": "&#32; submitted by &#32; /u/Atlantee [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "John Ohly’s “Grand Strategy” Files: The Missing Majestic Link Between the “Grand Joint Operation” and the “Shadow GHQ.”",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xirt3w/john_ohlys_grand_strategy_files_the_missing/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T18:19:50+00:00",
-      "summary": "This post connects the Shadow GHQ , James Forrestal&#39;s Grand Joint Operation , NSC 10-2, and MJ-12. Buried in an official OSD history are five high-level meetings called “Grand Strategy,” held between April and June 1948, which coincide with the development and creation of NSC 10/2. I trace these meetings through James Forrestal’s Special Assistant for National Security, John Ohly, and connect them to the Shadow GHQ meeting and March 1949 Grand Joint Operation to reconstru",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-29T18:18:09+00:00",
-      "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "New Kirkpatrick claims: I worked with Lockheed CTO; asked about Jim Ryder; and was told by a Hill staffer to direct millions of dollars to UFO world figures",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xiqtvd/new_kirkpatrick_claims_i_worked_with_lockheed_cto/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-29T17:43:39+00:00",
-      "summary": "In new correspondence with PARADIGM, Sean Kirkpatrick has shared alleged new details of his UAP investigations. Kirkpatrick told me more about the lengths he went to to investigate claims that Lockheed Martin possesses alien technology and also made the case that profit motives are a driving force behind false UFO claims. He claimed the following: *He worked with Lockheed Martin&#39;s chief technology officer to look into claims that the contractor possessed alien craft and t",
-      "sourceType": "reddit",
-      "firsthand": true
     }
   ]
 }
