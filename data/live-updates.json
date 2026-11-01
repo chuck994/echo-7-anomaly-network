@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-10-31T18:58:15.124353+00:00",
+  "updatedAt": "2026-11-01T01:24:59.705958+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,33 @@
     }
   ],
   "items": [
+    {
+      "title": "Leak or Psyop?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xknsfo/leak_or_psyop/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-31T22:57:43+00:00",
+      "summary": "So I came across this post from last year, wanted to share since there were barely any follow ups or discussions about this. Does anyone know the origins of this document? Someone else linked a leaked transcript that might be related as well as a supposed mh370 transcript. Gemini doesnt think its AI im unsure about other AI models. Seems like LARP but whoever larping sure knows a lot about covert military operations &#32; submitted by &#32; /u/Neat_Ball_8778 [link] &#32; [com",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Carbondale, PA has a UFO festival inspired by a 1974 incident. I asked if I could livestream this year's speakers for r/UFOs, and they agreed.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xkno9p/carbondale_pa_has_a_ufo_festival_inspired_by_a/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-31T22:52:14+00:00",
+      "summary": "Last year I attended Carbondalien Fest in Carbondale PA -- a small festival celebrating our area&#39;s UFO history and the infamous 1974 sighting. If you haven&#39;t heard of it, we can get into that. The fest was a little cheesy (which is to be expected) but honestly a lot of fun between the local theatre involvement, vendors, speakers, and just how everyone got into it. I own a video production company here in NEPA and have always wanted to produce some UFO-related content.",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Lockheed Martin’s Dr James Ryder was deeply invested in the topic of UAP/UFOs. In this conversation, he talks about his involvement with investigators looking into UAP, orbs, “the Ranch” and the Rendlesham Forest incident, among other things. Chapter markers supplied.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xkk6gm/lockheed_martins_dr_james_ryder_was_deeply/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-10-31T20:13:17+00:00",
+      "summary": "&quot;We&#39;re very pleased to have with us somebody to talk about fairies, divas and UAP. Normally you have to go for a druid from Glastonbury or a Lockheed guy. We&#39;ve gone for the latter.&quot; Original video is found here https://vimeo.com/222366976/0c171ef640 or https://www.lucistrust.org/conferences/show/conference_london_2017 Chapter Links Is there an increase in anomalous phenomenon? UAP vs UFO? ( 5:40 ) UAP sightings today and in history ( 07:43 ) Ryders reviews ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Russian KGB UFO & Alien Footage EXPOSED Two Bizarre Videos Investigated",
       "url": "https://www.reddit.com/r/UFOs/comments/1xkhxgg/russian_kgb_ufo_alien_footage_exposed_two_bizarre/",
@@ -120,15 +147,6 @@
       "firsthand": false
     },
     {
-      "title": "Two Tic Tac UFOs behind each other — Mar 12, 2005, 12:00 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xk1448/two_tic_tac_ufos_behind_each_other_mar_12_2005/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T04:39:37+00:00",
-      "summary": "Reported by u/Golemfrost (verified via ufosighting.report) This is an automated post. The report was filed through the structured sighting form on ufosighting.report and posted here by u/ufosightingsbot on the reporter&#39;s behalf. u/Golemfrost confirmed this submission from their own Reddit account through a one-time link, so the name above is verified as the submitter. 📄 Full report and structured details — the map entry, timeline, and everything from the sighting form. No",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
       "source": "NASA News",
@@ -145,15 +163,6 @@
       "summary": "Part 18 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR The public history begins with anonymous shipments in 1996. The claimed 1947 recovery remains unverified. Nolan reported ordinary isotope ratios for Art’s Parts. His unusual-isotope claims concern other specimens. ORNL favors terrestrial manufacture. Puthoff and Davis accept key laboratory findings while disputing the proposed historical origin. Yates’s microscopy adds detail, but ",
       "sourceType": "reddit",
       "firsthand": false
-    },
-    {
-      "title": "Roswell, Part Three: Shipments, Custody and the Program Claims",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xk04hi/roswell_part_three_shipments_custody_and_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T03:46:15+00:00",
-      "summary": "Part 17 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Shipment witnesses describe different routes and have different degrees of direct knowledge. AAWSAP studies and BAASS documents establish interest in Roswell, without demonstrating access to recovered hardware. Elizondo and Stratton name sources, but several accounts connect through Puthoff and Davis. Battelle’s research and Art’s Parts testing are documented; their links to Roswel",
-      "sourceType": "reddit",
-      "firsthand": true
     },
     {
       "title": "Herald Sun: It’s time to lift the lid on Melbourne’s most baffling UFO case",
@@ -260,15 +269,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-30T10:26:00+00:00",
       "summary": "In the past few months, for those who have paid attention to the AI discoveries in mathematics, there has been a series of publications that have changed math forever, like solving the Navier Stokes equation (law that governs the motion of fluids) and more recently proving false the Exponential Time Hypotesis. Getting us one small step closer to answer the question if P=nP or not. This video explains well in my opionion the whole thing : https://youtu.be/Qleu_YjrS9c?si=R6ceCS",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "🚀 Upcoming Space Launches for October 30, 2026",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xjbhjq/upcoming_space_launches_for_october_30_2026/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-30T10:15:05+00:00",
-      "summary": "Here are the launches scheduled for the next 24 hours: GSLV Mk II | IRNSS-1L (NVS-03) Provider: Indian Space Research Organization Launch Time: 2026-10-30 18:21 UTC / 2026-10-30 02:21 PM EDT Launch Pad: Satish Dhawan Space Centre, India Pad Country: IND Falcon 9 Block 5 | Starlink Group 15-18 Provider: SpaceX Launch Time: 2026-10-31 03:48 UTC / 2026-10-30 11:48 PM EDT Launch Pad: Vandenberg SFB, CA, USA Pad Country: USA Visit RocketLaunch.Live to view the full schedule for fu",
       "sourceType": "reddit",
       "firsthand": false
     },
