@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-01T01:24:59.705958+00:00",
+  "updatedAt": "2026-11-01T07:16:56.139588+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,6 +57,33 @@
   ],
   "items": [
     {
+      "title": "From a Milk Drop to Groom Lake: EG&G, The Contractor That Helped Build the Black World",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xkvefw/from_a_milk_drop_to_groom_lake_egg_the_contractor/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-01T05:50:50+00:00",
+      "summary": "Part 20 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR EG&amp;G grew from MIT strobe research into nuclear-test instrumentation, secret-aircraft support and the Janet employee shuttle. Government records, a CIA history and corporate filings document that work and the government-services business’s later owners. They do not establish a UAP program. Bob Lazar’s recruitment story and accounts attributed to an EG&amp;G manager brought the ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "“No Crash Recovered Exhibits”: The Real 1947 Twining Memo",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xkvbr3/no_crash_recovered_exhibits_the_real_1947_twining/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-01T05:46:07+00:00",
+      "summary": "Part 19 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR In his genuine 23 September 1947 letter , General Nathan Twining treated flying-disc reports seriously and recommended a classified investigation. He also identified a lack of crash-recovered physical evidence. “Real and not visionary or fictitious” did not settle the objects’ origin. The letter considered natural phenomena, secret American projects and foreign technology. Disputed",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-01T04:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
       "title": "Leak or Psyop?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xknsfo/leak_or_psyop/",
       "source": "r/UFOs (community)",
@@ -107,15 +134,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-10-31T15:24:21+00:00",
       "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Jasmine Crockett's open to a Select UFO Committee if Democrats win election",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkcilz/jasmine_crocketts_open_to_a_select_ufo_committee/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T15:04:04+00:00",
-      "summary": "👋...cannot wait for this election to be over... Who? Rep. Jasmine Crockett * (D-TX) — Ranking Member, Task Force on the Declassification of Federal Secrets \\ Crockett lost the Texas Democratic primary for the US Senate, so she leaves Congress in January. The Dallas Morning News reports she plans to stay active in politics, running her new FIRE — Fuel Individual Rights Everywhere — PAC.* Ask a Pol asks: Have you heard any talk about a Select UFO Committee? Key Crockett: “Uh, n",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -305,24 +323,6 @@
       "source": "NASA News",
       "publishedAt": "2026-10-30T04:05:00+00:00",
       "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Vega Island Frozen in Fright",
-      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-30T04:01:00+00:00",
-      "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-30T00:07:39+00:00",
-      "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
       "sourceType": "official",
       "firsthand": false
     }
