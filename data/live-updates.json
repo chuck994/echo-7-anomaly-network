@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-02T01:23:52.274919+00:00",
+  "updatedAt": "2026-11-02T07:41:39.734256+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,60 @@
     }
   ],
   "items": [
+    {
+      "title": "I have never seen this document…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xlqzfc/i_have_never_seen_this_document/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T07:35:52+00:00",
+      "summary": "Is this real? &#32; submitted by &#32; /u/ElectronicAd7916 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "The Fatal Pursuit: Thomas Mantell and the Explanations That Followed",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xlqnz3/the_fatal_pursuit_thomas_mantell_and_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T07:15:05+00:00",
+      "summary": "Part 22 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR On January 7, 1948, Captain Thomas Mantell died after climbing toward an unidentified object over Kentucky. The accident investigation attributed the crash to oxygen deprivation, loss of control and an airborne breakup. Godman Field observers described a bright white object, sometimes cone-shaped or parachute-like. Accounts of Mantell’s radio transmissions differ; no authenticated ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "“Can’t Be Laughed Off”: Project Sign, Project Grudge and the 1948 Estimate Nobody Can Find",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xlqmf7/cant_be_laughed_off_project_sign_project_grudge/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T07:12:26+00:00",
+      "summary": "Part 21 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Project Sign seriously considered interplanetary explanations, but its surviving reports remained inconclusive and described missing physical evidence. Edward Ruppelt and Dewey Fournet later said they had read an interplanetary “Estimate of the Situation.” No identified copy is available. Its contents, rejection and destruction rest on later accounts and remain unverified. A surviv",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-02T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Pennsylvania’s Grand Canyon",
+      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-02T05:01:00+00:00",
+      "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Why UFOlogy Must Be Destroyed Part 1",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xll57u/why_ufology_must_be_destroyed_part_1/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T02:10:57+00:00",
+      "summary": "https://preview.redd.it/w9d4sz51y3zh1.png?width=640&amp;format=png&amp;auto=webp&amp;s=f6b00e466de1453fb1be53da22d5bfefedc419ed &quot;PROJECT BETA 2.0? There are real Psychological Operations, referred to internally as “Deception Operations”: currently underway in the UFO community. I warned people about Charles McNeal before he allegedly grifted roughly $40,000 from the community using claims tied to SAM GRIDER and RICHARD DOTY. I told both Grider and Doty directly beforehan",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "The “JFK UFO memo” dated Nov 12, 1963 has circulated for years with no confirmed archival source. Why does it still hold up in the debate?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xlgjic/the_jfk_ufo_memo_dated_nov_12_1963_has_circulated/",
@@ -134,15 +188,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-01T09:51:18+00:00",
       "summary": "https://youtu.be/AA26Yi1I3vk?si=sRNQUE07Cl3-IWT4 I’ve been reading about the RB-47 incident, and I’m surprised by how rarely I see it discussed compared with Roswell, the Nimitz encounter, or the Phoenix Lights. For anyone unfamiliar: on July 17, 1957, a US Air Force RB-47 reconnaissance aircraft carrying six crew members reported a sequence of unusual observations during a flight across the southern United States. What makes it interesting is the combination of evidence: Vis",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Back in early 2024, Matthew Pines started making the podcast rounds detailing the coming intersection of UAP tech, AI, Quantum Physics, and digital currency. He just posted a launch trailer for his new company PSI.INC.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkwzy2/back_in_early_2024_matthew_pines_started_making/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-01T07:31:40+00:00",
-      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -273,57 +318,12 @@
       "firsthand": false
     },
     {
-      "title": "Updated summary of military insiders’ public claims about NHIs and UAPs",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xjmvr6/updated_summary_of_military_insiders_public/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-30T18:12:12+00:00",
-      "summary": "Thank you to everyone who read my previous article “ Implications of military insiders’ claims about NHIs and UAPs: Earth is at risk of being a pawn on the galactic chessboard ”. The article included a summary of the reasons that the most high-profile alleged military insiders have publicly claimed the full truth about NHIs and UAPs would be very difficult for the general population to handle. ( This is according to the “Age of Disclosure” group, along with David Grusch ). Th",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
       "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
       "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
       "source": "NASA News",
       "publishedAt": "2026-10-30T15:56:26+00:00",
       "summary": "Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback [&#8230;]",
       "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-30T14:51:21+00:00",
-      "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Before becoming The Prince of Liechtenstein, Hans-Adam II (guy in white next to Hal Puthoff) funded Parapsychology and UFO research",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xjf4k6/before_becoming_the_prince_of_liechtenstein/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-30T13:17:03+00:00",
-      "summary": "Left to right: Robert Jahn (Princeton, PEAR,) Hal Puthoff ( SRI &quot;Stargate&quot;, Earthtech) Hans-Adams II (Prince of Liechtenstein,) Paula and C.B Scott Jones (C.B Scott founded CAAP,) Brenda Dunne (Princeton, PEAR) and John Alexander (Army, LANL, NIDS) Photo from June 1, 1988, at Cornell University. It was a private CAAP gathering held the day before the Society for Scientific Exploration (SSE) 7th Annual Meeting on June 2. Hans-Adam II was a major private benefactor fo",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
-      "title": "November’s Night Sky Notes: Light-Day Away",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-30T10:00:00+00:00",
-      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Kelly Chase is Naming Names and Crimes",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xj9ksf/kelly_chase_is_naming_names_and_crimes/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-30T08:14:39+00:00",
-      "summary": "Researcher Kelly Chase says she was drugged and prominent figures in the UFO Disclosure movement had tried to get her to shut up. If you have suspected there was more going on than these people&#39;s public appearances, you were right. &#32; submitted by &#32; /u/jasmine-tgirl [link] &#32; [comments]",
-      "sourceType": "reddit",
       "firsthand": false
     }
   ]
