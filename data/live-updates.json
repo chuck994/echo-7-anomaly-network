@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-02T19:11:27.908054+00:00",
+  "updatedAt": "2026-11-03T01:21:50.714079+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,60 @@
     }
   ],
   "items": [
+    {
+      "title": "Symbol on Socorro UFO was found in the Picatrix, a 12th century text based on Greek magical systems",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmcbtr/symbol_on_socorro_ufo_was_found_in_the_picatrix_a/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T22:57:36+00:00",
+      "summary": "During the 1964 Socorro landing, a symbol was seen on the egg-shaped craft. The same symbol found in the Picatrix, a magical text from the 12th century. I’m currently reading Vallee’s “Forbidden Science” journals. I finished the 1st one and it not only provides so much insight and context into the beginning of Ufology and the government’s study of it (including insights and evidence for the beginning of the cover up) starting in the early 40s, but it’s also a great work of li",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "A 2020 Navy report describes a 12–15 foot \"jellyfish\" over the Atlantic. Is \"deformed balloon\" enough to close it?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmae0f/a_2020_navy_report_describes_a_1215_foot/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T21:39:38+00:00",
+      "summary": "The fourth PURSUE release includes a 2020 U.S. Navy report on a jellyfish-shaped object over the Atlantic Ocean. Military personnel described it as dark maroon and roughly 12 to 15 feet tall. Investigators say it may have been a deformed balloon. That is framed as a possibility, not a matched launch record or recovered debris. PURSUE has been releasing files in batches since May 8, 2026, and many arrive with little context. What would you need to see, a launch log, debris, or",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-02T21:35:59+00:00",
+      "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "UFO Researcher Finds a 3,000-Foot Hole Near the Canadian Coast and Claims It Is an Alien Base Entry",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xm9rk0/ufo_researcher_finds_a_3000foot_hole_near_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T21:15:43+00:00",
+      "summary": "Article published Oct 31, 2026. It begins with: &#39;UFO researcher Scott C. Waring claims a hole more than 3,000ft (914m) across in waters off Nunavut, Canada, is an entrance to an underwater alien base, describing the feature in a 28 October 2026 post on UFO Sightings Daily . His assertion accompanies separate comments from retired US Navy admiral Tim Gallaudet , who suggested that unexplored ocean depths could conceal non-human technology. Gallaudet has not identified a lo",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-02T20:47:41+00:00",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Democrats Reportedly Prepare UFO Disclosure Committee Because Whistleblowers Do Not 'Trust Another President'",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xm70vp/democrats_reportedly_prepare_ufo_disclosure/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-02T19:33:00+00:00",
+      "summary": "&#32; submitted by &#32; /u/2027OpenContact [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "NASA’s CHAPEA Crew “Returns” to Earth",
       "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
@@ -142,7 +196,7 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
       "source": "NASA News",
       "publishedAt": "2026-11-02T05:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long [&#8230;]",
+      "summary": "APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long Cloud on Mars Explanation: What’s causing this unusually long cloud on Mars? Known as the [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     },
@@ -210,15 +264,6 @@
       "firsthand": false
     },
     {
-      "title": "Former AARO chief Sean Kirkpatrick doubts FBI triangular UAP sighting",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xlbn44/former_aaro_chief_sean_kirkpatrick_doubts_fbi/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-01T19:13:42+00:00",
-      "summary": "&#32; submitted by &#32; /u/Atlantee [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Jason Samosa | Guest Interview -- Collins Elite, Christian Theology, & Dr. Michael Heiser",
       "url": "https://www.reddit.com/r/UFOs/comments/1xl6waz/jason_samosa_guest_interview_collins_elite/",
       "source": "r/UFOs (community)",
@@ -246,20 +291,11 @@
       "firsthand": false
     },
     {
-      "title": "“No Crash Recovered Exhibits”: The Real 1947 Twining Memo",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkvbr3/no_crash_recovered_exhibits_the_real_1947_twining/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-01T05:46:07+00:00",
-      "summary": "Part 19 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR In his genuine 23 September 1947 letter , General Nathan Twining treated flying-disc reports seriously and recommended a classified investigation. He also identified a lack of crash-recovered physical evidence. “Real and not visionary or fictitious” did not settle the objects’ origin. The letter considered natural phenomena, secret American projects and foreign technology. Disputed",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
       "title": "APOD: 2026 November 1 – Colors of the Moon",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
       "source": "NASA News",
       "publishedAt": "2026-11-01T04:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the [&#8230;]",
+      "summary": "APODScienceAPODAPOD: 2026 November 1 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the Moon Explanation: What color is the Moon? It depends on the night — and [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     },
@@ -288,42 +324,6 @@
       "publishedAt": "2026-10-31T17:38:59+00:00",
       "summary": "It Was on the Ground! Ten Cases of UFO Landings from Across the World By Preston Dennett UFO landing cases are far more numerous than you might think. There are thousands upon thousands of cases, mostly from the 1940s onward, but definitely earlier cases too. UFO landing cases are important because these are not distant lights in the sky that are easily explained away. These are in most cases, solid metallic craft, often leaving landing traces. They represent undeniable evide",
       "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Former Rear Admiral and NOAA Administrator Tim Gallaudet says he knows several videos from USS Omaha that show a UAP going into the ocean without any disturbance to the water. \"No splash\". Says there's another one that shows UAP surface from the ocean with no splash and accelerate rapidly into space",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkd0l1/former_rear_admiral_and_noaa_administrator_tim/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T15:24:21+00:00",
-      "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Senator Mike Rounds says \"NO\" to UFO gatekeeper-assassin theories",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkax7k/senator_mike_rounds_says_no_to_ufo/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T13:58:07+00:00",
-      "summary": "In July 2023, Senator Mike Rounds joined Senator Chuck Schumer (D-NY), then the Senate Majority Leader, in introducing the UAP Disclosure Act. Douglas Dean Johnson was able to have four specific written questions on this subject presented directly to Senator Rounds by a senior member of his staff, along with the Sol Foundation briefing paper and other contextual information: (1) Senator Rounds, have you personally ever heard a specific report or reports, from any individual i",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Weaponized — The Pentagon’s UFO Debunker is Lying — The Sean Kirkpatrick and AARO vs. Robert Bigelow and James Ryder’s narrative of the attempted Lockheed Martin UAP Transfer Thwarted by Glenn Gaffney and the CIA’s Directorate of Science and Technology",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xk3n2q/weaponized_the_pentagons_ufo_debunker_is_lying/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T07:11:58+00:00",
-      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "source": "NASA News",
-      "publishedAt": "2026-10-31T04:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a [&#8230;]",
-      "sourceType": "official",
       "firsthand": false
     }
   ]
