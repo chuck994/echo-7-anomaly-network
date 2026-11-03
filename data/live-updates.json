@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-03T13:21:53.497096+00:00",
+  "updatedAt": "2026-11-03T19:10:01.926637+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,51 @@
     }
   ],
   "items": [
+    {
+      "title": "NEW trailer for an upcoming documentary on the Fermi \"paradox\" ft. Avi Loeb, Christopher Mellon, Kevin Knuth and Michael P. Masters",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmzxzp/new_trailer_for_an_upcoming_documentary_on_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-03T17:54:31+00:00",
+      "summary": "Full interviewee list: Avi Loeb, Nick Bostrom, Edward Witten, Liu Cixin, Jill Tarter, Robin Hanson, Sabine Hossenfelder, Michael Masters, Roman Yampolskiy, Michael Shermer, Christopher Mellon, Donald Hoffman, David Kipping, Adam Frank, Sara Seager, Eric Wargo, Nick Lane, Mick West, David Brin, Stephen Webb, Peter Ward, Nathalie Cabrol, Anders Sandberg, Erik Davis, Kevin Knuth, Martin Rees, Sylvester James Gates, Jane Greaves https://www.youtube.com/watch?v=YpxKESgEnj4 INSTAGR",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Astronaut and Earth",
+      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-03T16:37:42+00:00",
+      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Rendlesham Forest UFO Encounter (1980) technical recreation",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmxmwo/rendlesham_forest_ufo_encounter_1980_technical/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-03T16:30:30+00:00",
+      "summary": "&#32; submitted by &#32; /u/playertariat [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-03T15:35:14+00:00",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-03T15:15:50+00:00",
+      "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "Former Army Sniper Recounts Deadly Shootout In Underground Bunker Near Area 51",
       "url": "https://www.reddit.com/r/UFOs/comments/1xmpczb/former_army_sniper_recounts_deadly_shootout_in/",
@@ -246,15 +291,6 @@
       "firsthand": false
     },
     {
-      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-02T15:00:39+00:00",
-      "summary": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "🚀 Upcoming Space Launches for November 02, 2026",
       "url": "https://www.reddit.com/r/UFOs/comments/1xltgak/upcoming_space_launches_for_november_02_2026/",
       "source": "r/UFOs (community)",
@@ -282,33 +318,6 @@
       "firsthand": false
     },
     {
-      "title": "“Can’t Be Laughed Off”: Project Sign, Project Grudge and the 1948 Estimate Nobody Can Find",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xlqmf7/cant_be_laughed_off_project_sign_project_grudge/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-02T07:12:26+00:00",
-      "summary": "Part 21 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Project Sign seriously considered interplanetary explanations, but its surviving reports remained inconclusive and described missing physical evidence. Edward Ruppelt and Dewey Fournet later said they had read an interplanetary “Estimate of the Situation.” No identified copy is available. Its contents, rejection and destruction rest on later accounts and remain unverified. A surviv",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
-      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-02T05:05:00+00:00",
-      "summary": "APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long Cloud on Mars Explanation: What’s causing this unusually long cloud on Mars? Known as the [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Pennsylvania’s Grand Canyon",
-      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-02T05:01:00+00:00",
-      "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "The “JFK UFO memo” dated Nov 12, 1963 has circulated for years with no confirmed archival source. Why does it still hold up in the debate?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xlgjic/the_jfk_ufo_memo_dated_nov_12_1963_has_circulated/",
       "source": "r/UFOs (community)",
@@ -316,15 +325,6 @@
       "summary": "The memo is marked Top Secret and dated November 12, 1963. In it, JFK asks the CIA director to review “high threat cases” and set up data sharing with NASA. It names James Webb, then NASA Administrator, and asks for an interim report by February 1, 1964. The recipient’s name is blacked out, the page is stamped “draft,” and no archive has produced an original. What is documented is NSAM 271, a real Kennedy directive from the same date on space cooperation with the Soviet Union",
       "sourceType": "reddit",
       "firsthand": false
-    },
-    {
-      "title": "Disclosure nonsense has reached the next level now.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xlcpkm/disclosure_nonsense_has_reached_the_next_level_now/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-01T19:56:11+00:00",
-      "summary": "If you’ve read any of my posts, you know that I believe in the existence of NHI, but I’m not convinced that there are any NHI craft or bodies in our possession. You also probably can see that I have a special interest in, in particular, the black triangle craft. My sighting, from when I was a child, was what now would be described as one of those chandelier type, a massive craft with rings of lights that people outside were staring at. But since there are so few posts about t",
-      "sourceType": "reddit",
-      "firsthand": true
     }
   ]
 }
