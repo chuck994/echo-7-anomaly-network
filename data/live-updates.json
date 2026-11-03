@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-03T01:21:50.714079+00:00",
+  "updatedAt": "2026-11-03T07:28:40.500701+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,60 @@
     }
   ],
   "items": [
+    {
+      "title": "Belief in NHI and belief in exotic technology are similar to belief in religion in that they are unfalsifiable and defenders use similar arguments",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmk8ta/belief_in_nhi_and_belief_in_exotic_technology_are/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-03T05:09:23+00:00",
+      "summary": "(This post was originally titled &quot;&quot;Would you like to see the dragon in my garage?&quot;&quot; but removed because I didn&#39;t check the rules before posting.) &quot;But you see, there is a conspiracy of elites and NHI to suppress the evidence of dragons!&quot; &quot;Brave whistleblowers like the guy who exfiltrated a dragon and stored it in his garage have been endlessly mocked simply for trying to bring knowledge of this to light!&quot; &quot;The existence of drag",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-03T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "The Pacific’s Busy Storm Season",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-03T05:01:00+00:00",
+      "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Bright light with abrupt direction changes reappears multiple times over Corio, Geelong — Nov 1, 2026, 12:21 AM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmjtmf/bright_light_with_abrupt_direction_changes/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-03T04:47:19+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Bright diamond-shaped object spun erratically while hovering over Almoradí, Spain — Oct 30, 2026, 9:27 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmjt7s/bright_diamondshaped_object_spun_erratically/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-03T04:46:43+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Bright white changing object hovered motionless over Disneyland in Anaheim, CA — Oct 20, 2026, 12:00 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xmjss1/bright_white_changing_object_hovered_motionless/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-03T04:46:07+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Symbol on Socorro UFO was found in the Picatrix, a 12th century text based on Greek magical systems",
       "url": "https://www.reddit.com/r/UFOs/comments/1xmcbtr/symbol_on_socorro_ufo_was_found_in_the_picatrix_a/",
@@ -228,15 +282,6 @@
       "firsthand": false
     },
     {
-      "title": "False trust problems in ufology",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xlduk5/false_trust_problems_in_ufology/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-01T20:41:50+00:00",
-      "summary": "Online ufology revolves around lack of trust. Who to trust, this one is bad, this one is good. I believe this part but not that part. Rushing to say it’s fake first. How about nobody is bad, nobody is trying to deceive you. Once you are past if, this whole thing is much simpler. The personalities are trying to help. Your problem is that you have to be a contrarian to believe it, not that there are real questions here. &#32; submitted by &#32; /u/Strategory [link] &#32; [comme",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Disclosure nonsense has reached the next level now.",
       "url": "https://www.reddit.com/r/UFOs/comments/1xlcpkm/disclosure_nonsense_has_reached_the_next_level_now/",
       "source": "r/UFOs (community)",
@@ -278,51 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-01T13:48:33+00:00",
       "summary": "“Unfortunately, the current administration has not been fully transparent on UAP and has slow walked several of the statutory requirements Congress established for UAP disclosure,” Carson said in a statement to The Post. “For example, the Department of Defense’s All-Domain Anomaly Resolution Office was established to receive, analyze, and resolve UAP reporting — but it has delayed the release of a key historical UAP record report for almost two years.” “I’m calling for the im",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "From a Milk Drop to Groom Lake: EG&G, The Contractor That Helped Build the Black World",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkvefw/from_a_milk_drop_to_groom_lake_egg_the_contractor/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-01T05:50:50+00:00",
-      "summary": "Part 20 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR EG&amp;G grew from MIT strobe research into nuclear-test instrumentation, secret-aircraft support and the Janet employee shuttle. Government records, a CIA history and corporate filings document that work and the government-services business’s later owners. They do not establish a UAP program. Bob Lazar’s recruitment story and accounts attributed to an EG&amp;G manager brought the ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-01T04:05:00+00:00",
-      "summary": "APODScienceAPODAPOD: 2026 November 1 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the Moon Explanation: What color is the Moon? It depends on the night — and [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Carbondale, PA has a UFO festival inspired by a 1974 incident. I asked if I could livestream this year's speakers for r/UFOs, and they agreed.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkno9p/carbondale_pa_has_a_ufo_festival_inspired_by_a/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T22:52:14+00:00",
-      "summary": "Last year I attended Carbondalien Fest in Carbondale PA -- a small festival celebrating our area&#39;s UFO history and the infamous 1974 sighting. If you haven&#39;t heard of it, we can get into that. The fest was a little cheesy (which is to be expected) but honestly a lot of fun between the local theatre involvement, vendors, speakers, and just how everyone got into it. I own a video production company here in NEPA and have always wanted to produce some UFO-related content.",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Lockheed Martin’s Dr James Ryder was deeply invested in the topic of UAP/UFOs. In this conversation, he talks about his involvement with investigators looking into UAP, orbs, “the Ranch” and the Rendlesham Forest incident, among other things. Chapter markers supplied.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkk6gm/lockheed_martins_dr_james_ryder_was_deeply/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T20:13:17+00:00",
-      "summary": "&quot;We&#39;re very pleased to have with us somebody to talk about fairies, divas and UAP. Normally you have to go for a druid from Glastonbury or a Lockheed guy. We&#39;ve gone for the latter.&quot; Original video is found here https://vimeo.com/222366976/0c171ef640 or https://www.lucistrust.org/conferences/show/conference_london_2017 Chapter Links Is there an increase in anomalous phenomenon? UAP vs UFO? ( 5:40 ) UAP sightings today and in history ( 07:43 ) Ryders reviews ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "It Was on the Ground! Ten Cases of UFO Landings from Across the World",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xkgd87/it_was_on_the_ground_ten_cases_of_ufo_landings/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-10-31T17:38:59+00:00",
-      "summary": "It Was on the Ground! Ten Cases of UFO Landings from Across the World By Preston Dennett UFO landing cases are far more numerous than you might think. There are thousands upon thousands of cases, mostly from the 1940s onward, but definitely earlier cases too. UFO landing cases are important because these are not distant lights in the sky that are easily explained away. These are in most cases, solid metallic craft, often leaving landing traces. They represent undeniable evide",
       "sourceType": "reddit",
       "firsthand": false
     }
