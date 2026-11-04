@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-04T01:23:02.070255+00:00",
+  "updatedAt": "2026-11-04T07:32:46.677121+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,42 @@
     }
   ],
   "items": [
+    {
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-04T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Before the Dawn in America’s Heartland",
+      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-04T05:01:00+00:00",
+      "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Democrats now control both House and Senate. Let's get the UAP Disclosure Act passed!",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xnf6mt/democrats_now_control_both_house_and_senate_lets/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-04T04:42:48+00:00",
+      "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "\"[...] we were rightfully treated the way we were.\" - Tom Delonge",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xnepux/we_were_rightfully_treated_the_way_we_were_tom/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-04T04:18:19+00:00",
+      "summary": "Just started reading Sekret Machines: Chasing Shadows. The above quote is from the foreward. The full paragraph reads: &quot;And truthfully, after I jumped into this project and learned what I have, I realize we were rightfully treated the way we were. We all would&#39;ve done the exact same thing if instead, we were chosen to deal with the extraordinary. But we weren&#39;t, other brave of men and women who came before us were, and they had to face the difficult consequences ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "What I learned about consciousness, human life, and religion from a UAP that walked through my wall",
       "url": "https://www.reddit.com/r/UFOs/comments/1xna9c8/what_i_learned_about_consciousness_human_life_and/",
@@ -288,42 +324,6 @@
       "publishedAt": "2026-11-02T18:50:42+00:00",
       "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year [&#8230;]",
       "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-02T18:19:58+00:00",
-      "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "All the relevant UAP updates from Oct 26-Nov 1 2026",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xm4m9k/all_the_relevant_uap_updates_from_oct_26nov_1_2026/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-02T18:07:36+00:00",
-      "summary": "This past week in Disclosure: Oct 26 – Burlison: “If we lose the midterms, this effort will come to a complete halt” Rep. Eric Burlison (R-MO), a member of the Oversight Task Force on the Declassification of Federal Secrets, told the Rebelliously Curious podcast that the congressional push on UAP depends on the Nov 3 result. Coverage . “If we lose the midterms, this effort will come to a complete halt.” … “Unfortunately, and I’m not saying this for political reasons, I truly ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-02T17:33:22+00:00",
-      "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "🚀 Upcoming Space Launches for November 02, 2026",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xltgak/upcoming_space_launches_for_november_02_2026/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-02T10:15:04+00:00",
-      "summary": "Here are the launches scheduled for the next 24 hours: Electron | The Sea God Surveys (iQPS Launch 9) Provider: Rocket Lab Launch Time: 2026-11-02 16:41 UTC / 2026-11-02 11:41 AM EST Launch Pad: Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand Pad Country: NZL Kinetica 2 | SpaceSail Polar Group TBD? Provider: CAS Space Launch Time: 2026-11-03 00:10 UTC / 2026-11-02 07:10 PM EST Launch Pad: Jiuquan Satellite Launch Center, People&#39;s Republic of China Pad Country: C",
-      "sourceType": "reddit",
       "firsthand": false
     }
   ]
