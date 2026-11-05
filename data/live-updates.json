@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-05T01:24:35.368201+00:00",
+  "updatedAt": "2026-11-05T07:34:59.900604+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,12 +57,48 @@
   ],
   "items": [
     {
-      "title": "The Committee of Twelve: The Official Archival Evidence for MJ-12's Historical Existence",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xo2owq/the_committee_of_twelve_the_official_archival/",
+      "title": "President Obama on aliens and UFOS",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xoch4z/president_obama_on_aliens_and_ufos/",
       "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-04T22:59:41+00:00",
-      "summary": "This one is the real proof they never expected anyone to discover, but, here it is, from archives.gov. The “skeptics” have long alleged that MJ-12 was an entirely “bogus” fabrication from the 1980s. Until now, the “skeptics” dismissed the mere notion that the “Committee of Twelve” ever even existed. Now that I’ve established its historical reality, they should presumably welcome the opportunity to explain the Committee of Twelve’s historical activities and put this issue to r",
+      "publishedAt": "2026-11-05T07:21:26+00:00",
+      "summary": "In 2021 President Obama seemed to know things about aliens and UFOs which he couldn’t disclose on the Late Late Show with James Corden. Granted that the show featured light-hearted banter at 0.44 he says with a straight face: “When it comes to aliens, there are some things I just can&#39;t tell you on air.” At 1:25 he becomes serious again and, seemingly choosing his words carefully, says: “But what is true, and I&#39;m actually being serious here, is that there&#39;s footage",
       "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Beyond Institute Stockholm 2026 / UFO & UAP Disclosure / Panel Discussion Part 1",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xocd27/beyond_institute_stockholm_2026_ufo_uap/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-05T07:14:05+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-05T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-05T05:01:00+00:00",
+      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-05T01:43:21+00:00",
+      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.&#160; The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore [&#8230;]",
+      "sourceType": "official",
       "firsthand": false
     },
     {
@@ -174,11 +210,11 @@
       "firsthand": true
     },
     {
-      "title": "The Vanishing Stars: The Only Thread With New Data",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xniirz/the_vanishing_stars_the_only_thread_with_new_data/",
+      "title": "Jellyfish-shaped object with tendrils floated smoothly with odd propulsion over Helena, MT — Jun 18, 2026, 8:07 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xngnl9/jellyfishshaped_object_with_tendrils_floated/",
       "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-04T07:57:48+00:00",
-      "summary": "Part 25 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Historical Palomar plates contain unexplained, star-like marks. Some have been recovered by a separate detection pipeline; that establishes reproducible marks in the scans, while their physical origin remains disputed. The Earth-shadow claim has several reported significances under different comparisons. The original paper’s coverage-adjusted result is 7.6σ , rather than its ideali",
+      "publishedAt": "2026-11-04T06:03:25+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -282,47 +318,11 @@
       "firsthand": false
     },
     {
-      "title": "Astronaut and Earth",
-      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-03T16:37:42+00:00",
-      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "Rendlesham Forest UFO Encounter (1980) technical recreation",
       "url": "https://www.reddit.com/r/UFOs/comments/1xmxmwo/rendlesham_forest_ufo_encounter_1980_technical/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-03T16:30:30+00:00",
       "summary": "&#32; submitted by &#32; /u/playertariat [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-03T15:35:14+00:00",
-      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-03T15:15:50+00:00",
-      "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Former Army Sniper Recounts Deadly Shootout In Underground Bunker Near Area 51",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xmpczb/former_army_sniper_recounts_deadly_shootout_in/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-03T10:20:54+00:00",
-      "summary": "This is an account shared by former U.S. Army sniper Nick Betts on the Liberty Risk podcast (5 Dec 2025) and a written summary published here . --- The story begins in 2021 in Poland. Nick Betts and a fellow former U.S. Army Ranger were working alongside an NGO group to film a war documentary regarding Ukraine. Part of their team included two older retired American veterans from a JSOC-affiliated unit stationed out of Fort Bragg. (implied to be Delta or SEALs) One evening in ",
       "sourceType": "reddit",
       "firsthand": false
     }
