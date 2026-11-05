@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-05T13:28:46.398476+00:00",
+  "updatedAt": "2026-11-05T19:12:15.838698+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,6 +57,42 @@
   ],
   "items": [
     {
+      "title": "What flashes in a pulsing light like this?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xoqjoc/what_flashes_in_a_pulsing_light_like_this/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-05T18:38:56+00:00",
+      "summary": "&#32; submitted by &#32; /u/Upper-Specific5753 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Claude Coutant’s Beam-Emitting UFO Photographs — Wanaque Reservoir, New Jersey — March 1966",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xoqctd/claude_coutants_beamemitting_ufo_photographs/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-05T18:31:39+00:00",
+      "summary": "In March 1966, Claude Coutant photographed a UFO with conical beam of light extending downward over the Wanaque Reservoir in New Jersey On October 13, 1966, The Morning Call of Paterson, New Jersey, published the beam photograph on its front page under the heading The Wanaque Saucer? UFO researcher August C. Roberts supplied the photograph, attributing it to an unidentified police officer who reportedly surrendered the original negatives to Air Force investigators. In October",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Midwestern City Lights",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-05T15:17:19+00:00",
+      "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-05T15:11:25+00:00",
+      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s&#160;Learn With NASA&#160;YouTube channel. This event is hosted by Freedom Crossing Academy in [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
       "title": "Sean kirkpatrick on meeting Jay Stratton \"As for pictures of crafts or bodies, he had none to share. Frankly, neither did anyone else, just stories...If Grusch (or anyone else) saw these alleged pictures, then where are they?...I suspect his answer will be \"it's classified and I can't share it.\" BS\"",
       "url": "https://www.reddit.com/r/UFOs/comments/1xoikhi/sean_kirkpatrick_on_meeting_jay_stratton_as_for/",
       "source": "r/UFOs (community)",
@@ -64,6 +100,15 @@
       "summary": "The following is from an X post by Dean Johnson where he asked former AARO director Sean Kirkpatrick about crash retrieval photos and yankee blue. Kirkpatrick response: 1.Jay Stratton briefed me while I was at USSPACECOM. I’d known him before. He showed me everything he had and what he had gathered at the time was nothing more than the collection of videos and frames pulled from the videos that have already been released to the public. He had briefed me to get my review of th",
       "sourceType": "reddit",
       "firsthand": true
+    },
+    {
+      "title": "Hubble Learns Galactic History From Stars",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-05T12:56:21+00:00",
+      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "sourceType": "official",
+      "firsthand": false
     },
     {
       "title": "From skeptic to 99% sure: an engineer's take on UAP and the psychology behind the cover up (free book)",
@@ -116,15 +161,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-05T08:38:22+00:00",
       "summary": "Part 27 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR More than 800,000 volunteers reportedly served in the Ground Observer Corps over its Cold War years, though never all at once. That total includes the people who took calls and plotted sightings at filter centers. Operation Skywatch began July 14, 1952, in 27 states. Round-the-clock watches spread to other areas over the following years. Reporting UFOs was an official secondary dut",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "President Obama on aliens and UFOS",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xoch4z/president_obama_on_aliens_and_ufos/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-05T07:21:26+00:00",
-      "summary": "In 2021 President Obama seemed to know things about aliens and UFOs which he couldn’t disclose on the Late Late Show with James Corden. He is widely regarded as an honest, serious politician and so it is reasonable to assume that what he says is true to the best of his knowledge. I don’t believe he would want to mislead the public even in jest. Granted, he was appearing on a light-hearted show, but at 0:44 he makes an intriguing remark, delivered with a straight face: “When i",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -246,39 +282,12 @@
       "firsthand": false
     },
     {
-      "title": "Hubble Reveals Cosmic Mystery",
-      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-04T15:59:36+00:00",
-      "summary": "This photo released on Nov. 2, 2026, showcases NGC &#160;4449, a dwarf irregular. Researchers using NASA&#8217;s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "Jellyfish-shaped object with tendrils floated smoothly with odd propulsion over Helena, MT — Jun 18, 2026, 8:07 PM",
       "url": "https://www.reddit.com/r/UFOs/comments/1xngnl9/jellyfishshaped_object_with_tendrils_floated/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-04T06:03:25+00:00",
       "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
       "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-04T05:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Before the Dawn in America’s Heartland",
-      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-04T05:01:00+00:00",
-      "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
-      "sourceType": "official",
       "firsthand": false
     },
     {
@@ -316,15 +325,6 @@
       "summary": "Let’s go!!! &#32; submitted by &#32; /u/byujake [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
-    },
-    {
-      "title": "What I learned about consciousness, human life, and religion from a UAP that walked through my wall",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xna9c8/what_i_learned_about_consciousness_human_life_and/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-04T00:39:08+00:00",
-      "summary": "Hello everyone, I am a UAP experiencer. My first encounter was just over two years ago, on October 22, 2024, at around 4am. A multicolored solar eclipse appeared on my wall and spoke to me telepathically. This glowing circular shape was created by the cross-section of a long tube of energy passing through the wall, coming from over the eastern horizon. In the weeks after, the New Jersey drone sightings began. I&#39;m concerned about doxxing myself, but I live in the part of N",
-      "sourceType": "reddit",
-      "firsthand": true
     }
   ]
 }
