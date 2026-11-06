@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-06T01:26:37.530912+00:00",
+  "updatedAt": "2026-11-06T07:31:59.935349+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,42 @@
     }
   ],
   "items": [
+    {
+      "title": "An Act of Flying Saucer Sabotage at the Department of Energy Laboratory near the Santa Susana PassContact Network History Project.Joseph Burkes MD",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xp633r/an_act_of_flying_saucer_sabotage_at_the/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-06T06:42:09+00:00",
+      "summary": "SPRING 2006 KAISER PANORAMA CITY MEDICAL CENTER It was a slow day in ambulance area. The patient and I were alone in an examining room. I was serving as “admitting officer.” I had been asked by the ER crew to evaluate a possible admission to the hospital. The patient was an elderly African American man. The chart indicated that he was suffering from a kidney ailment. We were crammed into a tiny private exam room. There was barely enough space to squeeze a hospital stretcher o",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "If UFOs/aliens exist, then how is it that UFOs are practically non-existent to the average person throughout all of human history?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xp56yv/if_ufosaliens_exist_then_how_is_it_that_ufos_are/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-06T05:48:08+00:00",
+      "summary": "I&#39;ve never seen a UFO in my entire life, more specifically nothing that suggests anything extraterrestrial. The vast majority of people in the world have never seen a UFO either whether in the past or present, because if they did, it would be common knowledge the same way we see shooting stars in the sky. Even before the 1900s, there doesn&#39;t seem a lot of UFO sightings reported, and it&#39;s not like in the history books that UFOs are confirmed to be real through mult",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-06T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-06T05:01:00+00:00",
+      "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "Canada needs greater UAP transparency 🇨🇦",
       "url": "https://www.reddit.com/r/UFOs/comments/1xoujnq/canada_needs_greater_uap_transparency/",
@@ -264,33 +300,6 @@
       "firsthand": false
     },
     {
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-04T16:52:43+00:00",
-      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-04T16:16:41+00:00",
-      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Jellyfish-shaped object with tendrils floated smoothly with odd propulsion over Helena, MT — Jun 18, 2026, 8:07 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xngnl9/jellyfishshaped_object_with_tendrils_floated/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-04T06:03:25+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Democrats now control both House and Senate. Let's get the UAP Disclosure Act passed!",
       "url": "https://www.reddit.com/r/UFOs/comments/1xnf6mt/democrats_now_control_both_house_and_senate_lets/",
       "source": "r/UFOs (community)",
@@ -314,15 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-04T04:18:19+00:00",
       "summary": "Just started reading Sekret Machines: Chasing Shadows. The above quote is from the foreward. The full paragraph reads: &quot;And truthfully, after I jumped into this project and learned what I have, I realize we were rightfully treated the way we were. We all would&#39;ve done the exact same thing if instead, we were chosen to deal with the extraordinary. But we weren&#39;t, other brave of men and women who came before us were, and they had to face the difficult consequences ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Mike Turner helped block the house vote on the UAP Disclosure bill. He’s on his way out!!!",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xndvli/mike_turner_helped_block_the_house_vote_on_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-04T03:34:57+00:00",
-      "summary": "Let’s go!!! &#32; submitted by &#32; /u/byujake [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     }
