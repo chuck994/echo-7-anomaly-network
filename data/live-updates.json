@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-05T19:12:15.838698+00:00",
+  "updatedAt": "2026-11-06T01:26:37.530912+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,11 +57,20 @@
   ],
   "items": [
     {
-      "title": "What flashes in a pulsing light like this?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xoqjoc/what_flashes_in_a_pulsing_light_like_this/",
+      "title": "Canada needs greater UAP transparency 🇨🇦",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xoujnq/canada_needs_greater_uap_transparency/",
       "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-05T18:38:56+00:00",
-      "summary": "&#32; submitted by &#32; /u/Upper-Specific5753 [link] &#32; [comments]",
+      "publishedAt": "2026-11-05T21:16:25+00:00",
+      "summary": "Why should this conversation be limited to the United States? There’s a Canadian parliamentary petition calling for greater UAP investigation, oversight and government transparency. If you believe Canadians deserve answers, please consider signing and sharing. &#32; submitted by &#32; /u/J0rkank0 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "AP just called Ohio's 10th district Congressional race. Alleged UFO gatekeeper Mike Turner has officially lost. Turner has been accused of stifling UFO legislation over the years.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xosnoc/ap_just_called_ohios_10th_district_congressional/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-05T20:00:47+00:00",
+      "summary": "&#32; submitted by &#32; /u/RedPandaKoala [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -152,15 +161,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-05T08:42:05+00:00",
       "summary": "Part 28 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Britain set up a secret Flying Saucer Working Party in August 1950 . It reviewed British sightings and drew on American investigations. Its June 1951 report proposed ordinary explanations and recommended ending investigations “unless and until some material evidence becomes available.” Several of its own case explanations remained tentative. The report informed the August 1952 answ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Look Up: The 800,000 Americans Who Watched the Sky",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xodmmk/look_up_the_800000_americans_who_watched_the_sky/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-05T08:38:22+00:00",
-      "summary": "Part 27 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR More than 800,000 volunteers reportedly served in the Ground Observer Corps over its Cold War years, though never all at once. That total includes the people who took calls and plotted sightings at filter centers. Operation Skywatch began July 14, 1952, in 27 states. Round-the-clock watches spread to other areas over the following years. Reporting UFOs was an official secondary dut",
       "sourceType": "reddit",
       "firsthand": false
     },
