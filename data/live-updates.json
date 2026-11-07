@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-07T01:17:11.371051+00:00",
+  "updatedAt": "2026-11-07T07:17:43.574473+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,11 +57,56 @@
   ],
   "items": [
     {
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-07T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "An interesting bit of conveniently unsourced info on Wikipedia…",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xpxclr/an_interesting_bit_of_conveniently_unsourced_info/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-07T04:23:30+00:00",
+      "summary": "So wait, Matthew Brown, an intelligence officer tasked with finding facts somehow mistook war game documents from decades ago as being real world? He spent years working on the immaculate constellation investigation, and somehow, he mistook unclassified or declassified hypotheticals as facts? Does anyone see how this is a wee bit odd? I am of the opinion that he’s a wee bit more source-aligned than this random snippet would suggest. Source. Sources. Whatever. Aaanyway, just w",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Lockheed Martin Crashed UFO Craft Updates | Stratton, Kirkpatrick and PURSUE",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xpwqbc/lockheed_martin_crashed_ufo_craft_updates/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-07T03:50:07+00:00",
+      "summary": "New [article]( https://unapologetic.substack.com/p/pt-2-lockheed-martin-crashed-ufo ) on substack today. It&#39;s an update to an [article]( https://unapologetic.substack.com/p/scientists-claim-lockheed-martin ) I wrote in January 2025 about the attempted transfer of UFO tech from Lockheed Martin to AAWSAP. Many have covered the story because the recent revelations from Stratton. There has been some great original reporting from Ben Schreckinger. Unfortunately what has been m",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "After hearing about Jake Barber being affiliated with Burlison, let’s review his background….",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xpve4w/after_hearing_about_jake_barber_being_affiliated/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-07T02:39:27+00:00",
+      "summary": "Jake Barber was recently hired on by Eric Burlison to join his investigation, replacing David Grusch due to Grush’s StardustX affiliation that created a conflict of interest investigating defense contractors and aerospace companies. I made a video on Barber and I’ll have it linked, but want to lay out why this is a bad look for disclosure, and Burlison. Barber has alluded to Dr. Steven Greer being one of his main connections with info about UAP, and Greer has confirmed it, bu",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "Anyone going to the UFO festival in Carbondale, PA (USA)?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xpto69/anyone_going_to_the_ufo_festival_in_carbondale_pa/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-07T01:12:52+00:00",
-      "summary": "I’ve never been but I’m excited to check it out. They have activities and some speakers and podcasts. Just wondering if anyone here was going if you wanted to discuss! Apparently there’s a UFO sighting there from the 70s. I’ve never heard of it but the festival looks interesting. I’ll be checking it out :) I think it will be live streamed as well. Someone posted that they got permission to live stream the speakers. I was just wondering if anyone here was attending and wanted ",
+      "summary": "It’s tomorrow/Saturday. I’ve never been but I’m excited to check it out. They have activities and some speakers and podcasts. Just wondering if anyone here was going if you wanted to discuss! Apparently there’s a UFO sighting there from the 70s. I’ve never heard of it but the festival looks interesting. I’ll be checking it out :) I think it will be live streamed as well. Someone posted that they got permission to live stream the speakers. I was just wondering if anyone here w",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "I made a free game where each playable craft is inspired by a real UFO case (Nimitz Tic-Tac, TR-3B, and more)",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xpt3dn/i_made_a_free_game_where_each_playable_craft_is/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-07T00:45:26+00:00",
+      "summary": "(Posted with mod approval) I released a UFO game where each playable craft comes from going back to the original witness descriptions and designing from those, with a twist. - Show Model: inspired by Bob Lazar&#39;s S-4 &quot;sport model&quot; disc. Lazar compared it to a DeLorean, so I based the design on the 1964 GM-X Stiletto concept car instead. - Gel-Cap: inspired by the 2004 Nimitz &quot;Tic-Tac,&quot; a smooth white capsule-shaped UFO with no wings or exhaust, per Cmdr",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -98,15 +143,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-06T17:50:00+00:00",
       "summary": "&#32; submitted by &#32; /u/NateBerukAnjing [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Video analysis of the impact the midterm elections will have on UFO disclosure. It looks at which UFO advocates won and lost their elections, the impact Democrats taking the majority will have on committee assignments, the impact UFO gatekeepers like Mike Turner losing will have and more",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xph884/video_analysis_of_the_impact_the_midterm/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-06T16:32:15+00:00",
-      "summary": "&#32; submitted by &#32; /u/RedPandaKoala [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -288,42 +324,6 @@
       "publishedAt": "2026-11-05T12:45:02+00:00",
       "summary": "After 5+ years deep in the modern Swedish ufology landscape, I&#39;m writing an ambitious but rather short book. On how I&#39;m 99% sure regarding the basic binary question - are we alone or not? For reference I&#39;ve co-founded Citizens for Disclosure Sweden under Danny Sheehan&#39;s New Paradigm Institute and been it&#39;s national coordinator. I&#39;m in contact during these years with our local UAP-star Dr Beatriz Villarroel (Sol Foundation, VASCO, etc), who has agreed t",
       "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Moment of Contact - Neurosurgeon admission",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xohfxi/moment_of_contact_neurosurgeon_admission/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-05T12:30:14+00:00",
-      "summary": "Hi guys, i just watched the updated moment of Contact doco titled &quot;Moment of Contact - New Revelations of alien encounters&quot;. Which is an addendum to the original doco. Specifically around the 1.51min mark or arounds, for those who watched the original, watch from here or 5mins before. The neurosurgeon&#39;s testimonial is hard hitting, raw emotions for someone in his twilight years...compouding on the starling and laid bare testimonal of Carlos from the original, no",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "🚀 Upcoming Space Launches for November 05, 2026",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xof3b0/upcoming_space_launches_for_november_05_2026/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-05T10:15:06+00:00",
-      "summary": "Here are the launches scheduled for the next 24 hours: Long March 2C | Unknown Payload Provider: China Aerospace Science and Technology Corporation Launch Time: 2026-11-05 16:00 UTC / 2026-11-05 11:00 AM EST Launch Pad: Xichang Satellite Launch Center, People&#39;s Republic of China Pad Country: CHN Visit RocketLaunch.Live to view the full schedule for future planned launches. For more information about how to identify space launches and their effects, check out our Space Lau",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Newsnation - All the key UAP Disclosure advocates were re-elcted in 2026 midterms - Anna Paulina Luna, Tim Burchett, Eric Burlison, Jared Moskowitz, André Carson and Robert Garcia",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xoeuym/newsnation_all_the_key_uap_disclosure_advocates/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-05T10:01:05+00:00",
-      "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-05T05:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette [&#8230;]",
-      "sourceType": "official",
       "firsthand": false
     }
   ]
