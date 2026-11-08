@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-08T01:24:18.679320+00:00",
+  "updatedAt": "2026-11-08T07:19:33.316143+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,13 +57,31 @@
   ],
   "items": [
     {
-      "title": "The UFO Wave That Shocked the Nation: Exeter, New Hampshire (1965)",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xqm3kn/the_ufo_wave_that_shocked_the_nation_exeter_new/",
+      "title": "Tucker Carlson and Chad Robichaux discuss Geoff Cruikshank’s research into the Sept. 1962 Bluegill Triple Prime Incident In Which An Atmospheric Nuclear Test Brought Down a UAP",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xqshdp/tucker_carlson_and_chad_robichaux_discuss_geoff/",
       "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-08T01:11:33+00:00",
-      "summary": "The UFO Wave That Shocked the Nation: Exeter, New Hampshire (1965) By Preston Dennett In the early morning hours of September 3, 1965, eighteen-year-old Norman Muscarello was walking along a highway three miles south of Exeter, New Hampshire when a brilliant glowing red craft swooped down overhead. He watched it perform fantastic maneuvers for almost 15 minutes until it moved off. He flagged down a car who brought him to the local police station. Norman spilled out his story ",
+      "publishedAt": "2026-11-08T07:13:48+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
       "sourceType": "reddit",
-      "firsthand": true
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-08T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Clearest UFO footage ever recorded? Incredible close-up drone footage from Brazil",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xqq29p/clearest_ufo_footage_ever_recorded_incredible/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-08T04:46:09+00:00",
+      "summary": "Hey Everyone I’m Brazilian, and yesterday a video went viral on Brazilian Instagram showing what appears to be an unidentified flying object. According to the person who filmed it, he first spotted the object from a distance, recorded it, and then decided to take his drone up to get a closer look. The resulting footage is surprisingly clear, showing the object at close range with remarkable image quality. I’ve seen several people suggesting it might simply be a kite, but I’m ",
+      "sourceType": "reddit",
+      "firsthand": false
     },
     {
       "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
@@ -125,15 +143,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-07T17:07:34+00:00",
       "summary": "The 2 year anniversary is upon us &amp; there&#39;s been no definitive answers on what was going on, it&#39;s an example on how quickly &quot;we&quot; forget. (That&#39;s a 2fer podcast subject suggestion, the drone flap &amp; the mass amnesia phenomenon.) My thoughts haven&#39;t changed, I think it was largely some sort of combined military/federal LEO/3 letter agencies/industrial complex new technology and security stress tests, and that some jokers started piling onto. I a",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "November 7, 1990 Montréal UFO sighting",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xq942u/november_7_1990_montréal_ufo_sighting/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-07T15:32:46+00:00",
-      "summary": "The unusual lights reportedly remained visible for hours. Air traffic controllers reported no corresponding radar activity. The strange part: The sighting is documented in a 2025 Canadian government report. Its inclusion confirms that the reports existed, not that an extraterrestrial craft was present. &#32; submitted by &#32; /u/SlpwalkerX [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -314,15 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-06T04:46:46+00:00",
       "summary": "I’ve been following the Kelly Chase allegations and was struck by how much of the conversation has focused on why she believed the explanation she was given, rather than the influence of the people who allegedly gave it to her. I wrote this article exploring that dynamic and its connections to GATE conspiracies, consciousness research, psychedelics, and the growing business of extraordinary human potential. I’m not approaching this as a debunker. I’m interested in how authori",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Canada needs greater UAP transparency 🇨🇦",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xoujnq/canada_needs_greater_uap_transparency/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-05T21:16:25+00:00",
-      "summary": "Why should this conversation be limited to the United States? There’s a Canadian parliamentary petition calling for greater UAP investigation, oversight and government transparency. If you believe Canadians deserve answers, please consider signing and sharing. &#32; submitted by &#32; /u/J0rkank0 [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     }
