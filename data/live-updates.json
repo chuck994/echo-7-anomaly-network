@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-09T01:27:22.001190+00:00",
+  "updatedAt": "2026-11-09T07:43:11.308211+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,6 +57,51 @@
   ],
   "items": [
     {
+      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-09T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Ozone Hole Reaches Its 2026 Maximum",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xrfc9i/reanalysisofthe1965heflinufophotossocietyforscient/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-09T01:54:17+00:00",
+      "summary": "&#32; submitted by &#32; /u/throneofHathor [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Jon Stewart claims Trump could unveil UFO proof to distract from midterm defeat",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xrf7v3/jon_stewart_claims_trump_could_unveil_ufo_proof/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-09T01:47:51+00:00",
+      "summary": "A UFO expert claims a bruised Donald Trump could unveil a real-life alien or captured spacecraft in a desperate bid to distract from a brutal US midterm defeat. Stewart believes the ultimate revelation would involve biological alien life or high-definition images of recovered extraterrestrial technology concealed deep within classified military installations. &quot;I mean something where we get catastrophic disclosure of a live extraterrestrial, a dead extraterrestrial in ret",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "The Night an Army Helicopter Encountered Something Unknown",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xrf5i7/the_night_an_army_helicopter_encountered/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-09T01:44:31+00:00",
+      "summary": "On October 18, 1973, an Army helicopter carrying four men was flying over Ohio when crew chief John Yanacsek noticed a red light on the horizon. Captain Lawrence Coyne initially believed it might be another aircraft, but the light began approaching at a speed that made a collision seem imminent. Coyne took the controls and began descending, eventually increasing the descent rate to approximately 2,000 feet per minute. As the object closed in, three crew members described seei",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "A Naval Intelligence Officer Handed Him the \"Secrets of the Universe\" | ...",
       "url": "https://www.reddit.com/r/UFOs/comments/1xredt3/a_naval_intelligence_officer_handed_him_the/",
       "source": "r/UFOs (community)",
@@ -71,6 +116,24 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-09T00:09:04+00:00",
       "summary": "All five presentations from the Supernatural Speakers Series are now available to watch in their original, unedited transmission form. I&#39;ve attached Jim Krug&#39;s Aliens on Mars presentation here, as I think it&#39;s one you&#39;ll like the most in its raw form. I&#39;m currently in touch with the speakers about getting their presentation materials so we can produce shorter, more polished, story-driven edits exploring some of the most interesting topics from the day. Was",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Silent glowing sphere floated overhead north of Santa Barbara, CA — Nov 7, 2026, 3:30 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xrc8xo/silent_glowing_sphere_floated_overhead_north_of/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-08T23:24:29+00:00",
+      "summary": "Reported by u/LayerAccomplished821 (verified via ufosighting.report) This is an automated post. The report was filed through the structured sighting form on ufosighting.report and posted here by u/ufosightingsbot on the reporter&#39;s behalf. u/LayerAccomplished821 confirmed this submission from their own Reddit account through a one-time link, so the name above is verified as the submitter. 📄 Full report and structured details — the map entry, timeline, and everything from t",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Flashing red black and white object hovered motionless over Mission Dolores Park, San Francisco — Nov 8, 2026, 2:45 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xrc3vk/flashing_red_black_and_white_object_hovered/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-08T23:17:58+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -138,15 +201,6 @@
       "firsthand": false
     },
     {
-      "title": "Gravity Control 1952–1974",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xqv0yo/gravity_control_19521974/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-08T10:03:26+00:00",
-      "summary": "Part 34 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Aerospace executives wanted to control gravity. The Air Force helped fund research that produced papers, conferences and advances in gravitational physics. In 1971, Australian intelligence officer Harry Turner suggested UFOs explained the scale of the U.S. effort. His project count had already appeared in print, and he said the projects generally seemed unsuccessful. Physicists pub",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "The Investigation Restarted: Fort Monmouth and the Road to Blue Book",
       "url": "https://www.reddit.com/r/UFOs/comments/1xquzo7/the_investigation_restarted_fort_monmouth_and_the/",
       "source": "r/UFOs (community)",
@@ -154,15 +208,6 @@
       "summary": "Part 33 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR Army radar personnel logged four incidents on 10–11 September 1951. A T-33 crew separately reported a silver object. The records do not connect it to a radar track. Grudge favored a balloon for the T-33 sighting, questioned the first radar target’s speed and left the final echo unknown. Ruppelt’s later accounts were more certain. The FBI recorded a reporting delay. Air Force record",
       "sourceType": "reddit",
       "firsthand": true
-    },
-    {
-      "title": "Jeremy Corbell and George Knapp of Weaponized talk with UAP Reporter Matt Laslo About the Effects of the Midterms on UFO Disclosure",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xqtceq/jeremy_corbell_and_george_knapp_of_weaponized/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-08T08:09:54+00:00",
-      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
     },
     {
       "title": "Tucker Carlson and Chad Robichaux discuss Geoff Cruikshank’s research into the Sept. 1962 Bluegill Triple Prime Incident In Which An Atmospheric Nuclear Test Brought Down a UAP",
@@ -273,57 +318,12 @@
       "firsthand": false
     },
     {
-      "title": "I made a free game where each playable craft is inspired by a real UFO case (Nimitz Tic-Tac, TR-3B, and more)",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xpt3dn/i_made_a_free_game_where_each_playable_craft_is/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-07T00:45:26+00:00",
-      "summary": "(Posted with mod approval) I released a UFO game where each playable craft comes from going back to the original witness descriptions and designing from those, with a twist. - Show Model: inspired by Bob Lazar&#39;s S-4 &quot;sport model&quot; disc. Lazar compared it to a DeLorean, so I based the design on the 1964 GM-X Stiletto concept car instead. - Gel-Cap: inspired by the 2004 Nimitz &quot;Tic-Tac,&quot; a smooth white capsule-shaped UFO with no wings or exhaust, per Cmdr",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "S4 location and Google Earth",
       "url": "https://www.reddit.com/r/UFOs/comments/1xpqog9/s4_location_and_google_earth/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-06T22:52:39+00:00",
       "summary": "So in the newest Lazar movie S4. Luigi (the director) showcased the Google Earth (GE) images of where S4 was located and mentioned how the satellite imagery (and printed map) of the area had been altered after the disclosure by Lazar etc. Looking at the location in GE and the different imagery from various years, I noticed something interesting on all the past years. The entire dry lake bed has been updated on ALL the previous yrs (with good resolution) to this year (2026 wat",
       "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Jake Barber is now aligned with Burlison - don't forget the Jon Estridge, once Senate Intelligence Staffer, convo leak with Barber from 2023 -",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xpp2ht/jake_barber_is_now_aligned_with_burlison_dont/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-06T21:43:24+00:00",
-      "summary": "Stemming from the post earlier today about Jake Barber working for Burlison: https://www.reddit.com/r/UFOs/comments/1xph0jv/confirmed_jake_barber_is_working_for_burlison/ I went back to this post about a man named &quot;Sean Weaver&quot; - largely suspected to be Barber - having a text conversation with Jon Estridge of the Senate Intelligence Committee in August 2023: https://www.reddit.com/r/UFOs/comments/1nhigo7/leaked_texts_between_fmr_senate_intel_committee/ (Also found a",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Dylan Borland has spoken about Elon Musk",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xpj984/dylan_borland_has_spoken_about_elon_musk/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-06T17:50:00+00:00",
-      "summary": "&#32; submitted by &#32; /u/NateBerukAnjing [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "CONFIRMED: Jake Barber is working for Burlison.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xph0jv/confirmed_jake_barber_is_working_for_burlison/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-06T16:24:05+00:00",
-      "summary": "Barber has joined the staff of Rep. Eric Burlison to assist on UAP work, Burlison spokesman Nate Lucas confirmed to PARADIGM. Full story in today&#39;s Signs of Life: https://www.paradigm.news/p/confirmed-ufo-whistleblower-jake &#32; submitted by &#32; /u/benschreckinger [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "M30’s Sparkling Stars",
-      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-06T16:23:41+00:00",
-      "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about [&#8230;]",
-      "sourceType": "official",
       "firsthand": false
     }
   ]
