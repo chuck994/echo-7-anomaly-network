@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-10T13:21:43.097418+00:00",
+  "updatedAt": "2026-11-10T19:12:29.790028+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,42 @@
     }
   ],
   "items": [
+    {
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-10T18:06:33+00:00",
+      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-10T16:00:26+00:00",
+      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy. […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "A theory on UFO & AI convergence explained via interactive animation/sitcom",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xspxab/a_theory_on_ufo_ai_convergence_explained_via/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-10T15:33:46+00:00",
+      "summary": "I have seen a lot of posts and speculation here lately about how the recent developments with AI might relate to the UFO topic, so I made a comedic animation of sorts to illustrate one of my favorite theories. This is incredibly nerdy on so many levels… But it was fun to make, and I ended up with a full season (12 short episodes). If you have chatted with AI a fair bit, follow the developments and like to speculate on UFO stuff you should get a kick of it. Yes, it&#39;s made ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "CHAPEA Crew Leaves a Mark",
+      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-10T14:57:55+00:00",
+      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston.&#160;Health [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "🚀 Upcoming Space Launches for November 10, 2026",
       "url": "https://www.reddit.com/r/UFOs/comments/1xsjalr/upcoming_space_launches_for_november_10_2026/",
@@ -228,39 +264,12 @@
       "firsthand": false
     },
     {
-      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-09T18:55:50+00:00",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "Dr. Beatriz Villaroel has linked all the videos from the Beyond Institute’s first event in Stockholm",
       "url": "https://www.reddit.com/r/UFOs/comments/1xrynwk/dr_beatriz_villaroel_has_linked_all_the_videos/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-09T17:57:45+00:00",
       "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
       "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-09T17:42:42+00:00",
-      "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
-      "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-09T17:36:33+00:00",
-      "summary": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de [&#8230;]",
-      "sourceType": "official",
       "firsthand": false
     },
     {
@@ -314,15 +323,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-09T01:54:17+00:00",
       "summary": "&#32; submitted by &#32; /u/throneofHathor [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Jon Stewart claims Trump could unveil UFO proof to distract from midterm defeat",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xrf7v3/jon_stewart_claims_trump_could_unveil_ufo_proof/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-09T01:47:51+00:00",
-      "summary": "A UFO expert claims a bruised Donald Trump could unveil a real-life alien or captured spacecraft in a desperate bid to distract from a brutal US midterm defeat. Stewart believes the ultimate revelation would involve biological alien life or high-definition images of recovered extraterrestrial technology concealed deep within classified military installations. &quot;I mean something where we get catastrophic disclosure of a live extraterrestrial, a dead extraterrestrial in ret",
       "sourceType": "reddit",
       "firsthand": false
     }
