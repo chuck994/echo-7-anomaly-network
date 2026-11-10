@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-10T07:27:32.285157+00:00",
+  "updatedAt": "2026-11-10T13:21:43.097418+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,33 @@
     }
   ],
   "items": [
+    {
+      "title": "🚀 Upcoming Space Launches for November 10, 2026",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xsjalr/upcoming_space_launches_for_november_10_2026/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-10T10:15:03+00:00",
+      "summary": "Here are the launches scheduled for the next 24 hours: Falcon 9 Block 5 | USSF-627 Provider: SpaceX Launch Time: 2026-11-11 02:49 UTC / 2026-11-10 09:49 PM EST Launch Pad: Vandenberg SFB, CA, USA Pad Country: USA Mir | Demo Flight Provider: Agency for Defense Development Launch Time: 2026-11-11 05:00 UTC / 2026-11-11 12:00 AM EST Launch Pad: Sea Launch Pad Country: ??? Visit RocketLaunch.Live to view the full schedule for future planned launches. For more information about ho",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "“Credible Observers of Relatively Incredible Things”: Washington DC, Part One",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xshunf/credible_observers_of_relatively_incredible/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-10T08:42:07+00:00",
+      "summary": "Part 36 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR — On two weekends in July 1952, Washington radar operators picked up unusual echoes and pilots reported lights. Air Force fighters went up the second weekend. Some reports appear to line up, but the surviving records don’t show a single object being tracked throughout. Later tests showed how the atmosphere could produce similar echoes, though physicist James McDonald disputed how w",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "“Confidential, Not Top Secret”: Edward Ruppelt’s 1952 Boston Briefing",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xshsnj/confidential_not_top_secret_edward_ruppelts_1952/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-10T08:38:16+00:00",
+      "summary": "Part 35 of a series reassessing the documentary record behind the 1933 Magenta narrative. TL;DR: On March 26, 1952 , Edward Ruppelt briefed Air Force advisers in Boston. Of roughly 800 reports , he said about one in five remained unexplained. Some sightings came from credible witnesses. Even the strongest cases often lacked basic measurements, such as how far away an object was or whether radar and witnesses had tracked the same thing. Ruppelt said the overall project was Con",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
@@ -183,15 +210,6 @@
       "firsthand": false
     },
     {
-      "title": "Four erratic changing lights moved unpredictably overhead, Huntsville AL — Nov 3, 2026, 12:00 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xs0wwm/four_erratic_changing_lights_moved_unpredictably/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-09T19:19:31+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Fleet of cigar-shaped objects hovering steadily south over South Padre Island, TX — Feb 18, 2026, 2:00 PM",
       "url": "https://www.reddit.com/r/UFOs/comments/1xs0vud/fleet_of_cigarshaped_objects_hovering_steadily/",
       "source": "r/UFOs (community)",
@@ -307,24 +325,6 @@
       "summary": "A UFO expert claims a bruised Donald Trump could unveil a real-life alien or captured spacecraft in a desperate bid to distract from a brutal US midterm defeat. Stewart believes the ultimate revelation would involve biological alien life or high-definition images of recovered extraterrestrial technology concealed deep within classified military installations. &quot;I mean something where we get catastrophic disclosure of a live extraterrestrial, a dead extraterrestrial in ret",
       "sourceType": "reddit",
       "firsthand": false
-    },
-    {
-      "title": "Carbondalien Fest | Supernatural Speaker Series | Full Live Transmissions",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xrd7fk/carbondalien_fest_supernatural_speaker_series/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-09T00:09:04+00:00",
-      "summary": "All five presentations from the Supernatural Speakers Series are now available to watch in their original, unedited transmission form. I&#39;ve attached Jim Krug&#39;s Aliens on Mars presentation here, as I think it&#39;s one you&#39;ll like the most in its raw form. I&#39;m currently in touch with the speakers about getting their presentation materials so we can produce shorter, more polished, story-driven edits exploring some of the most interesting topics from the day. Was",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Silent glowing sphere floated overhead north of Santa Barbara, CA — Nov 7, 2026, 3:30 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xrc8xo/silent_glowing_sphere_floated_overhead_north_of/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-08T23:24:29+00:00",
-      "summary": "Reported by u/LayerAccomplished821 (verified via ufosighting.report) This is an automated post. The report was filed through the structured sighting form on ufosighting.report and posted here by u/ufosightingsbot on the reporter&#39;s behalf. u/LayerAccomplished821 confirmed this submission from their own Reddit account through a one-time link, so the name above is verified as the submitter. 📄 Full report and structured details — the map entry, timeline, and everything from t",
-      "sourceType": "reddit",
-      "firsthand": true
     }
   ]
 }
