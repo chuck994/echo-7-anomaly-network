@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-12T01:29:44.252100+00:00",
+  "updatedAt": "2026-11-12T07:36:01.932248+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,12 +57,48 @@
   ],
   "items": [
     {
-      "title": "Unplanned plane photos are blurry too",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xtuymi/unplanned_plane_photos_are_blurry_too/",
+      "title": "Using the ISS phone app…. What could this be?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xu6l1x/using_the_iss_phone_app_what_could_this_be/",
       "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-11T21:58:07+00:00",
-      "summary": "I took this for reference regarding the blurry picture debate. A military jet flew over my house today. Its rare here. I pulled out my camera and snapped about 5 pictures on 3x zoom. Phone is Galaxy S23. This is the clearest one. I could see it much clearer by eye. I did not have time to try to manual focus on the target and it was so small on the phone I doubt it would have anyway. &#32; submitted by &#32; /u/Soggymender [link] &#32; [comments]",
+      "publishedAt": "2026-11-12T07:32:32+00:00",
+      "summary": "I was on the ISS Live Now app this evening about 5 pm, to see where it was and if it was going to pass near us. And I clicked the capture photo button. Then I went to my photos to look at it and noticed an object on the far left above the horizon (First photo). Second photo is a duplicate with the exposure changed and the third is a close up of the object. A couple minutes had gone by so I went back to the ISS app and snapped another photo which is the fourth photo and the ob",
       "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-12T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Scotland’s Flow Country",
+      "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-12T05:01:00+00:00",
+      "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Apolitical hot take???",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xu01fn/apolitical_hot_take/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T01:42:21+00:00",
+      "summary": "Seriously not trying to take politics in this convo- I am very concerned that Stephen Miller take the role of Chief of Staff just shut down any disclosure opportunities that Trump may or may not had. He gives the vibe that he is trying to become very well off and will take the highest bidder at every juncture. Grusch said (on Rogan and elsewhere) that Miller was going to push for greater transparency. I just don’t buy it. I see him as another opportunistic wall. Please disagr",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-12T00:41:35+00:00",
+      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
+      "sourceType": "official",
       "firsthand": false
     },
     {
@@ -134,15 +170,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-11T03:17:21+00:00",
       "summary": "Fantastic interview, a lot of things from Joe that are new. In lieu of my own words, here is the video description. &quot;Legendary remote viewer Joe McMoneagle joins me for a three-hour mind meld exploring Consciousness, the meaning of life, Project Stargate, UFOs, nonhuman intelligence, and more. Drawing on decades of military intelligence work and psychic research, Joe shares why he believes many apparent UFO occupants are biological robots, grown, programmed, and deployed",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Jellyfish-shaped object with dangling tentacles hovered and turned near military base in Anchorage, Alaska — Jun 15, 2026, 10:15 AM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xt6x5g/jellyfishshaped_object_with_dangling_tentacles/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-11T03:11:00+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -260,33 +287,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-10T05:05:00+00:00",
       "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Autumn Mornings Bring Valley Fog",
-      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-10T05:00:00+00:00",
-      "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-10T01:07:45+00:00",
-      "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-10T01:05:48+00:00",
-      "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]",
       "sourceType": "official",
       "firsthand": false
     },
