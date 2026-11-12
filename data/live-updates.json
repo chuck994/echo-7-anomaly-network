@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-12T13:29:30.861812+00:00",
+  "updatedAt": "2026-11-12T19:12:46.560058+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,51 @@
     }
   ],
   "items": [
+    {
+      "title": "After the viral UAP video this week: how many people are actually reporting rotating cubes? I checked the NUFORC database",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xukvum/after_the_viral_uap_video_this_week_how_many/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T18:40:59+00:00",
+      "summary": "The short answer is...not many. This rotating cube video on X has been making the rounds. It got me curious so I searched through the NUFORC database. I found at least 27 reports that specifically mentioned a rotating or spinning cube,18 of them from the last six years. Cubes in any form are rare: 168 out of 162,714 reports, about 1 in 969. Cube reports have trended up since 2023, but I&#39;m not sure when NUFORC added &quot;cube&quot; as a shape option to their sightings for",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-12T17:54:32+00:00",
+      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Looking for Android testers for an AI-assisted UFO investigation app",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuhm48/looking_for_android_testers_for_an_aiassisted_ufo/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T16:40:49+00:00",
+      "summary": "Hi everyone, I&#39;m an independent developer working on an Android app called Extraordinary Claims , and the moderators have kindly given me permission to recruit some testers here. The app uses AI-assisted research to investigate UFO/UAP reports, historical mysteries and other unusual claims. Rather than automatically believing or dismissing a claim, it examines: Available evidence and its reliability Sources and supporting information Historical comparisons and timelines A",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "UAP research website im building feedback request",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xud0uh/uap_research_website_im_building_feedback_request/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T13:40:31+00:00",
+      "summary": "Hello all, I am creating a UAP research website with news, videos, interactive world map, historical satellite data, archive where you can compare cases, word processor that you can actually write research documents and insert citations and comparisons that you find across the website, save to google drive or your device to share. Theres also a discussion section for a community, private chat, watch and read section for recommended documentarys movies podcasts and books. Its ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-12T13:18:40+00:00",
+      "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "The Prince of The Power of the Air and the god of this Age(World); Connections to the Spiritual and Thoughts of UFO Insiders…Non Human Intelligences",
       "url": "https://www.reddit.com/r/UFOs/comments/1xuc5so/the_prince_of_the_power_of_the_air_and_the_god_of/",
@@ -264,15 +309,6 @@
       "firsthand": false
     },
     {
-      "title": "During the Phoenix Lights event, were there any attempts to track the objects' movements after they disappeared from view?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xsxfnh/during_the_phoenix_lights_event_were_there_any/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-10T20:16:37+00:00",
-      "summary": "I&#39;ve been reading about the Phoenix Lights incident of March 13, 1997, and I&#39;m particularly curious about what happened after the main event. A lot of attention is given to the formation of lights observed over Arizona and the subsequent military flare explanation. However, I&#39;m interested in whether any serious efforts were made to track the objects&#39; movements once they passed beyond the observers&#39; fields of view. Specifically: Did military radar installat",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Eric Davis says he's been officially briefed on craft that were handed over, not just recovered from crashes.",
       "url": "https://www.reddit.com/r/UFOs/comments/1xsx1rq/eric_davis_says_hes_been_officially_briefed_on/",
       "source": "r/UFOs (community)",
@@ -288,42 +324,6 @@
       "publishedAt": "2026-11-10T19:22:45+00:00",
       "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight [&#8230;]",
       "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-10T18:06:33+00:00",
-      "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-10T16:00:26+00:00",
-      "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy. […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "CHAPEA Crew Leaves a Mark",
-      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-10T14:57:55+00:00",
-      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston.&#160;Health [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "🚀 Upcoming Space Launches for November 10, 2026",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xsjalr/upcoming_space_launches_for_november_10_2026/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-10T10:15:03+00:00",
-      "summary": "Here are the launches scheduled for the next 24 hours: Falcon 9 Block 5 | USSF-627 Provider: SpaceX Launch Time: 2026-11-11 02:49 UTC / 2026-11-10 09:49 PM EST Launch Pad: Vandenberg SFB, CA, USA Pad Country: USA Mir | Demo Flight Provider: Agency for Defense Development Launch Time: 2026-11-11 05:00 UTC / 2026-11-11 12:00 AM EST Launch Pad: Sea Launch Pad Country: ??? Visit RocketLaunch.Live to view the full schedule for future planned launches. For more information about ho",
-      "sourceType": "reddit",
       "firsthand": false
     }
   ]
