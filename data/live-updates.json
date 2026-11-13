@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-12T19:12:46.560058+00:00",
+  "updatedAt": "2026-11-13T01:25:32.788740+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,69 @@
     }
   ],
   "items": [
+    {
+      "title": "Want to Share Your UFO Story on a Podcast?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuqlt7/want_to_share_your_ufo_story_on_a_podcast/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T22:21:32+00:00",
+      "summary": "🛸 CALL FOR UFO WITNESS ACCOUNTS! 🛸 Have you witnessed something extraordinary in the skies? Had a UFO encounter you simply can&#39;t explain? We want to hear your story! Somewhere in the Skies is looking for firsthand UFO/UAP witness accounts to feature in upcoming episodes of the podcast. If you&#39;re interested in sharing your experience through a video or audio recording , we&#39;d love to hear from you. Whether your encounter happened yesterday or decades ago, your story",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Was XCOM - UFO defence original game part of disclosure?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xup5eh/was_xcom_ufo_defence_original_game_part_of/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T21:23:31+00:00",
+      "summary": "I played the original XCOM game back around when it came out .. ~1995ish. Among some of the interesting things that were in the game, were some of the large glass cylinders they kept specimens, in and of course element 115 (in the game, called elierium), which at the time had not yet been experimentally created/detected as far as I am aware. So does anyone know the background to how the creator knew about this stuff? I tried searching the ‘net, but didn’t find anything useful",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "The Book of Enoch: Fallen Angels or Alien Visitors?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuoyr5/the_book_of_enoch_fallen_angels_or_alien_visitors/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T21:15:55+00:00",
+      "summary": "&#32; submitted by &#32; /u/Nvaaj [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "A strange light enveloped his truck. He was pressed against his seat, curled into a fetal position, and overcome with the urge to cry, feeling trapped inside something gelatinous",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuoxcq/a_strange_light_enveloped_his_truck_he_was/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T21:14:24+00:00",
+      "summary": "In October 1999, Roberto López was driving his truck near Viale, Entre Ríos, Argentina, a town with a surprisingly long history of strange UFO sightings and unexplained encounters, when a strange, intensely bright light suddenly engulfed his vehicle. For several seconds, he experienced bizarre physical sensations: he felt surrounded by something dense and gelatinous, while an invisible force seemed to press him back against his seat. His body seemed to curl involuntarily into",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "I Am Artemis Katie Spicer",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-12T20:10:02+00:00",
+      "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Ex-senior national security official on the Legacy Program: “Either we’re all crazy or there’s something there”",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuly8m/exsenior_national_security_official_on_the_legacy/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-12T19:20:03+00:00",
+      "summary": "I spoke to a former national security official is someone who was deeply involved in efforts to get to the bottom of claims about the &quot;Legacy Program,&quot; but is not part of the cast of former officials whose names are publicly associated with the issue. The person is not part of the cast of former officials publicly associated with the issue, but they affirmed that they had seen enough to consider the claims worthy of further investigation. And they endorsed the conti",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Heart in the Sky at NASA Kennedy",
+      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-12T19:12:49+00:00",
+      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "After the viral UAP video this week: how many people are actually reporting rotating cubes? I checked the NUFORC database",
       "url": "https://www.reddit.com/r/UFOs/comments/1xukvum/after_the_viral_uap_video_this_week_how_many/",
@@ -152,15 +215,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-12T04:25:09+00:00",
       "summary": "Reported by u/JDubya001 (verified via ufosighting.report) This is an automated post. The report was filed through the structured sighting form on ufosighting.report and posted here by u/ufosightingsbot on the reporter&#39;s behalf. u/JDubya001 confirmed this submission from their own Reddit account through a one-time link, so the name above is verified as the submitter. 📄 Full report and structured details — the map entry, timeline, and everything from the sighting form. No p",
-      "sourceType": "reddit",
-      "firsthand": true
-    },
-    {
-      "title": "White football-shaped light floated outside second-story window in Unadilla, NY — Nov 10, 2026, 11:30 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xu3ax8/white_footballshaped_light_floated_outside/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T04:24:55+00:00",
-      "summary": "Reported by u/Odd_Attitude_5892 (verified via ufosighting.report) This is an automated post. The report was filed through the structured sighting form on ufosighting.report and posted here by u/ufosightingsbot on the reporter&#39;s behalf. u/Odd_Attitude_5892 confirmed this submission from their own Reddit account through a one-time link, so the name above is verified as the submitter. 📄 Full report and structured details — the map entry, timeline, and everything from the sig",
       "sourceType": "reddit",
       "firsthand": true
     },
@@ -269,60 +323,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-11T05:05:00+00:00",
       "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Water Surges Into Navajo Reservoir",
-      "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-11T05:01:00+00:00",
-      "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "\"I've Targeted 100s of UFOs... They Aren't What You Think\" Joe McMoneagle",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xt71nx/ive_targeted_100s_of_ufos_they_arent_what_you/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-11T03:17:21+00:00",
-      "summary": "Fantastic interview, a lot of things from Joe that are new. In lieu of my own words, here is the video description. &quot;Legendary remote viewer Joe McMoneagle joins me for a three-hour mind meld exploring Consciousness, the meaning of life, Project Stargate, UFOs, nonhuman intelligence, and more. Drawing on decades of military intelligence work and psychic research, Joe shares why he believes many apparent UFO occupants are biological robots, grown, programmed, and deployed",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Found unredacted legacy files.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xt2149/found_unredacted_legacy_files/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-10T23:24:38+00:00",
-      "summary": "I stumbled on a link today that I’d like to share with you all. It details the boss behind the Legacy Program (Glenn Gaffney), and the proposed agreement between Bigelow Aerospace Facilities and Lockheed. It also says that Obama asked about UAPs after his presidency. And that the legacy program didn’t trust Trump but was briefed in an unofficial manner. It says Trump was deeply disturbed by the contents. This document also shows our governments fear of disclosure and it estab",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "The incredible UFO incident at Westall resurfaces again...",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xt101y/the_incredible_ufo_incident_at_westall_resurfaces/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-10T22:40:08+00:00",
-      "summary": "There is so much more to the Westall story than most people realize. Over 200 students and teachers witnessed the event. Then they were threatened by the Australian and US Military to remain silent about what they witnessed. That&#39;s the same tactic the US military used at Roswell in 1947 except with Roswell they threatened some witnesses - and even children - with death if they talked. Those threats are documented on video and were part of a federal investigation into a Ro",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Eric Davis says he's been officially briefed on craft that were handed over, not just recovered from crashes.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xsx1rq/eric_davis_says_hes_been_officially_briefed_on/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-10T20:01:30+00:00",
-      "summary": "&#32; submitted by &#32; /u/NateBerukAnjing [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-10T19:22:45+00:00",
-      "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     }
