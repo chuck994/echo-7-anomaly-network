@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-13T13:26:33.971273+00:00",
+  "updatedAt": "2026-11-13T19:12:19.344967+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,6 +57,69 @@
   ],
   "items": [
     {
+      "title": "SCOOP: Burlison says Stephen Miller’s promotion to White House Chief of Staff “unfortunate outcome” for UAP investigation",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xvfgdd/scoop_burlison_says_stephen_millers_promotion_to/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T18:21:26+00:00",
+      "summary": "Caught our ear: With Stephen Miller now President Trump’s Chief of Staff, does that help the UAP issue? Or do you think this will fall off his plate? “So to the people who thought that I was wrong, this is a perfect example. What did Trump do? He took Stephen Miller off the UAP topic and pulled him in to be the Chief,” Burlison tells us. “Cause it’s now — it’s basically wartime consigliere.” “Is Stephen Miller gonna have any bandwidth for the UAP topic? And that’s a question ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Does anyone have credible information about connections between drug cartels and UFOs/UAPs?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xvfc2p/does_anyone_have_credible_information_about/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T18:17:09+00:00",
+      "summary": "I&#39;ve been looking into alleged connections between drug cartels and UFO/UAP activity. I&#39;m curious to know if anyone here has come across anything substantial. I&#39;m particularly interested in reports, testimonies, investigations or documented incidents suggesting that cartel organizations have encountered, investigated or somehow been involved with unexplained aerial phenomena. I&#39;m not looking for recycled conspiracy theories or sensational YouTube videos. I&#39",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "What if the biggest obstacle to understanding UFOs isn’t a lack of evidence, but the questions we’re asking?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xveank/what_if_the_biggest_obstacle_to_understanding/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T17:38:50+00:00",
+      "summary": "I wanted to share an interesting perspective from author Stephen Herring , who has spent decades exploring philosophy, consciousness, and unexplained phenomena. His latest essay, UFOs: A Minority Opinion , challenges some of the conventional approaches to understanding UFO/UAP experiences. What I found particularly compelling is his argument that perhaps we need to reconsider not just what we believe, but how we approach the questions themselves. I’m helping the author share ",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Do you believe Bob Lazar's story? If so, this film is for you!",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xvcv89/do_you_believe_bob_lazars_story_if_so_this_film/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T16:46:49+00:00",
+      "summary": "I *really* WANTED to believe him, like the X-Files poster. I watched every interview, film, whenever he spoke about it, and I noticed (and ignored) little inconsistencies, that I chalked up to... A bad memory? Reluctance to repeat the story?... But after I saw this film by &quot;Eyes on Cinema,&quot; it&#39;s crystal clear... Bob Lazar is not being 100% truthful... I KNOW!! I *REALLY* wanted to believe him too! His claims made SENSE to me!... It was painful to watch... But I ",
+      "sourceType": "reddit",
+      "firsthand": true
+    },
+    {
+      "title": "Outbursts from a Massive Star",
+      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-13T16:39:33+00:00",
+      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-13T16:05:54+00:00",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "My thoughts on \"Out of the Shadows\" by Jay Stratton and how a vocal minority online discredits him",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xvblie/my_thoughts_on_out_of_the_shadows_by_jay_stratton/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T15:59:15+00:00",
+      "summary": "80 years since Roswell... thats about how long it&#39;s been since society largely has believed they have been lied to by the government about UFOs. Jay Stratton, the most senior Government official to go on record, makes that same argument after investigating this topic from within the government. He coins the term UAP, and in his book stresses that there is a legacy program that began pushing back against him this entire time. This would have been earth-shattering informati",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "\"You can actually resolve them\": UFO expert Avi Loeb says his new telescope will solve problems related to high-resolution UAP images",
       "url": "https://www.reddit.com/r/UFOs/comments/1xv6iyb/you_can_actually_resolve_them_ufo_expert_avi_loeb/",
       "source": "r/UFOs (community)",
@@ -66,20 +129,20 @@
       "firsthand": false
     },
     {
-      "title": "I've been seeing blue, red lighted aircraft near my property line for the over a decade if I stare at it, it comes closer",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xv5r5w/ive_been_seeing_blue_red_lighted_aircraft_near_my/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-13T11:46:00+00:00",
-      "summary": "I&#39;ve had many encounters from saucer UFO flying overtop of me in my front yard sounding like a helicopter 🚁, 3ft gray aliens abducted from living room not remembering going to sleep, nightmare with tall gray encounters in my pole barn on the side where we store our horse tack my ma side, I&#39;m now encountered Nordics tall blondes line backer sized transgender female trying to rip my head off, sexually harassing me at the same time putting me in deep sleep, wrestling wit",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "🚀 Upcoming Space Launches for November 13, 2026",
       "url": "https://www.reddit.com/r/UFOs/comments/1xv46yt/upcoming_space_launches_for_november_13_2026/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-13T10:15:03+00:00",
       "summary": "Here are the launches scheduled for the next 24 hours: Vulcan VC6L | Amazon Leo (LV-01) Provider: United Launch Alliance Launch Time: 2026-11-13 17:54 UTC / 2026-11-13 12:54 PM EST Launch Pad: Cape Canaveral SFS, FL, USA Pad Country: USA Starship | Starlink Group 31-2 (Starship Flight 15) Provider: SpaceX Launch Time: 2026-11-13 22:45 UTC / 2026-11-13 05:45 PM EST Launch Pad: SpaceX Starbase, TX, USA Pad Country: USA Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others Prov",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Bronze sphere flew straight and steady over Colorado River at Navajo Bridge, AZ — May 22, 2026, 2:00 PM",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xv3de8/bronze_sphere_flew_straight_and_steady_over/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T09:22:59+00:00",
+      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -154,15 +217,6 @@
       "summary": "🛸 CALL FOR UFO WITNESS ACCOUNTS! 🛸 Have you witnessed something extraordinary in the skies? Had a UFO encounter you simply can&#39;t explain? We want to hear your story! Somewhere in the Skies is looking for firsthand UFO/UAP witness accounts to feature in upcoming episodes of the podcast. If you&#39;re interested in sharing your experience through a video or audio recording , we&#39;d love to hear from you. Whether your encounter happened yesterday or decades ago, your story",
       "sourceType": "reddit",
       "firsthand": true
-    },
-    {
-      "title": "The Book of Enoch: Fallen Angels or Alien Visitors?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xuoyr5/the_book_of_enoch_fallen_angels_or_alien_visitors/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T21:15:55+00:00",
-      "summary": "&#32; submitted by &#32; /u/Nvaaj [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
     },
     {
       "title": "A strange light enveloped his truck. He was pressed against his seat, curled into a fetal position, and overcome with the urge to cry, feeling trapped inside something gelatinous",
@@ -264,65 +318,11 @@
       "firsthand": false
     },
     {
-      "title": "Scotland’s Flow Country",
-      "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-12T05:01:00+00:00",
-      "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
       "title": "Pulsating flash-like object with colorful plasma hovered steadily over Saint-Philippe, Quebec — Nov 11, 2026, 12:35 PM",
       "url": "https://www.reddit.com/r/UFOs/comments/1xu3alh/pulsating_flashlike_object_with_colorful_plasma/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-12T04:24:23+00:00",
       "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "White oval objects streaking extremely fast northeast over McCracken County, KY — Nov 9, 2026, 3:30 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xu39is/white_oval_objects_streaking_extremely_fast/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T04:22:49+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Saw strange flare-like orange objects in sky — Nov 6, 2026, 8:10 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xu38m3/saw_strange_flarelike_orange_objects_in_sky_nov_6/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T04:21:27+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Glowing spherical orbs moved erratically across sky over Makaha, Hawaii — Nov 4, 2026, 4:00 AM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xu373w/glowing_spherical_orbs_moved_erratically_across/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T04:19:15+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-12T00:41:35+00:00",
-      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "What came of “Whistling Mike”?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xttqtc/what_came_of_whistling_mike/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-11T21:09:13+00:00",
-      "summary": "I remember watching several youtube podcasts where Mike stated that he would be holding an event in late October that was going to be “very eye-opening” or “revealing” (something along those lines). If I remember correctly, he said it was going to be in Colorado. He kept saying that people were going to know about it after, essentially implying that it was going to be a big deal. Just curious if anyone knows what the deal with this was. So much of the UFO field has recently f",
       "sourceType": "reddit",
       "firsthand": false
     }
