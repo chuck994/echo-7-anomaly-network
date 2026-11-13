@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-13T01:25:32.788740+00:00",
+  "updatedAt": "2026-11-13T07:33:39.764318+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,69 @@
     }
   ],
   "items": [
+    {
+      "title": "Behind Greatness Podcast — Dr. Eric Davis: Recovered UAPs, Reverse Engineering, and Time Travel",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xv1cqe/behind_greatness_podcast_dr_eric_davis_recovered/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T07:15:49+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Vinnie Adams of Disclosure Team’s new interview with Italian journalist Sabrina Pieragostini about the 1933 Magenta, Italy UFO/UAP",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xv0yih/vinnie_adams_of_disclosure_teams_new_interview/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T06:52:02+00:00",
+      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-13T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "A Global Rebound for Mangroves",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-13T05:01:00+00:00",
+      "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Discussion on 2027, Leslie Keane, Karl Nell, and Apocalyptic rumors",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuyzxs/discussion_on_2027_leslie_keane_karl_nell_and/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T05:00:48+00:00",
+      "summary": "Hey everyone. https://youtu.be/HqoEjakUGH0?is=yHPFVezZhnNQF8Nu I just watched Psicoactivos new video titled &quot;Fake invasion&quot;, Tom Delonge, Karl Nell and the UFO invasion(Link above). Excellent video in my opinion, and after pulling all these things together, such as comments from Lue, Tom Delonge, Jeremy Corbell, Leslie Keane, Karl Nell, Matthew Brown, Dylan Borland... Apparently Karl Nell has shown a slideshow a couple times, which has been corroborated, that freake",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "What do we make of most SETI Astronomers completely dismissing anything about UFO/UAPs?",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuyt5b/what_do_we_make_of_most_seti_astronomers/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T04:50:43+00:00",
+      "summary": "Just finished watching a documentary on SETI and they hand a section where they discussed how the UFO topic has “negatively” affected the scientific search for ET intelligence. More or less, every astronomer on the doc had. Negative view of the UFO topic and saw it as tabloid rubbish void of any evidence. What’s the general UFO/UAP response to SETI astronomers saying things like this? Note: SETI = Search for Extraterrestrial Intelligence. A scientific approach using radio tel",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "A family was left shaken",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xuwutz/a_family_was_left_shaken/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-13T03:08:43+00:00",
+      "summary": "&#32; submitted by &#32; /u/SmokeMaximum4140 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Want to Share Your UFO Story on a Podcast?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xuqlt7/want_to_share_your_ufo_story_on_a_podcast/",
@@ -138,15 +201,6 @@
       "firsthand": false
     },
     {
-      "title": "Looking for Android testers for an AI-assisted UFO investigation app",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xuhm48/looking_for_android_testers_for_an_aiassisted_ufo/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T16:40:49+00:00",
-      "summary": "Hi everyone, I&#39;m an independent developer working on an Android app called Extraordinary Claims , and the moderators have kindly given me permission to recruit some testers here. The app uses AI-assisted research to investigate UFO/UAP reports, historical mysteries and other unusual claims. Rather than automatically believing or dismissing a claim, it examines: Available evidence and its reliability Sources and supporting information Historical comparisons and timelines A",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "UAP research website im building feedback request",
       "url": "https://www.reddit.com/r/UFOs/comments/1xud0uh/uap_research_website_im_building_feedback_request/",
       "source": "r/UFOs (community)",
@@ -162,15 +216,6 @@
       "publishedAt": "2026-11-12T13:18:40+00:00",
       "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
       "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "The Prince of The Power of the Air and the god of this Age(World); Connections to the Spiritual and Thoughts of UFO Insiders…Non Human Intelligences",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xuc5so/the_prince_of_the_power_of_the_air_and_the_god_of/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T13:00:55+00:00",
-      "summary": "In recent years, defense officials, intelligence insiders, and prominent UAP researchers (such as Luis Elizondo,David Grusch, Jacques Vallée, and the late John Keel) have shifted the UFO narrative away from simple &quot;extraterrestrial visitors from distant planets&quot; toward interdimensional, ultraterrestrial, extra-celestial, spiritual, or consciousness-based phenomena. “This wasn’t just a UFO story. It involved creatures, poltergeist activity, strange lights, and events",
-      "sourceType": "reddit",
       "firsthand": false
     },
     {
@@ -208,15 +253,6 @@
       "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
       "sourceType": "official",
       "firsthand": false
-    },
-    {
-      "title": "Three bright star-like lights in triangle formation faded then moved over Stoughton, MA — Nov 10, 2026, 6:35 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xu3b3b/three_bright_starlike_lights_in_triangle/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-12T04:25:09+00:00",
-      "summary": "Reported by u/JDubya001 (verified via ufosighting.report) This is an automated post. The report was filed through the structured sighting form on ufosighting.report and posted here by u/ufosightingsbot on the reporter&#39;s behalf. u/JDubya001 confirmed this submission from their own Reddit account through a one-time link, so the name above is verified as the submitter. 📄 Full report and structured details — the map entry, timeline, and everything from the sighting form. No p",
-      "sourceType": "reddit",
-      "firsthand": true
     },
     {
       "title": "Pulsating flash-like object with colorful plasma hovered steadily over Saint-Philippe, Quebec — Nov 11, 2026, 12:35 PM",
@@ -289,42 +325,6 @@
       "summary": "DesertThrottleDiaries writes: Stolen Valor: Jake Barber Washed Out of Combat Control. His DD-214 Proves It. He Served as a Mechanic at Pope. Now He Works for a Congressman. I am a USAF combat veteran. I served at Pope AFB. I was attached to JSOC. I have stood on that flight line around the same C-130s Barber’s unit flew. I know what the 41st Airlift Squadron actually did. I know what a real Combat Controller’s record looks like. I know what the pipeline actually costs the peo",
       "sourceType": "reddit",
       "firsthand": true
-    },
-    {
-      "title": "I mapped every incident in the 478 declassified PURSUE files. The files themselves explain only 24 of 351 reports.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xtmpmf/i_mapped_every_incident_in_the_478_declassified/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-11T16:46:02+00:00",
-      "summary": "Every PURSUE release so far (7 releases, 478 files, 11 agencies), every page transcribed (12,389), and each file classified by what the record itself concludes — not my opinion, not the AI&#39;s guesses. A few things that surprised me: 🔹 Only 24 of 351 incident reports name a mundane explanation as their finding. 187 say unresolved. 🔹 49 of the unresolved/open ones rest on witness testimony alone — no radar, no sensor data. 🔹 The 1952 Washington D.C. radar flap IS explained i",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "🚀 Upcoming Space Launches for November 11, 2026",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xte68n/upcoming_space_launches_for_november_11_2026/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-11T10:15:03+00:00",
-      "summary": "Here are the launches scheduled for the next 24 hours: Long March 2D | Unknown Payload Provider: China Aerospace Science and Technology Corporation Launch Time: 2026-11-11 11:40 UTC / 2026-11-11 06:40 AM EST Launch Pad: Jiuquan Satellite Launch Center, People&#39;s Republic of China Pad Country: CHN Falcon 9 Block 5 | USSF-627 Provider: SpaceX Launch Time: 2026-11-12 02:35 UTC / 2026-11-11 09:35 PM EST Launch Pad: Vandenberg SFB, CA, USA Pad Country: USA Visit RocketLaunch.Li",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Karl Nell among others stressed the importance of the Casimir effect in relation to UFO science. A new paper purports to a solution regarding Casimir.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xtcfof/karl_nell_among_others_stressed_the_importance_of/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-11T08:21:57+00:00",
-      "summary": "&#32; submitted by &#32; /u/VolarRecords [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-11T05:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
     }
   ]
 }
