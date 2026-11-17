@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 South Carolina Community Watch",
-  "updatedAt": "2026-11-17T13:28:45.140732+00:00",
+  "updatedAt": "2026-11-17T19:18:37.471664+00:00",
   "status": "unavailable",
   "notice": "Community RSS search snapshot for South Carolina and nearby areas. Posts may be jokes, speculation, reposts, or mistaken observations. Verify each original account, time, place, and media independently.",
   "feeds": [
@@ -18,6 +18,10 @@
     }
   ],
   "errors": [
+    {
+      "source": "r/UFOs (community)",
+      "message": "HTTP Error 404: Not Found"
+    },
     {
       "source": "r/UFOB (community reports)",
       "message": "HTTP Error 429: Too Many Requests"
