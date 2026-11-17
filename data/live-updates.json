@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-16T19:14:30.773050+00:00",
+  "updatedAt": "2026-11-17T01:29:28.897138+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,12 +57,66 @@
   ],
   "items": [
     {
-      "title": "Lake Cote UFO photo: definitely real - saw on Richard Dolan",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xxy6ca/lake_cote_ufo_photo_definitely_real_saw_on/",
+      "title": "1952 article about 4 pilots seeing saucers the Hanford atomic plant at Richlands, Washington",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xy6aez/1952_article_about_4_pilots_seeing_saucers_the/",
       "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-16T19:10:35+00:00",
-      "summary": "I was watching The Cote Photo on Richard Dolan and am intrigued. **What&#39;s known for certain** Time: September 4, 1971. Location: Costa Rican National Geographic Institute plane was mapping the Arenal region for a hydroelectric project. - Four crew: pilot Omar Arias, photographer Sergio Loaiza, geographer Juan Bravo, topographer Francisco Reyes. No one saw anything unusual during the flight. - RMK 15/23 aerial mapping camera, pointed straight down, firing automatically abo",
+      "publishedAt": "2026-11-17T00:35:38+00:00",
+      "summary": "Came across this while doing different research and thought I would share it. Source: https://www.newspapers.com/article/oakland-tribune-flying-saucers/210451214/ Oakland Tribune Oakland, California · Sunday, July 06, 1952 ‘Saucers’ Seen Over Atom Plant By Four Pilots Oakland Tribune — July 6, 1952 DENVER, Colo., July 5.—(UP)— Four Florida pilots, three of them World War II veterans, told today of seeing a “flying saucer” hovering over the Hanford atomic plant at Richlands, W",
       "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+      "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-16T23:12:45+00:00",
+      "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-16T22:05:23+00:00",
+      "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-16T20:30:40+00:00",
+      "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Six objects reported at 480 mph in a declassified military infrared video show brightness flicker at bird wingbeat rates",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xxzn87/six_objects_reported_at_480_mph_in_a_declassified/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-16T20:04:34+00:00",
+      "summary": "&#32; submitted by &#32; /u/eichfeldsalat [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "All the relevant UAP updates from Nov 9-15 2026",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xxzbnw/all_the_relevant_uap_updates_from_nov_915_2026/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-16T19:53:12+00:00",
+      "summary": "This past week in Disclosure: Oct 1 (published Nov 8) – Barber gives his first public account of why Skywatcher went quiet The Beyond Institute, a Stockholm research foundation, published its Oct 1 panel on civilian crash retrieval on Nov 8, with Jesse Michels moderating and Jake Barber joining remotely. A Part 1 of the evening went up on Nov 4. According to a summary of the exchange, Michels put Barber’s own earlier promise to him, that Skywatcher would have a UAP land withi",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "Sentinel-6B in Orbit Around Earth",
+      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-16T18:52:32+00:00",
+      "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+      "sourceType": "official",
       "firsthand": false
     },
     {
@@ -156,29 +210,11 @@
       "firsthand": false
     },
     {
-      "title": "White circular orb moved straight upward at high speed over Rahway, NJ — Nov 11, 2026, 11:46 AM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xxe4vu/white_circular_orb_moved_straight_upward_at_high/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-16T02:43:56+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "Is it all BS? Or trickle fed?",
       "url": "https://www.reddit.com/r/UFOs/comments/1xxbyj7/is_it_all_bs_or_trickle_fed/",
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-16T00:57:08+00:00",
       "summary": "Hello all. I would like some opinions from the general public. I can’t really talk about this stuff with friends, family, co-workers, etc. as they all just look at me like I have 3 heads and instantly dismiss everything so I figured I’d start a discussion here. Do you all believe the age of disclosure is truly upon us, and they are very very slowly trickle feeding us bits of information, files, etc. as to gradually ease us into it and not cause a massive shock to society? Or ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Has anyone run into anecdotes about UAPs being reason for FAA shutdown that point to US departments possibly spreading the rumors?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xx9st8/has_anyone_run_into_anecdotes_about_uaps_being/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-15T23:17:25+00:00",
-      "summary": "I found this sub because of an anecdote from real life that no one should trust coming from an online stranger, but I wanted to see if others had encountered anything similar to at least see if there&#39;s a pattern worth a reporter investigating. The anecdote was relayed by a less discerning relative who claims their in-law who used to work for the FBI said that the FAA shutdown occurred due to &quot;UFO sightings across the country.&quot; The only evidence they claimed was ",
       "sourceType": "reddit",
       "firsthand": false
     },
@@ -288,42 +324,6 @@
       "publishedAt": "2026-11-14T15:09:02+00:00",
       "summary": "Today’s the 22nd anniversary of the Nimitz “Tic Tac” incident. Most of you know the story: the USS Princeton sent Fravor and Dietrich to check out something on radar off San Diego. They looked down and saw a white, wingless object shaped like a Tic Tac, hovering over a patch of churning water. What got me curious was something Scott Bray (then Deputy Director of Naval Intelligence) said under oath in 2022. Asked for a case that’s still unexplained, he picked Nimitz and said: ",
       "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Whistleblower Says Contact Will Happen In 2027 And Gets Shadowbanned: Post Received Thousands and Thousands of Upvotes",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xw3uml/whistleblower_says_contact_will_happen_in_2027/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-14T14:33:57+00:00",
-      "summary": "I recently came across this post and thought it was well worth sharing. It was one of the top-rated posts of the year in that subreddit, and if this is a subject that interests you, I highly recommend taking the time to read through it. It presents some interesting information and makes several compelling points that are difficult to overlook. Considering everything that has unfolded over the past few weeks, particularly yesterday&#39;s airport groundings, I find myself wonde",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Triangle object moved straight and steady over Mercyhurst Ice Center, Erie PA — Nov 12, 2026, 11:23 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xvpxgu/triangle_object_moved_straight_and_steady_over/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-14T01:38:25+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Outbursts from a Massive Star",
-      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-13T16:39:33+00:00",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-13T16:05:54+00:00",
-      "summary": "Astronauts James A. Lovell Jr. and Edwin E. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of [&#8230;]",
-      "sourceType": "official",
       "firsthand": false
     }
   ]
