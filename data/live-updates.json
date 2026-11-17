@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-17T07:37:04.627084+00:00",
+  "updatedAt": "2026-11-17T13:28:45.140253+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -56,6 +56,15 @@
     }
   ],
   "items": [
+    {
+      "title": "They are here.",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xykdrk/they_are_here/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-17T13:25:37+00:00",
+      "summary": "Kumburgaz &#32; submitted by &#32; /u/codebreakerrr [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
     {
       "title": "Disputing Misconceptions about Plasmoid UFOs",
       "url": "https://www.reddit.com/r/UFOs/comments/1xyck68/disputing_misconceptions_about_plasmoid_ufos/",
@@ -287,15 +296,6 @@
       "source": "r/UFOs (community)",
       "publishedAt": "2026-11-15T12:05:01+00:00",
       "summary": "&#32; submitted by &#32; /u/TommyShelbyPFB [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "🚀 Upcoming Space Launches for November 15, 2026",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xws1f0/upcoming_space_launches_for_november_15_2026/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-15T10:15:02+00:00",
-      "summary": "Here are the launches scheduled for the next 24 hours: Vulcan VC6L | Amazon Leo (LV-01) Provider: United Launch Alliance Launch Time: 2026-11-15 17:11 UTC / 2026-11-15 12:11 PM EST Launch Pad: Cape Canaveral SFS, FL, USA Pad Country: USA Visit RocketLaunch.Live to view the full schedule for future planned launches. For more information about how to identify space launches and their effects, check out our Space Launches Wiki Page. Launch Example Image 1 - Launch Example Image ",
       "sourceType": "reddit",
       "firsthand": false
     },
