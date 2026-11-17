@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-17T01:29:28.897138+00:00",
+  "updatedAt": "2026-11-17T07:37:04.627084+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -57,6 +57,42 @@
   ],
   "items": [
     {
+      "title": "Disputing Misconceptions about Plasmoid UFOs",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xyck68/disputing_misconceptions_about_plasmoid_ufos/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-17T05:50:19+00:00",
+      "summary": "With all the orb UFO and plasma based phenomenon getting so much attention lately, I wanted to make a post to dispute some of the misconceptions and how these plasma + consciousness theories might be feeding into misdirection or directly disinformation. I see the same thing repeated over and over, in-fact some people seem to be on full-time keyword duty to push this narrative &quot;plasma self-organizes, therefore it&#39;s alive/sentient/intelligent.&quot; No, a thermostat se",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-17T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Milky Way [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-17T05:01:00+00:00",
+      "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "So my husband saw one",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xyai3c/so_my_husband_saw_one/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-17T03:58:34+00:00",
+      "summary": "My husband saw one while we were sitting out in our backyard. We were talking and then all of a sudden he looks up and is grabbing me by my shirt to stand and is telling me to look up. Then he starts frantically telling me what he saw: 7 warm lights in a forming a triangle (3 on top, 4 on the bottom), in the cloud line and silent. He said as soon as I stood it seemingly disappeared. I’m kinda disappointed because I’m the one usually talking about ufos and he is waaay less int",
+      "sourceType": "reddit",
+      "firsthand": false
+    },
+    {
       "title": "1952 article about 4 pilots seeing saucers the Hanford atomic plant at Richlands, Washington",
       "url": "https://www.reddit.com/r/UFOs/comments/1xy6aez/1952_article_about_4_pilots_seeing_saucers_the/",
       "source": "r/UFOs (community)",
@@ -82,6 +118,15 @@
       "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were […]",
       "sourceType": "official",
       "firsthand": false
+    },
+    {
+      "title": "This is a true story about an encounter in 1998. I was at home, trying to sleep, when something wild appeared outside my window. Time: 11pm, Location: Hardy, Arkansas",
+      "url": "https://www.reddit.com/r/UFOs/comments/1xy25z0/this_is_a_true_story_about_an_encounter_in_1998_i/",
+      "source": "r/UFOs (community)",
+      "publishedAt": "2026-11-16T21:41:08+00:00",
+      "summary": "&#32; submitted by &#32; /u/Overall-Importance54 [link] &#32; [comments]",
+      "sourceType": "reddit",
+      "firsthand": true
     },
     {
       "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
@@ -246,15 +291,6 @@
       "firsthand": false
     },
     {
-      "title": "[Lost Media Search] Looking for scans of Betty Luca's 1999 booklet \"Extraterrestrial Communications: A Step Beyond Tomorrow\" (Confirmed even Ray Fowler & NUFOHRC don't have a copy!)",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xwsqpm/lost_media_search_looking_for_scans_of_betty/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-15T10:59:46+00:00",
-      "summary": "Hey everyone, I&#39;m on a mission to track down a piece of late-90s contactee &quot;lost media&quot; that seems to have completely vanished from the internet, and I&#39;d love the community&#39;s help (happy to send PayPal / Buy Me a Coffee tips to anyone who can dig up scans!). The booklet details: * Title: Extraterrestrial Communications: A Step Beyond Tomorrow (Part I &amp; Part II) * Author: Betty Luca (Betty Andreasson Luca) * Origin: Self-published, mail-order booklet ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
       "title": "🚀 Upcoming Space Launches for November 15, 2026",
       "url": "https://www.reddit.com/r/UFOs/comments/1xws1f0/upcoming_space_launches_for_november_15_2026/",
       "source": "r/UFOs (community)",
@@ -289,42 +325,6 @@
       "summary": "Joseph Burkes MD “Each object produces a unique signature.” Introduction: In this report I describe a mechanism of contact with UFO associated non-human intelligence. From the many comments made on social media in response, I have learned that the topic of telepathic communication involving tinnitus is very difficult for Experiencers to discuss. This is due in part to the impact on the authorities’ de facto policy of ridicule and denial concerning Unidentified Anomalous Pheno",
       "sourceType": "reddit",
       "firsthand": true
-    },
-    {
-      "title": "Silent orange sphere hovered motionless over sports school in Salinas, Puerto Rico — Oct 5, 2026, 7:23 PM",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xwitvl/silent_orange_sphere_hovered_motionless_over/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-15T01:23:48+00:00",
-      "summary": "&#32; submitted by &#32; /u/ufosightingsbot [link] &#32; [comments]",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "Are you guys seeing all the UAP videos going around, which some say are responsible for FAA shutdown?",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xwi2uv/are_you_guys_seeing_all_the_uap_videos_going/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-15T00:45:32+00:00",
-      "summary": "https://youtube.com/shorts/6YLTIj7IX4E?si=9TyEIRS-WXgUU3Z9 I’m surprised that more of these have not been posted here. If you search on Instagram you will see all sorts of insane sightings in North and South America around Nov 13/14. Some of them were chalked up to a SpaceX launch that coincided (of course), but there were some more strange ones that I don’t think can be explained by this. What the hell is going on? Edit: mods removed my post because it wasn’t 300 characters.",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "EXCLUSIVES: Moskowitz & Garcia on future of UFO investigations under Democrats | “Working on that”",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xwb6x4/exclusives_moskowitz_garcia_on_future_of_ufo/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-14T19:35:28+00:00",
-      "summary": "Ask a Pol asks (see TRANSCRIPT I at Ask a Pol UAP on Substack): You know what’s going to happen with UAP investigation? Key Moskowitz: “I’m working on that,” Rep. Jared Moskowitz tells Ask a Pol . — Caught our ear (see TRANSCRIPT II on our Substack): We hear there’s talk of Democrats continuing the UAP investigation in the new year? “We’ll have more to say about that soon,” Rep. Robert Garcia — who is likely the next Chair of the House Oversight Committee — tells us after we ",
-      "sourceType": "reddit",
-      "firsthand": false
-    },
-    {
-      "title": "22 years ago today, Cmdr. David Fravor chased the “Tic Tac.” What happened to all the data? I went through every witness account to find out.",
-      "url": "https://www.reddit.com/r/UFOs/comments/1xw4nh4/22_years_ago_today_cmdr_david_fravor_chased_the/",
-      "source": "r/UFOs (community)",
-      "publishedAt": "2026-11-14T15:09:02+00:00",
-      "summary": "Today’s the 22nd anniversary of the Nimitz “Tic Tac” incident. Most of you know the story: the USS Princeton sent Fravor and Dietrich to check out something on radar off San Diego. They looked down and saw a white, wingless object shaped like a Tic Tac, hovering over a patch of churning water. What got me curious was something Scott Bray (then Deputy Director of Naval Intelligence) said under oath in 2022. Asked for a case that’s still unexplained, he picked Nimitz and said: ",
-      "sourceType": "reddit",
-      "firsthand": false
     }
   ]
 }
