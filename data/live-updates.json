@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-18T01:33:48.925172+00:00",
+  "updatedAt": "2026-11-18T07:34:30.374210+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -60,6 +60,24 @@
     }
   ],
   "items": [
+    {
+      "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-18T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Sierra Snow Season Spins Up",
+      "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-18T05:01:00+00:00",
+      "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "NASA Launches Nuclear Power Systems Student Contest",
       "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
@@ -129,24 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-17T17:06:07+00:00",
       "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-17T17:00:29+00:00",
-      "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Space Selfie",
-      "url": "https://www.nasa.gov/image-article/space-selfie-2/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-17T16:51:14+00:00",
-      "summary": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
       "sourceType": "official",
       "firsthand": false
     }
