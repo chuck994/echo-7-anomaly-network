@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-18T19:13:30.110453+00:00",
+  "updatedAt": "2026-11-19T01:29:56.962244+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -60,6 +60,15 @@
     }
   ],
   "items": [
+    {
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-18T22:19:17+00:00",
+      "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
       "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
@@ -138,15 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-17T22:02:48+00:00",
       "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-17T21:50:34+00:00",
-      "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
       "sourceType": "official",
       "firsthand": false
     }
