@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-19T01:29:56.962244+00:00",
+  "updatedAt": "2026-11-19T07:37:27.378261+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -60,6 +60,24 @@
     }
   ],
   "items": [
+    {
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-19T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "El Niño Rains Paint the Atacama",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
       "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
@@ -129,24 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-18T05:05:00+00:00",
       "summary": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Sierra Snow Season Spins Up",
-      "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-18T05:01:00+00:00",
-      "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Launches Nuclear Power Systems Student Contest",
-      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-17T22:02:48+00:00",
-      "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
       "sourceType": "official",
       "firsthand": false
     }
