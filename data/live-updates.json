@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-20T01:25:45.030704+00:00",
+  "updatedAt": "2026-11-20T07:35:15.077374+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -60,6 +60,24 @@
     }
   ],
   "items": [
+    {
+      "title": "APOD: 2026 November 20 – V-G-R",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-20T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "The Stormy Southwest Pacific",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-20T05:01:00+00:00",
+      "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "Challenge: Public Input on Life and the World in 2075",
       "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
@@ -129,24 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-18T22:19:17+00:00",
       "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-      "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-18T18:58:27+00:00",
-      "summary": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.&#160; However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-18T18:12:32+00:00",
-      "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     }
