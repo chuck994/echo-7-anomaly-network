@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-21T23:22:45.917464+00:00",
+  "updatedAt": "2026-11-22T06:56:45.205202+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -60,6 +60,15 @@
     }
   ],
   "items": [
+    {
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-22T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "APOD: 2026 November 21 – Voyager’s Neptune",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
@@ -138,15 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-19T15:33:55+00:00",
       "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Lake Pelku",
-      "url": "https://www.nasa.gov/image-article/lake-pelku/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-19T15:32:39+00:00",
-      "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     }
