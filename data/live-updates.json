@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-22T06:56:45.205202+00:00",
+  "updatedAt": "2026-11-22T19:44:48.605488+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -61,11 +61,20 @@
   ],
   "items": [
     {
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-22T19:13:25+00:00",
+      "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
       "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
       "source": "NASA News",
       "publishedAt": "2026-11-22T05:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors [&#8230;]",
+      "summary": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors on Jupiter from Juno Explanation: What creates the colors in Jupiter’s clouds? No one [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     },
@@ -74,7 +83,7 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
       "source": "NASA News",
       "publishedAt": "2026-11-21T05:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager&#8217;s Neptune Explanation: [&#8230;]",
+      "summary": "APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager&#8217;s Neptune Explanation: Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     },
@@ -138,15 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-19T19:34:20+00:00",
       "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-19T15:33:55+00:00",
-      "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
       "sourceType": "official",
       "firsthand": false
     }
