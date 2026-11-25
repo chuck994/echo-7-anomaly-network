@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-25T08:42:40.539408+00:00",
+  "updatedAt": "2026-11-25T21:45:04.138584+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -61,6 +61,51 @@
   ],
   "items": [
     {
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-25T19:06:56+00:00",
+      "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-25T17:53:42+00:00",
+      "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing points to strawberries, […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-25T16:47:29+00:00",
+      "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "Eye of the Sahara",
+      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-25T16:21:04+00:00",
+      "summary": "The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-25T14:56:54+00:00",
+      "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
       "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
       "source": "NASA News",
@@ -102,51 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-24T19:19:52+00:00",
       "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-24T19:09:16+00:00",
-      "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "AGU Hyperwall Schedule",
-      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-24T18:55:42+00:00",
-      "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Webb Reveals New Details in Supernova Remnant",
-      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-24T16:51:27+00:00",
-      "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
-      "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-24T15:44:38+00:00",
-      "summary": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during […]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-24T13:58:28+00:00",
-      "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
       "sourceType": "official",
       "firsthand": false
     }
