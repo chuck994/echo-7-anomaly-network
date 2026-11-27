@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-27T08:41:45.282455+00:00",
+  "updatedAt": "2026-11-27T21:22:30.035926+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -60,6 +60,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-27T15:01:00+00:00",
+      "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
+    {
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-27T14:22:00+00:00",
+      "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking […]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "APOD: 2026 November 27 – The Moon Watchers",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
@@ -129,24 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-25T16:21:04+00:00",
       "summary": "The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-25T14:56:54+00:00",
-      "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-25T05:05:00+00:00",
-      "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     }
