@@ -1,6 +1,6 @@
 {
   "title": "ECHO-7 Public Signal Feed",
-  "updatedAt": "2026-11-27T21:22:30.035926+00:00",
+  "updatedAt": "2026-11-28T07:55:11.488165+00:00",
   "status": "ok",
   "notice": "Automatically collected public RSS snapshots. Reddit/community posts are unverified leads, not confirmed sightings; firsthand-style labels are keyword hints, not identity verification.",
   "feeds": [
@@ -60,6 +60,15 @@
     }
   ],
   "items": [
+    {
+      "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+      "source": "NASA News",
+      "publishedAt": "2026-11-28T05:05:00+00:00",
+      "summary": "APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Apollo 17 VIP [&#8230;]",
+      "sourceType": "official",
+      "firsthand": false
+    },
     {
       "title": "Artemis III Astronaut Andre Douglas Visits VAB",
       "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
@@ -138,15 +147,6 @@
       "source": "NASA News",
       "publishedAt": "2026-11-25T16:47:29+00:00",
       "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” [&#8230;]",
-      "sourceType": "official",
-      "firsthand": false
-    },
-    {
-      "title": "Eye of the Sahara",
-      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
-      "source": "NASA News",
-      "publishedAt": "2026-11-25T16:21:04+00:00",
-      "summary": "The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]",
       "sourceType": "official",
       "firsthand": false
     }
